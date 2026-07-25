@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cv_cn",
+    "label": "中文学术简历",
+    "done": false
+  },
+  {
+    "id": "cv_en",
+    "label": "英文CV",
+    "done": false
+  },
+  {
+    "id": "papers",
+    "label": "论文首页、检索证明与投稿状态证明",
+    "done": false
+  },
+  {
+    "id": "plan",
+    "label": "博士研究计划书（通用版+导师定制版）",
+    "done": false
+  },
+  {
+    "id": "recs",
+    "label": "两封专家推荐信",
+    "done": false
+  },
+  {
+    "id": "cet",
+    "label": "英语六级成绩单",
+    "done": false
+  },
+  {
+    "id": "license",
+    "label": "执业医师资格证明",
+    "done": false
+  },
+  {
+    "id": "training",
+    "label": "规培在培/结业相关证明",
+    "done": false
+  },
+  {
+    "id": "transcript",
+    "label": "硕士成绩单与排名证明",
+    "done": false
+  },
+  {
+    "id": "award",
+    "label": "获奖、课题和实验技能证明",
+    "done": false
+  }
+]

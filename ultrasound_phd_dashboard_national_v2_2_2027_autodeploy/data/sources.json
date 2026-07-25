@@ -1,0 +1,394 @@
+[
+  {
+    "id": "bjmu_admission",
+    "school_id": "bjmu",
+    "school": "北京大学医学部",
+    "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/index.htm",
+    "official_domain": "bjmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "pumc_doctor",
+    "school_id": "pumc",
+    "school": "北京协和医学院",
+    "url": "https://graduate.pumc.edu.cn/zsw/bszs.htm",
+    "official_domain": "pumc.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "tsinghua_yz",
+    "school_id": "tsinghua",
+    "school": "清华大学",
+    "url": "https://yz.tsinghua.edu.cn/",
+    "official_domain": "tsinghua.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "fudan_shmc_doctor",
+    "school_id": "fudan_shmc",
+    "school": "复旦大学上海医学院",
+    "url": "https://gs-shmc.fudan.edu.cn/bszs_35408/list.htm",
+    "official_domain": "fudan.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "sjtu_grad",
+    "school_id": "sjtu_med",
+    "school": "上海交通大学医学院",
+    "url": "https://www.gs.sjtu.edu.cn/",
+    "official_domain": "sjtu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "tongji_yz",
+    "school_id": "tongji_med",
+    "school": "同济大学",
+    "url": "https://yz.tongji.edu.cn/",
+    "official_domain": "tongji.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "zju_med_admission",
+    "school_id": "zju_med",
+    "school": "浙江大学医学院",
+    "url": "https://www.cmm.zju.edu.cn/38716/listm.htm",
+    "official_domain": "zju.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "hust_union",
+    "school_id": "hust_union",
+    "school": "华中科技大学同济医学院附属协和医院",
+    "url": "https://www.whuh.com/yxjy/yjsjy/zsxx.htm",
+    "official_domain": "whuh.com",
+    "enabled": true
+  },
+  {
+    "id": "hust_tongji",
+    "school_id": "hust_tongji",
+    "school": "华中科技大学同济医学院附属同济医院",
+    "url": "https://www.tjh.com.cn/channels/296.html",
+    "official_domain": "tjh.com.cn",
+    "enabled": true
+  },
+  {
+    "id": "sysu_doctor",
+    "school_id": "sysu",
+    "school": "中山大学",
+    "url": "https://graduate.sysu.edu.cn/zsw/doctor",
+    "official_domain": "sysu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "scu_doctor",
+    "school_id": "scu_westchina",
+    "school": "四川大学",
+    "url": "https://yz.scu.edu.cn/zsxx/newslist/bs/zc",
+    "official_domain": "scu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "westchina_doctor",
+    "school_id": "scu_westchina",
+    "school": "四川大学华西临床医学院",
+    "url": "https://yjs.cd120.com/channels/412.html",
+    "official_domain": "cd120.com",
+    "enabled": true
+  },
+  {
+    "id": "sdu_yz",
+    "school_id": "sdu",
+    "school": "山东大学",
+    "url": "https://www.yz.sdu.edu.cn/",
+    "official_domain": "sdu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "sdu_qilu",
+    "school_id": "sdu_qilu",
+    "school": "山东大学齐鲁医学院",
+    "url": "https://qlyxjxgl.sdu.edu.cn/jxglbgs/yjsjiao/zsgz/bszs.htm",
+    "official_domain": "sdu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "njmu_doctor",
+    "school_id": "njmu",
+    "school": "南京医科大学",
+    "url": "https://yjszs.njmu.edu.cn/10188/listm.htm",
+    "official_domain": "njmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "seu_doctor",
+    "school_id": "seu",
+    "school": "东南大学",
+    "url": "https://yzb.seu.edu.cn/6677/list.htm",
+    "official_domain": "seu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "cqmu_yjs",
+    "school_id": "cqmu",
+    "school": "重庆医科大学",
+    "url": "https://yjsy.cqmu.edu.cn/",
+    "official_domain": "cqmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "uestc_yz",
+    "school_id": "uestc",
+    "school": "电子科技大学",
+    "url": "https://yz.uestc.edu.cn/",
+    "official_domain": "uestc.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "xjtu_yz",
+    "school_id": "xjtu",
+    "school": "西安交通大学",
+    "url": "https://yz.xjtu.edu.cn/",
+    "official_domain": "xjtu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "nankai_grad",
+    "school_id": "nankai",
+    "school": "南开大学",
+    "url": "https://graduate.nankai.edu.cn/",
+    "official_domain": "nankai.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "xzhmu_grad",
+    "school_id": "xzhmu",
+    "school": "徐州医科大学",
+    "url": "https://yjsy.xzhmu.edu.cn/",
+    "official_domain": "xzhmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "shu_yz",
+    "school_id": "shu",
+    "school": "上海大学",
+    "url": "https://yjszs.shu.edu.cn/",
+    "official_domain": "shu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "siat_admission",
+    "school_id": "siat",
+    "school": "中国科学院深圳先进技术研究院",
+    "url": "https://siat.cas.cn/yjsjy2016/zsjs2016/",
+    "official_domain": "cas.cn",
+    "enabled": true
+  },
+  {
+    "id": "ccmu_yjs",
+    "school_id": "ccmu",
+    "school": "首都医科大学",
+    "url": "https://yjsh.ccmu.edu.cn/zsxx/",
+    "official_domain": "ccmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "smu_yz",
+    "school_id": "smu",
+    "school": "南方医科大学",
+    "url": "https://portal.smu.edu.cn/yzw/",
+    "official_domain": "smu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "whu_gs",
+    "school_id": "whu",
+    "school": "武汉大学",
+    "url": "https://gs.whu.edu.cn/zsxx.htm",
+    "official_domain": "whu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "jnu_doctor",
+    "school_id": "jnu",
+    "school": "暨南大学",
+    "url": "https://yz.jnu.edu.cn/bszs/list.htm",
+    "official_domain": "jnu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "hrbmu_yjs",
+    "school_id": "hrbmu",
+    "school": "哈尔滨医科大学",
+    "url": "https://yjsgl.hrbmu.edu.cn/",
+    "official_domain": "hrbmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "dmu_yjs",
+    "school_id": "dmu",
+    "school": "大连医科大学",
+    "url": "https://yjs.dmu.edu.cn/",
+    "official_domain": "dmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "sxmu_yjs",
+    "school_id": "sxmu",
+    "school": "山西医科大学",
+    "url": "https://www.sxmu.edu.cn/yjs/",
+    "official_domain": "sxmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "immu_yjs",
+    "school_id": "immu",
+    "school": "内蒙古医科大学",
+    "url": "https://yjsxy.immu.edu.cn/",
+    "official_domain": "immu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "nju_yz",
+    "school_id": "nju_med",
+    "school": "南京大学",
+    "url": "https://grawww.nju.edu.cn/",
+    "official_domain": "nju.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "fzu_yjs",
+    "school_id": "fzu_med",
+    "school": "福州大学",
+    "url": "https://yjsy.fzu.edu.cn/",
+    "official_domain": "fzu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "ahmu_yjs",
+    "school_id": "ahmu",
+    "school": "安徽医科大学",
+    "url": "https://yjsxy.ahmu.edu.cn/zsxx/bszs.htm",
+    "official_domain": "ahmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "gdmu_yjs",
+    "school_id": "gdmu",
+    "school": "广东医科大学",
+    "url": "https://yjsxy.gdmu.edu.cn/1310/list.htm",
+    "official_domain": "gdmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_ccmu_tutors",
+    "school_id": "ccmu",
+    "school": "首都医科大学博士生导师库",
+    "url": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "official_domain": "yjsh.ccmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_pumch_ultrasound",
+    "school_id": "pumc",
+    "school": "北京协和医院超声医学科",
+    "url": "https://www.pumch.cn/department_chaoszdk.html",
+    "official_domain": "www.pumch.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_pku_cancer_tutors",
+    "school_id": "bjmu",
+    "school": "北京大学肿瘤医院导师团队",
+    "url": "https://teach.bjcancer.org/Html/Teachers/Overview.html",
+    "official_domain": "teach.bjcancer.org",
+    "enabled": true
+  },
+  {
+    "id": "src_pku_first_tutors",
+    "school_id": "bjmu",
+    "school": "北京大学第一医院导师风采",
+    "url": "https://www.pkufh.com/Html/Doctors/Main/Index_1645.html",
+    "official_domain": "www.pkufh.com",
+    "enabled": true
+  },
+  {
+    "id": "src_csu_2026",
+    "school_id": "csu_xiangya",
+    "school": "中南大学2026博士招生",
+    "url": "https://yz.csu.edu.cn/info/1012/1469.htm",
+    "official_domain": "yz.csu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_ncu_2026",
+    "school_id": "ncu_med",
+    "school": "南昌大学2026博士招生",
+    "url": "https://yjsy.ncu.edu.cn/info/1012/23996.htm",
+    "official_domain": "yjsy.ncu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_szu_2026",
+    "school_id": "szu_med",
+    "school": "深圳大学博士招生简章目录",
+    "url": "https://yz.szu.edu.cn/bszs/jzml.htm",
+    "official_domain": "yz.szu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_njmu_bmei",
+    "school_id": "njmu",
+    "school": "南京医科大学医工导师库",
+    "url": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "official_domain": "bmei.njmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_seu_bme",
+    "school_id": "seu",
+    "school": "东南大学生物医学工程导师库",
+    "url": "https://bme.seu.edu.cn/",
+    "official_domain": "bme.seu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_xjtu_tutors",
+    "school_id": "xjtu",
+    "school": "西安交通大学博士生导师",
+    "url": "https://www.xjtu.edu.cn/szdw/bssds.htm",
+    "official_domain": "www.xjtu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_gxmu_graduate",
+    "school_id": "gxmu",
+    "school": "广西医科大学研究生院",
+    "url": "https://yjs.gxmu.edu.cn/",
+    "official_domain": "yjs.gxmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "src_hebmu_graduate",
+    "school_id": "hebmu",
+    "school": "河北医科大学研究生学院",
+    "url": "https://gschool.hebmu.edu.cn/",
+    "official_domain": "gschool.hebmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "sdfmu_yz",
+    "school_id": "sdfmu_sph",
+    "school": "山东第一医科大学",
+    "url": "https://yz.sdfmu.edu.cn/bszs1/tzgg.htm",
+    "official_domain": "sdfmu.edu.cn",
+    "enabled": true
+  },
+  {
+    "id": "sph_doctor_admission",
+    "school_id": "sdfmu_sph",
+    "school": "山东第一医科大学附属省立医院",
+    "url": "https://www.sph.com.cn/Html/News/Columns/7/1.html",
+    "official_domain": "sph.com.cn",
+    "enabled": true
+  }
+]

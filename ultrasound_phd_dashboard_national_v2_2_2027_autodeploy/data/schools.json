@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "sdfmu_sph",
+    "name": "山东第一医科大学附属省立医院",
+    "province": "山东",
+    "city": "济南",
+    "level": [
+      "山东省重点建设医学高校",
+      "大型三级甲等医院",
+      "医学影像与核医学博士培养平台"
+    ],
+    "units": [
+      "附属省立医院",
+      "超声医学科",
+      "临床医学学术学位博士点"
+    ],
+    "degree_types": [
+      "学博：100207影像医学与核医学",
+      "专业博士：以年度目录为准"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "硕博连读",
+      "本科直博"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "山东第一医科大学2026年博士研究生招生章程及附属省立医院考核名单",
+    "latest_notice_date": "2025-12-22 / 2026-05-25",
+    "latest_notice_url": "https://yz.sdfmu.edu.cn/info/1034/3395.htm",
+    "policy_summary": "2026年博士培养含学术学位与专业学位；张华伟通过100207影像医学与核医学学博路径出现在附属省立医院2025、2026博士考核名单中。",
+    "requirements": [
+      "全日制非定向",
+      "报名前需确认导师年度计划",
+      "2027章程和目录尚未发布",
+      "专业代码与学位类型必须按年度目录核验"
+    ],
+    "quota": "导师个人最终录取名额未公开；考核名单人数不能直接视为招生名额。",
+    "match_score": 99,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "重点监控",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "sdfmu_yz",
+      "sph_doctor_admission"
+    ]
+  },
+  {
+    "id": "sdu_qilu",
+    "name": "山东大学齐鲁医院/齐鲁医学院",
+    "province": "山东",
+    "city": "济南",
+    "level": [
+      "985",
+      "211",
+      "双一流",
+      "区域顶级临床平台"
+    ],
+    "units": [
+      "第一临床学院",
+      "山东大学分子影像与超声医学研究中心"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核制"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026年齐鲁医学院临床医学博士研究生“申请-考核”招生工作通知",
+    "latest_notice_date": "2026-05",
+    "latest_notice_url": "https://qlyxjxgl.sdu.edu.cn/jxglbgs/yjsjiao/zsgz/bszs.htm",
+    "policy_summary": "齐鲁医学院公开申请-考核通知、考核安排和结果；对你而言地域、临床背景及纳米超声方向匹配度最高。",
+    "requirements": [
+      "尽早与导师确认2027是否招生",
+      "本校/本地竞争仍可能激烈"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 97,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "重点监控",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "sdu_qilu"
+    ]
+  },
+  {
+    "id": "sdu",
+    "name": "山东大学",
+    "province": "山东",
+    "city": "济南",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "齐鲁医学院",
+      "第一临床学院（齐鲁医院）",
+      "其他附属医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "硕博连读",
+      "直博"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "山东大学2026年招收攻读博士学位研究生章程",
+    "latest_notice_date": "2025-11-18",
+    "latest_notice_url": "https://www.yz.sdu.edu.cn/info/1022/1295.htm",
+    "policy_summary": "2026招收学术型和专业学位博士，报名系统分2025年12月和2026年4月等批次开放，具体以招生单位通知为准。",
+    "requirements": [
+      "本地平台和人脉衔接明显有利",
+      "需提高第一作者论文竞争力"
+    ],
+    "quota": "学校/专业目录可查考试招生计划；导师个人名额通常需确认。",
+    "match_score": 94,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "sdu_yz"
+    ]
+  },
+  {
+    "id": "xzhmu",
+    "name": "徐州医科大学",
+    "province": "江苏",
+    "city": "徐州",
+    "level": [
+      "省属重点医科大学"
+    ],
+    "units": [
+      "医学影像学院及附属医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度政策为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "超声医学学科自2015年开始博士招生，年度政策需以研究生院为准",
+    "latest_notice_date": "2025-09-15",
+    "latest_notice_url": "https://yxxy.xzhmu.edu.cn/info/1015/7880.htm",
+    "policy_summary": "超声医学、分子影像、纳米医学和生物材料的基础与临床转化方向与你高度匹配，竞争强度可能低于顶级985。",
+    "requirements": [
+      "核实2027导师名单与学位类型",
+      "关注附属医院具体培养平台"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 91,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "重点监控",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "xzhmu_grad"
+    ]
+  },
+  {
+    "id": "tongji_med",
+    "name": "同济大学医学院",
+    "province": "上海",
+    "city": "上海",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "上海市第十人民医院",
+      "同济大学医学院超声医学研究所"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度章程为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "同济大学2026博士招生信息需以研招网与医学院细则为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://yz.tongji.edu.cn/",
+    "policy_summary": "超声分子影像、人工智能与介入平台与你的研究经历高度匹配；2027具体政策待发布。",
+    "requirements": [
+      "优先核对导师当年招生资格",
+      "学博与专博目录需分开筛选"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 90,
+    "tier": "匹配",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "tongji_yz"
+    ]
+  },
+  {
+    "id": "cqmu",
+    "name": "重庆医科大学",
+    "province": "重庆",
+    "city": "重庆",
+    "level": [
+      "省部共建医学高校",
+      "超声医学传统强校"
+    ],
+    "units": [
+      "超声医学工程国家重点/国家工程平台相关学院与附属医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度政策为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026政策需以重庆医科大学研究生院最新公告为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://yjsy.cqmu.edu.cn/",
+    "policy_summary": "聚焦超声、超声分子影像和纳米诊疗方向与你高度匹配；2027导师资格和名额需重点核验。",
+    "requirements": [
+      "交叉方向可能偏工程/基础",
+      "临床专博与学博需分别核对"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 89,
+    "tier": "匹配",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "cqmu_yjs"
+    ]
+  },
+  {
+    "id": "sjtu_med",
+    "name": "上海交通大学医学院",
+    "province": "上海",
+    "city": "上海",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "瑞金医院",
+      "第六人民医院",
+      "第一人民医院等"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "硕博连读",
+      "直博"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "上海交通大学医学院2026年博士研究生招生简章",
+    "latest_notice_date": "2025",
+    "latest_notice_url": "https://www.gs.sjtu.edu.cn/post/detail/Z3MzMzU5",
+    "policy_summary": "2026招生简章已发布；2027政策尚未发布。附属医院的具体导师资格与计划需逐单位核验。",
+    "requirements": [
+      "重点核对医学院与校本部口径",
+      "名额可能受直博/硕博连读占用"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 88,
+    "tier": "冲刺",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "sjtu_grad"
+    ]
+  },
+  {
+    "id": "scu_westchina",
+    "name": "四川大学华西临床医学院/华西医院",
+    "province": "四川",
+    "city": "成都",
+    "level": [
+      "985",
+      "211",
+      "双一流",
+      "国家级临床平台"
+    ],
+    "units": [
+      "华西临床医学院",
+      "超声医学科",
+      "医学前沿科学中心"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "硕博连读"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "四川大学华西临床医学院2026年普通招考博士研究生招生简章",
+    "latest_notice_date": "2025-11-25",
+    "latest_notice_url": "https://yjs.cd120.com/contents/412/7052.html",
+    "policy_summary": "2026普通招考采用申请-考核；公开简章显示外语门槛可包括CET4≥425或认可的托福/雅思成绩。2027政策待发布。",
+    "requirements": [
+      "你的六级455满足已公开的基础英语水平，但需看2027是否变化",
+      "学术成果与专业条件按学科要求核验"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 87,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "scu_doctor",
+      "westchina_doctor"
+    ]
+  },
+  {
+    "id": "jnu",
+    "name": "暨南大学",
+    "province": "广东",
+    "city": "广州",
+    "level": [
+      "医学博士培养单位"
+    ],
+    "units": [
+      "第一临床医学院/附属第一医院"
+    ],
+    "degree_types": [
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026年博士招生信息/目录（以官方入口为准）",
+    "latest_notice_date": "2025-2026",
+    "latest_notice_url": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "policy_summary": "2026目录明确设置105124超声医学，专业计划3人。",
+    "requirements": [
+      "2027政策尚未发布",
+      "需以年度目录确认105124及导师资格"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 87,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "jnu_doctor"
+    ]
+  },
+  {
+    "id": "sysu",
+    "name": "中山大学及附属医院",
+    "province": "广东",
+    "city": "广州",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "附属第一医院",
+      "附属第三医院",
+      "肿瘤防治中心等"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "中山大学2026年博士研究生招生简章及招生学科专业目录",
+    "latest_notice_date": "2025-10-16",
+    "latest_notice_url": "https://graduate.sysu.edu.cn/zsw/doctor",
+    "policy_summary": "2026博士招生简章和目录已发布；附属医院通常再发布各自申请-考核细则。2027政策待发布。",
+    "requirements": [
+      "需同时阅读学校总章程与附属医院细则",
+      "目录人数可能为单位计划而非导师个人名额"
+    ],
+    "quota": "按目录/培养单位公布口径核对；导师个人名额多需邮件确认。",
+    "match_score": 86,
+    "tier": "冲刺",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "sysu_doctor"
+    ]
+  },
+  {
+    "id": "csu_xiangya",
+    "name": "中南大学湘雅医学院及附属医院",
+    "province": "湖南",
+    "city": "长沙",
+    "level": [
+      "985",
+      "211",
+      "双一流",
+      "顶级临床平台"
+    ],
+    "units": [
+      "湘雅医院",
+      "湘雅二医院",
+      "湘雅三医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "中南大学2026年博士研究生招生简章",
+    "latest_notice_date": "2025-11-26",
+    "latest_notice_url": "https://yz.csu.edu.cn/info/1012/1469.htm",
+    "policy_summary": "2026年分批报名，第二批专业目录会列出导师与计划。",
+    "requirements": [
+      "2027政策发布后重新核验",
+      "导师个人名额须直接确认"
+    ],
+    "quota": "培养单位/导师名额以年度目录为准。",
+    "match_score": 86,
+    "tier": "冲刺",
+    "source_level": "A",
+    "status": "持续监控",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "src_csu_2026"
+    ]
+  },
+  {
+    "id": "njmu",
+    "name": "南京医科大学",
+    "province": "江苏",
+    "city": "南京",
+    "level": [
+      "双一流建设高校（以官方最新认定为准）",
+      "省部共建医学平台"
+    ],
+    "units": [
+      "第一附属医院及其他附属医院",
+      "医学影像相关培养单位"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核/硕博连读（按批次）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "南京医科大学2026年全日制博士研究生招生补充第三批次报考通知",
+    "latest_notice_date": "2026-06-22",
+    "latest_notice_url": "https://yjszs.njmu.edu.cn/10188/listm.htm",
+    "policy_summary": "2026年仍有补充批次与专项计划通知，说明需要持续监控而不是只看首轮简章。",
+    "requirements": [
+      "不同批次适用人群不同",
+      "你不接受定向/非全日制，筛选时需排除"
+    ],
+    "quota": "专项和补充计划按通知公布；导师个人名额需确认。",
+    "match_score": 85,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "njmu_doctor",
+      "src_njmu_bmei"
+    ]
+  },
+  {
+    "id": "nju_med",
+    "name": "南京大学医学院/鼓楼医院",
+    "province": "江苏",
+    "city": "南京",
+    "level": [
+      "医学博士培养单位"
+    ],
+    "units": [
+      "南京鼓楼医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核制"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026年博士招生信息/目录（以官方入口为准）",
+    "latest_notice_date": "2025-2026",
+    "latest_notice_url": "https://grawww.nju.edu.cn/",
+    "policy_summary": "临床与医工交叉导师资源突出，需核对超声方向年度目录。",
+    "requirements": [
+      "2027政策尚未发布",
+      "需以年度目录确认105124及导师资格"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 84,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "nju_yz"
+    ]
+  },
+  {
+    "id": "siat",
+    "name": "中国科学院深圳先进技术研究院",
+    "province": "广东",
+    "city": "深圳",
+    "level": [
+      "中国科学院科研平台"
+    ],
+    "units": [
+      "医学成像科学与技术系统重点实验室等"
+    ],
+    "degree_types": [
+      "学博"
+    ],
+    "admission_methods": [
+      "申请-考核/统考（以国科大年度政策为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026招生信息需以深圳先进院/国科大招生公告为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://siat.cas.cn/yjsjy2016/zsjs2016/",
+    "policy_summary": "超声分子影像、合成生物学、纳米诊疗与转化研究强，但不是临床医学专博路径。",
+    "requirements": [
+      "适合科研型学博",
+      "毕业后临床岗位需结合医学学历与执业背景评估"
+    ],
+    "quota": "课题组名额需直接确认。",
+    "match_score": 83,
+    "tier": "匹配",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "siat_admission"
+    ]
+  },
+  {
+    "id": "seu",
+    "name": "东南大学",
+    "province": "江苏",
+    "city": "南京",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "医学院",
+      "附属中大医院",
+      "生物科学与医学工程学院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "硕博连读",
+      "直博"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "东南大学2026年部分全日制博士研究生（含专项）招生报名通知",
+    "latest_notice_date": "2026-06-02",
+    "latest_notice_url": "https://yzb.seu.edu.cn/2026/0602/c6677a569837/page.htm",
+    "policy_summary": "2026补充选拔包括硕博连读和申请考核，部分计划要求报名前确认余额并取得导师同意。医工交叉方向值得重点关注。",
+    "requirements": [
+      "医学院与生医工学院申请逻辑不同",
+      "需确认毕业后临床就业衔接"
+    ],
+    "quota": "补充通知可能列出专业/计划数；导师个人常需确认。",
+    "match_score": 83,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "seu_doctor",
+      "src_seu_bme"
+    ]
+  },
+  {
+    "id": "shu",
+    "name": "上海大学（纳米医学/超声诊疗交叉）",
+    "province": "上海",
+    "city": "上海",
+    "level": [
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "材料、生物医学工程与纳米医学相关团队"
+    ],
+    "degree_types": [
+      "学博"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度政策为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026招生信息需以上海大学研招网为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://yjszs.shu.edu.cn/",
+    "policy_summary": "纳米材料和超声诊疗基础研究高度匹配，但临床训练和医学博士学位衔接需谨慎评估。",
+    "requirements": [
+      "更适合学术科研路线",
+      "若目标是三甲超声临床岗位，需确认招聘认可度"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 82,
+    "tier": "匹配",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "shu_yz"
+    ]
+  },
+  {
+    "id": "fudan_shmc",
+    "name": "复旦大学上海医学院",
+    "province": "上海",
+    "city": "上海",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "临床医学院",
+      "中山医院",
+      "华山医院等附属医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "硕博连读"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "复旦大学临床医学院2026年博士研究生招生“申请-考核”制选拔办法",
+    "latest_notice_date": "2025-11-07",
+    "latest_notice_url": "https://gs-shmc.fudan.edu.cn/86/ca/c39524a755402/page.htm",
+    "policy_summary": "2026临床医学院发布申请-考核制办法；临床/口腔专业学位博士为全日制培养。2027政策尚未发布。",
+    "requirements": [
+      "临床专业学位条件需结合执业、规培和培养单位细则核对",
+      "学术成果要求以院系办法为准"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 82,
+    "tier": "冲刺",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "fudan_shmc_doctor"
+    ]
+  },
+  {
+    "id": "bjmu",
+    "name": "北京大学医学部",
+    "province": "北京",
+    "city": "北京",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "北京大学人民医院",
+      "北京大学未来技术学院/工学院交叉方向",
+      "北京大学第一医院",
+      "北京大学第三医院",
+      "北京大学肿瘤医院",
+      "北京大学药学院/未来技术学院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "硕博连读",
+      "直博"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "北京大学医学部2026年博士研究生招生简章",
+    "latest_notice_date": "2025-10-10",
+    "latest_notice_url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/c1c194ca3d6b4e319c16c22006fb7d26.htm",
+    "policy_summary": "覆盖北大医学部多个附属医院及超声、药学、医工交叉导师；须按培养单位和年度目录分别核验。",
+    "requirements": [
+      "具体外语、论文及临床条件以培养单位细则为准",
+      "建议申请前联系导师/团队确认名额"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 82,
+    "tier": "冲刺",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "bjmu_admission",
+      "src_pku_cancer_tutors",
+      "src_pku_first_tutors"
+    ]
+  },
+  {
+    "id": "uestc",
+    "name": "电子科技大学医学院/附属肿瘤医院",
+    "province": "四川",
+    "city": "成都",
+    "level": [
+      "985",
+      "211",
+      "双一流",
+      "医工交叉平台"
+    ],
+    "units": [
+      "四川省肿瘤医院/电子科技大学附属肿瘤医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度政策为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026招生信息需以电子科技大学研招网为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://yz.uestc.edu.cn/",
+    "policy_summary": "肿瘤超声、超声分子影像、介入消融与医工交叉平台较强。",
+    "requirements": [
+      "确认医学学位类别与执业/规培衔接",
+      "导师招生归属需核对"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 82,
+    "tier": "匹配",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "uestc_yz"
+    ]
+  },
+  {
+    "id": "sxmu",
+    "name": "山西医科大学",
+    "province": "山西",
+    "city": "太原",
+    "level": [
+      "医学博士培养单位"
+    ],
+    "units": [
+      "医学影像学院",
+      "第一医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度章程为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026年博士招生信息/目录（以官方入口为准）",
+    "latest_notice_date": "2025-2026",
+    "latest_notice_url": "https://www.sxmu.edu.cn/yjs/",
+    "policy_summary": "官方导师页面可核验超声学博和专博导师。",
+    "requirements": [
+      "2027政策尚未发布",
+      "需以年度目录确认105124及导师资格"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 82,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "sxmu_yjs"
+    ]
+  },
+  {
+    "id": "dmu",
+    "name": "大连医科大学",
+    "province": "辽宁",
+    "city": "大连",
+    "level": [
+      "医学博士培养单位"
+    ],
+    "units": [
+      "医学影像学院",
+      "附属第一医院",
+      "附属第二医院"
+    ],
+    "degree_types": [
+      "专博",
+      "学博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核制"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026年博士招生信息/目录（以官方入口为准）",
+    "latest_notice_date": "2025-2026",
+    "latest_notice_url": "https://yjs.dmu.edu.cn/",
+    "policy_summary": "官方页面确认超声医学专博培养与导师。",
+    "requirements": [
+      "2027政策尚未发布",
+      "需以年度目录确认105124及导师资格"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 82,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "dmu_yjs"
+    ]
+  },
+  {
+    "id": "hrbmu",
+    "name": "哈尔滨医科大学",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "level": [
+      "医学博士培养单位"
+    ],
+    "units": [
+      "附属第二医院",
+      "附属第四医院",
+      "附属肿瘤医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核制/普通招考（以年度章程为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026年博士招生信息/目录（以官方入口为准）",
+    "latest_notice_date": "2025-2026",
+    "latest_notice_url": "https://yjsgl.hrbmu.edu.cn/",
+    "policy_summary": "多个附属医院公开有超声医学博士生导师，需逐年核对招生目录。",
+    "requirements": [
+      "2027政策尚未发布",
+      "需以年度目录确认105124及导师资格"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 82,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "hrbmu_yjs"
+    ]
+  },
+  {
+    "id": "hust_union",
+    "name": "华中科技大学同济医学院附属协和医院",
+    "province": "湖北",
+    "city": "武汉",
+    "level": [
+      "985",
+      "211",
+      "双一流",
+      "国家级临床平台"
+    ],
+    "units": [
+      "第一临床学院（协和医院）"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "临床转博",
+      "硕博连读/直博"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "华中科技大学2026年博士研究生招生简章（含协和医院报考说明）",
+    "latest_notice_date": "2026-01-05",
+    "latest_notice_url": "https://www.whuh.com/yxjy/yjsjy/zsxx.htm",
+    "policy_summary": "2026学校博士招生包含申请-考核、硕博连读/临床转博和直博；协和医院另有学科联系方式与期刊认定目录。",
+    "requirements": [
+      "权威期刊认定可能影响材料初审",
+      "具体临床专业条件看医院说明"
+    ],
+    "quota": "学校总计划公开但导师个人名额未公开。",
+    "match_score": 81,
+    "tier": "冲刺",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "hust_union"
+    ]
+  },
+  {
+    "id": "xjtu",
+    "name": "西安交通大学",
+    "province": "陕西",
+    "city": "西安",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "第一附属医院",
+      "生命科学与技术学院/生物医学工程方向"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核",
+      "硕博连读",
+      "直博"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026招生信息需以西安交通大学研招网为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://yz.xjtu.edu.cn/",
+    "policy_summary": "生物医学超声、聚焦超声、声空化与超声操控方向适合你的材料与超声治疗经历。",
+    "requirements": [
+      "工程方向可能不授临床医学博士",
+      "就业目标为三甲临床时需权衡学位类型"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 81,
+    "tier": "匹配",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "xjtu_yz",
+      "src_xjtu_tutors"
+    ]
+  },
+  {
+    "id": "nankai",
+    "name": "南开大学医学院及合作医院",
+    "province": "天津",
+    "city": "天津",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "解放军总医院相关导师合作",
+      "天津市第三中心医院等"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度政策为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026招生信息需以南开大学研究生招生网为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://graduate.nankai.edu.cn/",
+    "policy_summary": "介入超声、肿瘤消融、影像导航与超声造影方向可重点关注。",
+    "requirements": [
+      "导师任职单位与招生依托单位可能不同",
+      "需核对全日制名额"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 80,
+    "tier": "匹配",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "nankai_grad"
+    ]
+  },
+  {
+    "id": "zju_med",
+    "name": "浙江大学医学院",
+    "province": "浙江",
+    "city": "杭州",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "医学院及附属医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "普通招考",
+      "硕博连读",
+      "直博（具体实行申请评价）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "浙江大学医学院2026年博士研究生招生简章",
+    "latest_notice_date": "2025-10-17",
+    "latest_notice_url": "https://www.cmm.zju.edu.cn/2025/1017/c58749a3092933/pagem.htm",
+    "policy_summary": "2026医学院招生简章已发布；普通招考按学院要求提交材料，报名阶段通常先选学院/专业/方向。2027政策待发布。",
+    "requirements": [
+      "具体导师选择节点需看当年系统和学院通知",
+      "英语与成果条件按医学院细则核验"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 80,
+    "tier": "冲刺",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "zju_med_admission"
+    ]
+  },
+  {
+    "id": "hust_tongji",
+    "name": "华中科技大学同济医学院附属同济医院",
+    "province": "湖北",
+    "city": "武汉",
+    "level": [
+      "985",
+      "211",
+      "双一流",
+      "国家级临床平台"
+    ],
+    "units": [
+      "第二临床学院（同济医院）"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "硕博连读/临床转博",
+      "直博"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "同济医院2026年具有研究生导师任职资格名单",
+    "latest_notice_date": "2025-12-19",
+    "latest_notice_url": "https://www.tjh.com.cn/channels/296.html",
+    "policy_summary": "同济医院会发布年度导师任职资格名单；这是判断导师当年是否可招生的重要来源。",
+    "requirements": [
+      "必须以年度招生资格名单为准",
+      "导师主页长期有效不等于当年有名额"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 80,
+    "tier": "冲刺",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "hust_tongji"
+    ]
+  },
+  {
+    "id": "fzu_med",
+    "name": "福州大学医学院/附属省立医院",
+    "province": "福建",
+    "city": "福州",
+    "level": [
+      "医学/医工博士培养平台"
+    ],
+    "units": [
+      "医学院",
+      "附属省立医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核制/普通招考（以年度章程为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026博士招生信息（以官方入口为准）",
+    "latest_notice_date": "2026",
+    "latest_notice_url": "https://yjsy.fzu.edu.cn/",
+    "policy_summary": "有超声新技术和介入超声导师以生物与医药博士方向招生。",
+    "requirements": [
+      "2027政策尚未发布",
+      "需核对超声方向的学位类别和导师年度资格"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 80,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "fzu_yjs"
+    ]
+  },
+  {
+    "id": "smu",
+    "name": "南方医科大学",
+    "province": "广东",
+    "city": "广州",
+    "level": [
+      "省部共建重点医学高校"
+    ],
+    "units": [
+      "南方医院、珠江医院等"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度政策为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026招生信息需以南方医科大学研招网为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://portal.smu.edu.cn/yzw/",
+    "policy_summary": "肿瘤超声、介入和临床资源较强，珠三角就业平台有优势。",
+    "requirements": [
+      "核对全日制与定向类型",
+      "研究方向匹配度取决于具体导师"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 79,
+    "tier": "匹配",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "smu_yz"
+    ]
+  },
+  {
+    "id": "gdmu",
+    "name": "广东医科大学",
+    "province": "广东",
+    "city": "湛江/东莞",
+    "level": [
+      "医学/医工博士培养平台"
+    ],
+    "units": [
+      "第一临床医学院",
+      "第二临床医学院及附属医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核制/普通招考（以年度章程为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026博士招生信息（以官方入口为准）",
+    "latest_notice_date": "2026",
+    "latest_notice_url": "https://yjsxy.gdmu.edu.cn/",
+    "policy_summary": "2026年全日制博士申请-考核目录已发布，超声相关导师需持续从附件核验。",
+    "requirements": [
+      "2027政策尚未发布",
+      "需核对超声方向的学位类别和导师年度资格"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 79,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "gdmu_yjs"
+    ]
+  },
+  {
+    "id": "pumc",
+    "name": "北京协和医学院",
+    "province": "北京",
+    "city": "北京",
+    "level": [
+      "双一流",
+      "国家级医学平台"
+    ],
+    "units": [
+      "中国医学科学院相关研究所",
+      "中日友好医院超声医学科",
+      "中日友好医院（部分导师在协和导师库）",
+      "北京协和医院",
+      "北京协和医院超声医学科"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "北京协和医学院2026年“申请-考核”博士研究生招生简章",
+    "latest_notice_date": "2025-11-13",
+    "latest_notice_url": "https://graduate.pumc.edu.cn/zsw/info/1004/2130.htm",
+    "policy_summary": "2026年实行申请-考核，报名系统于2025-12-01 10:00至2025-12-26 10:00开放；导师目录另行公布。2027政策尚未发布。",
+    "requirements": [
+      "学术与专业学位均有，具体专业目录需逐年核对",
+      "竞争非常激烈"
+    ],
+    "quota": "学校计划以教育部最终下达为准；导师个人名额未公开。",
+    "match_score": 78,
+    "tier": "冲刺",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "pumc_doctor",
+      "src_pumch_ultrasound"
+    ]
+  },
+  {
+    "id": "ccmu",
+    "name": "首都医科大学",
+    "province": "北京",
+    "city": "北京",
+    "level": [
+      "北京市重点医学高校"
+    ],
+    "units": [
+      "北京儿童医院",
+      "北京友谊医院",
+      "北京同仁医院",
+      "北京天坛医院",
+      "北京妇产医院",
+      "北京安贞医院",
+      "北京朝阳医院",
+      "宣武医院",
+      "宣武医院、北京友谊医院、北京天坛医院等附属医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度政策为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026招生信息需以首都医科大学研究生院为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://yjsh.ccmu.edu.cn/zsxx/",
+    "policy_summary": "附属医院多、临床平台强，需逐院筛选超声导师和专业代码。",
+    "requirements": [
+      "竞争较强",
+      "导师分布分散，需要逐院核验"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 78,
+    "tier": "冲刺",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "ccmu_yjs",
+      "src_ccmu_tutors"
+    ]
+  },
+  {
+    "id": "ahmu",
+    "name": "安徽医科大学",
+    "province": "安徽",
+    "city": "合肥",
+    "level": [
+      "医学/医工博士培养平台"
+    ],
+    "units": [
+      "各临床医学院及附属医院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-考核制/普通招考（以年度章程为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026博士招生信息（以官方入口为准）",
+    "latest_notice_date": "2026",
+    "latest_notice_url": "https://yjsxy.ahmu.edu.cn/",
+    "policy_summary": "2026年发布博士招生导师资格名单，超声方向需从附件和培养单位继续核验。",
+    "requirements": [
+      "2027政策尚未发布",
+      "需核对超声方向的学位类别和导师年度资格"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 78,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "ahmu_yjs"
+    ]
+  },
+  {
+    "id": "ncu_med",
+    "name": "南昌大学医学院及附属医院",
+    "province": "江西",
+    "city": "南昌",
+    "level": [
+      "双一流",
+      "部省合建"
+    ],
+    "units": [
+      "第一附属医院超声医学科"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核制"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "南昌大学2026年博士研究生招生简章",
+    "latest_notice_date": "2025-11-07",
+    "latest_notice_url": "https://yjsy.ncu.edu.cn/info/1012/23996.htm",
+    "policy_summary": "全校博士全面实行申请-考核制，临床专博须提交执业医师资格证明。",
+    "requirements": [
+      "2027政策发布后重新核验",
+      "导师个人名额须直接确认"
+    ],
+    "quota": "培养单位/导师名额以年度目录为准。",
+    "match_score": 78,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "持续监控",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "src_ncu_2026"
+    ]
+  },
+  {
+    "id": "immu",
+    "name": "内蒙古医科大学",
+    "province": "内蒙古",
+    "city": "呼和浩特",
+    "level": [
+      "医学博士培养单位"
+    ],
+    "units": [
+      "附属医院及临床医学院"
+    ],
+    "degree_types": [
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核/普通招考（以年度章程为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026年博士招生信息/目录（以官方入口为准）",
+    "latest_notice_date": "2025-2026",
+    "latest_notice_url": "https://yjsxy.immu.edu.cn/",
+    "policy_summary": "年度目录出现105124超声医学，导师与名额需逐年复核。",
+    "requirements": [
+      "2027政策尚未发布",
+      "需以年度目录确认105124及导师资格"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 77,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "immu_yjs"
+    ]
+  },
+  {
+    "id": "gxmu",
+    "name": "广西医科大学及附属医院",
+    "province": "广西",
+    "city": "南宁",
+    "level": [
+      "省部共建",
+      "区域医学中心"
+    ],
+    "units": [
+      "第一附属医院",
+      "生命科学研究院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "admission_methods": [
+      "申请-考核制"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "广西医科大学2026年博士招生信息入口",
+    "latest_notice_date": "2026",
+    "latest_notice_url": "https://yjs.gxmu.edu.cn/",
+    "policy_summary": "区域超声与声动力/AI交叉方向值得关注。",
+    "requirements": [
+      "2027政策发布后重新核验",
+      "导师个人名额须直接确认"
+    ],
+    "quota": "培养单位/导师名额以年度目录为准。",
+    "match_score": 77,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "持续监控",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "src_gxmu_graduate"
+    ]
+  },
+  {
+    "id": "whu",
+    "name": "武汉大学医学部及附属医院",
+    "province": "湖北",
+    "city": "武汉",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "人民医院、中南医院等"
+    ],
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "admission_methods": [
+      "申请-考核/硕博连读（以年度政策为准）"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026招生信息需以武汉大学研究生院及培养单位为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://gs.whu.edu.cn/zsxx.htm",
+    "policy_summary": "心脏超声、介入和临床平台可关注，纳米材料匹配度需看具体团队。",
+    "requirements": [
+      "各附属医院细则不同",
+      "导师当年招生资格需确认"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 77,
+    "tier": "匹配",
+    "source_level": "B",
+    "status": "监控中",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "whu_gs"
+    ]
+  },
+  {
+    "id": "tsinghua",
+    "name": "清华大学（医学院/清华长庚/医工交叉）",
+    "province": "北京",
+    "city": "北京",
+    "level": [
+      "985",
+      "211",
+      "双一流"
+    ],
+    "units": [
+      "北京清华长庚医院",
+      "医学院",
+      "生物医学工程相关院系"
+    ],
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "admission_methods": [
+      "申请-审核/综合考核",
+      "硕博连读",
+      "直博"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "2026招生信息需以清华研招网及院系细则为准",
+    "latest_notice_date": "",
+    "latest_notice_url": "https://yz.tsinghua.edu.cn/",
+    "policy_summary": "2027政策未发布；医学院、医院与生物医学工程方向需分院系监控。",
+    "requirements": [
+      "不同院系条件差异大",
+      "非全日制项目不纳入你的推荐范围"
+    ],
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "match_score": 76,
+    "tier": "冲刺",
+    "source_level": "B",
+    "status": "待核实",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "tsinghua_yz"
+    ]
+  },
+  {
+    "id": "szu_med",
+    "name": "深圳大学医学部",
+    "province": "广东",
+    "city": "深圳",
+    "level": [
+      "双一流建设高校",
+      "医工交叉"
+    ],
+    "units": [
+      "生物医学工程学院"
+    ],
+    "degree_types": [
+      "工学学博"
+    ],
+    "admission_methods": [
+      "申请-考核制",
+      "硕博连读"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "深圳大学2026年博士研究生招生章程与专业目录",
+    "latest_notice_date": "2026-01-22",
+    "latest_notice_url": "https://yz.szu.edu.cn/bszs/jzml.htm",
+    "policy_summary": "适合医学超声工程、成像硬件和算法方向，学位通常非临床医学。",
+    "requirements": [
+      "2027政策发布后重新核验",
+      "导师个人名额须直接确认"
+    ],
+    "quota": "培养单位/导师名额以年度目录为准。",
+    "match_score": 75,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "持续监控",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "src_szu_2026"
+    ]
+  },
+  {
+    "id": "cuhksz_med",
+    "name": "香港中文大学（深圳）医学院及合作医院",
+    "province": "广东",
+    "city": "深圳",
+    "level": [
+      "国际化医学院",
+      "合作培养"
+    ],
+    "units": [
+      "深圳市龙岗区人民医院集团"
+    ],
+    "degree_types": [
+      "联合培养/学位类型待确认"
+    ],
+    "admission_methods": [
+      "以年度项目为准"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "医学院导师与招生入口",
+    "latest_notice_date": "2026",
+    "latest_notice_url": "https://med.cuhk.edu.cn/",
+    "policy_summary": "部分临床客座教师标注博士生导师，但具体招生归属和学位类型必须单独确认。",
+    "requirements": [
+      "2027政策发布后重新核验",
+      "导师个人名额须直接确认"
+    ],
+    "quota": "培养单位/导师名额以年度目录为准。",
+    "match_score": 73,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "持续监控",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": []
+  },
+  {
+    "id": "hebmu",
+    "name": "河北医科大学及附属医院",
+    "province": "河北",
+    "city": "石家庄",
+    "level": [
+      "省属重点医科大学"
+    ],
+    "units": [
+      "第二医院超声科",
+      "医学影像学院"
+    ],
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "admission_methods": [
+      "申请-考核制/年度通知为准"
+    ],
+    "latest_policy_year": 2026,
+    "latest_notice_title": "河北医科大学博士招生入口",
+    "latest_notice_date": "2026",
+    "latest_notice_url": "https://gschool.hebmu.edu.cn/",
+    "policy_summary": "超声博士培养信息公开较分散，需要导师页与年度目录交叉核验。",
+    "requirements": [
+      "2027政策发布后重新核验",
+      "导师个人名额须直接确认"
+    ],
+    "quota": "培养单位/导师名额以年度目录为准。",
+    "match_score": 70,
+    "tier": "匹配",
+    "source_level": "A",
+    "status": "持续监控",
+    "verified_at": "2026-07-25",
+    "monitor_source_ids": [
+      "src_hebmu_graduate"
+    ]
+  }
+]

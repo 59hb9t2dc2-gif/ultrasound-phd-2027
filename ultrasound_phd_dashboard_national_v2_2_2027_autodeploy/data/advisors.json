@@ -1,0 +1,6971 @@
+[
+  {
+    "id": "zhang_huawei_sph",
+    "name": "张华伟",
+    "gender": "男",
+    "title": "主任医师、医学博士、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "山东第一医科大学",
+    "hospital": "山东第一医科大学附属省立医院（山东省立医院）",
+    "department": "超声医学科",
+    "province": "山东",
+    "city": "济南",
+    "degree_types": [
+      "学博"
+    ],
+    "admission_track": "超声学博",
+    "program_code": "100207",
+    "program_name": "影像医学与核医学",
+    "program_direction": "超声方向；医院年度考核名单标注为“不区分研究方向”",
+    "research_tags": [
+      "浅表器官超声",
+      "乳腺超声",
+      "甲状腺超声",
+      "介入超声",
+      "超声造影",
+      "超声消融",
+      "超声微泡和纳米材料",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "浅表器官尤其乳腺、甲状腺超声诊断与介入治疗，开展乳腺超声造影、乳腺旋切及甲状腺消融；你目前在其团队开展超声介导肿瘤纳米诊疗与免疫治疗，方向与培养关系高度匹配。",
+    "projects": "医院官网公开信息显示主持国家自然科学基金面上项目1项、山东省自然科学基金面上项目1项及博士基金1项；发表SCI论文多篇，官网所列最高影响因子15.1。",
+    "email": "未公开，建议通过超声医学科或医院教学部联系",
+    "email_source": "医院官方专家主页未公开个人邮箱",
+    "homepage": "https://www.sph.com.cn/Html/Doctors/Main/Index_2296.html",
+    "secondary_source": "https://www.sph.com.cn/Html/News/Articles/38428.html",
+    "admission_source": "https://yz.sdfmu.edu.cn/info/1034/3395.htm",
+    "match_score": 99,
+    "tier": "匹配",
+    "advantages": [
+      "现导师与现培养团队，研究经历和推荐关系高度匹配",
+      "100207影像医学与核医学学博路径已有连续年度招生证据",
+      "浅表、介入、超声造影及肿瘤纳米诊疗与个人背景契合",
+      "本地三甲平台及临床就业衔接强"
+    ],
+    "risks": [
+      "2027个人招生计划尚未发布",
+      "进入考核人数不等于最终录取名额",
+      "是否继续招收本团队硕士需提前直接确认"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2025、2026年度博士考核名单均有报考记录；2027名额待确认",
+    "coverage_class": "年度考核名单明确招生（100207学博）",
+    "catalog_year": "2025、2026",
+    "quota": "导师个人最终录取名额未公开。2026年第三批名单显示3名考生通过材料审核进入后续考核，不等同于最终录取3人。"
+  },
+  {
+    "id": "li_jie_qilu",
+    "name": "李杰",
+    "gender": "男",
+    "title": "二级教授、主任医师",
+    "doctoral_supervisor": "是",
+    "school": "山东大学",
+    "hospital": "山东大学齐鲁医院",
+    "department": "超声医学科/分子影像与超声医学研究中心",
+    "province": "山东",
+    "city": "济南",
+    "degree_types": [
+      "学博",
+      "专博待年度目录确认"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "超声微泡和纳米材料",
+      "肿瘤诊疗一体化",
+      "超声造影"
+    ],
+    "research_summary": "多功能纳米超声造影剂、肿瘤精准分子影像、可视化治疗与疗效评估；与你的纳米材料+超声触发肿瘤治疗经历高度契合。",
+    "projects": "公开主页显示长期从事分子影像与纳米超声研究；具体近5年基金编号需在正式申请前逐项核验。",
+    "email": "未公开，建议通过科室或齐鲁医学院联系",
+    "email_source": "医院主页未公开个人邮箱",
+    "homepage": "https://www.qiluhospital.com/show-435-1738-1.html",
+    "secondary_source": "https://qlyxjxgl.sdu.edu.cn/jsxx/dylcxy/lj1.htm",
+    "admission_source": "https://qlyxjxgl.sdu.edu.cn/jxglbgs/yjsjiao/zsgz/bszs.htm",
+    "match_score": 97,
+    "tier": "匹配",
+    "advantages": [
+      "方向与ZGNC/超声纳米诊疗高度一致",
+      "山东本地临床与就业衔接强",
+      "临床和基础研究兼顾"
+    ],
+    "risks": [
+      "团队竞争较强",
+      "2027个人名额未公开"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需邮件确认2027名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yang_meng_pumch",
+    "name": "杨萌",
+    "gender": "女",
+    "title": "主任医师、教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京协和医学院",
+    "hospital": "北京协和医院",
+    "department": "超声医学科/精准医学技术平台",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "光声/超声多模态",
+      "人工智能与影像组学",
+      "超声微泡和纳米材料"
+    ],
+    "research_summary": "多模态光声/超声成像、智能影像组学和精准医学技术平台，与你的纳米材料及超声诊疗一体化背景高度契合。",
+    "projects": "官方导师系统列出国家自然科学基金杰出青年、重点及多项光声/超声研究项目。",
+    "email": "yangmeng_pumch@126.com",
+    "email_source": "北京协和医学院导师系统",
+    "homepage": "https://yzbss.pumc.edu.cn/basicinfo/tutorinfo/tutordetail/J2009021982",
+    "secondary_source": "https://yzbss.pumc.edu.cn/basicinfo/tutorinfo/tutordetail/J2009021982",
+    "admission_source": "https://yzbss.pumc.edu.cn/basicinfo/tutorinfo/tutordetail/J2009021982",
+    "match_score": 96,
+    "tier": "冲刺",
+    "advantages": [
+      "交叉方向与纳米超声高度一致",
+      "顶级临床与精准医学平台",
+      "科研项目与国际合作突出"
+    ],
+    "risks": [
+      "竞争极强",
+      "需强化研究型第一作者成果"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_siyuan_xjtu",
+    "name": "张思远",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "西安交通大学",
+    "hospital": "西安交通大学生命科学与技术学院",
+    "department": "智能超声诊疗",
+    "province": "陕西",
+    "city": "西安",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声微泡和纳米材料",
+      "肿瘤诊疗一体化",
+      "多模态成像",
+      "超声治疗"
+    ],
+    "research_summary": "智能超声诊疗、多模态微纳材料与肿瘤治疗，与你的ZGNC方向高度匹配。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "xjtusyzhang@mail.xjtu.edu.cn",
+    "email_source": "西安交通大学教师主页",
+    "homepage": "https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=1839",
+    "secondary_source": "https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=1839",
+    "admission_source": "https://yz.xjtu.edu.cn/",
+    "match_score": 96,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "li_yidan_ccmu",
+    "name": "李一丹",
+    "gender": "女",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京朝阳医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "超声分子影像",
+      "超声微泡和纳米材料",
+      "人工智能与影像组学",
+      "靶向递药"
+    ],
+    "research_summary": "心脏重构、分子影像、纳米微泡靶向递药及AI，与你的纳米超声背景高度一致。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "yidan_li@163.com",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjcyyy/csyx2/20252052738742427930625.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjcyyy/csyx2/20252052738742427930625.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 95,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yang_fang_seu",
+    "name": "杨芳",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "东南大学",
+    "hospital": "东南大学生物科学与医学工程学院",
+    "department": "医学影像与智能医学",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声微泡和纳米材料",
+      "多模态成像",
+      "靶向递药",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "微纳气泡、多模态超声诊疗和药物递送，与你的材料方向高度匹配。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "yangfang2080@seu.edu.cn",
+    "email_source": "东南大学官方主页",
+    "homepage": "https://bme.seu.edu.cn/yf1/main.htm",
+    "secondary_source": "https://bme.seu.edu.cn/yf1/main.htm",
+    "admission_source": "https://yzb.seu.edu.cn/",
+    "match_score": 95,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "可能授予工学学位",
+      "需确认是否接受临床医学背景和2027指标"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，工学/医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zong_yujin_xjtu",
+    "name": "宗瑜瑾",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "西安交通大学",
+    "hospital": "西安交通大学/生命科学与技术学院",
+    "department": "生物医学超声",
+    "province": "陕西",
+    "city": "西安",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "超分辨超声",
+      "超声微泡和纳米材料",
+      "靶向递药"
+    ],
+    "research_summary": "超声超分辨、基因/药物递送及多模态造影剂，与你的纳米超声方向高度匹配。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "yjzong@xjtu.edu.cn",
+    "email_source": "西安交通大学教师主页",
+    "homepage": "https://mob.xjtu.edu.cn/teacher_content.jsp?urltype=tree.TreeTempUrl&wbtreeid=1170&wbwbxjtuteacherid=2570",
+    "secondary_source": "https://mob.xjtu.edu.cn/teacher_content.jsp?urltype=tree.TreeTempUrl&wbtreeid=1170&wbwbxjtuteacherid=2570",
+    "admission_source": "https://yz.xjtu.edu.cn/",
+    "match_score": 95,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "du_lianfang_sjtu",
+    "name": "杜联芳",
+    "gender": "女",
+    "title": "博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "上海交通大学医学院",
+    "hospital": "附属第一人民医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "超声造影",
+      "超声靶向治疗",
+      "超声微泡和纳米材料",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "长期开展超声造影、超声空化和纳米载体靶向治疗研究，与申请人的纳米材料和超声触发治疗经历高度匹配。",
+    "projects": "官方导师系统列出国家自然科学基金及医工交叉项目，涉及纳米载体、胰腺癌微环境与UTMD。",
+    "email": "du_lf@163.com",
+    "email_source": "上海交通大学医学院导师系统",
+    "homepage": "https://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?from=s&pId=&tId=724&uid=8DDA78FE-5499-41AA-855C-022158AFDFF5",
+    "secondary_source": "https://daoshi.shsmu.edu.cn/",
+    "admission_source": "https://www.shsmu.edu.cn/yjsy/zsgz1.htm",
+    "match_score": 94,
+    "tier": "匹配",
+    "advantages": [
+      "与你的纳米材料/超声治疗方向高度重合",
+      "上海大型三甲临床与医工交叉资源强"
+    ],
+    "risks": [
+      "竞争强，需有更完整的第一作者成果",
+      "必须确认2027是否仍招生及专博/学博名额"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方导师库明确博导，2027招生待确认",
+    "coverage_class": "官方导师库明确博导，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "liang_xiaolong_pku",
+    "name": "梁晓龙",
+    "gender": "男",
+    "title": "研究员",
+    "doctoral_supervisor": "是",
+    "school": "北京大学医学部",
+    "hospital": "北京大学第三医院",
+    "department": "超声医学与分子影像研究室",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博为主，具体目录待确认"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "纳米医学",
+      "微创治疗",
+      "超声微泡和纳米材料"
+    ],
+    "research_summary": "医学超声、分子影像与微创治疗技术；公开成果覆盖Advanced Materials、ACS Nano等，与你的纳米材料背景高度匹配。",
+    "projects": "官方主页显示主持多项国家级和省部级项目。",
+    "email": "未公开，需通过个人主页/科室确认",
+    "email_source": "官方主页未展示",
+    "homepage": "https://imt.bjmu.edu.cn/szll/yjsds/yxyxjs_2/c0efb562c5334369b25cfb5671fa7a8b.htm",
+    "secondary_source": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/index.htm",
+    "admission_source": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/index.htm",
+    "match_score": 94,
+    "tier": "冲刺",
+    "advantages": [
+      "纳米超声与分子影像高度匹配",
+      "高水平基础研究平台",
+      "医工交叉资源强"
+    ],
+    "risks": [
+      "顶级平台竞争非常激烈",
+      "更看重高水平一作成果"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需核对2027招生目录",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "chen_luzeng_pkufh",
+    "name": "陈路增",
+    "gender": "男",
+    "title": "副教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京大学医学部",
+    "hospital": "北京大学第一医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "甲状腺超声",
+      "乳腺超声",
+      "超声造影",
+      "声动力治疗",
+      "光声/超声多模态"
+    ],
+    "research_summary": "甲状腺与乳腺肿瘤、光声/超声双模态及声动力治疗，与你的肿瘤纳米超声课题高度匹配。",
+    "projects": "官方导师主页列出国家自然科学基金面上项目和国家重点研发计划相关研究。",
+    "email": "chenluzeng@126.com",
+    "email_source": "北京大学第一医院导师主页",
+    "homepage": "https://www.pkufh.com/Html/Doctors/Main/Index_1645.html",
+    "secondary_source": "https://www.pkufh.com/Html/Doctors/Main/Index_1645.html",
+    "admission_source": "https://www.pkufh.com/Html/Doctors/Main/Index_1645.html",
+    "match_score": 94,
+    "tier": "冲刺",
+    "advantages": [
+      "声动力与超声肿瘤治疗高度匹配",
+      "临床与基础研究并重",
+      "北大临床平台强"
+    ],
+    "risks": [
+      "竞争极强",
+      "需要更强研究型论文支撑"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "liu_junjie_gxmu",
+    "name": "刘军杰",
+    "gender": "未公开",
+    "title": "研究员、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "广西医科大学",
+    "hospital": "广西医科大学生命科学研究院/附属平台",
+    "department": "超声分子影像与声动力治疗",
+    "province": "广西",
+    "city": "南宁",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声造影",
+      "人工智能与影像组学",
+      "声动力治疗",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "超声造影+AI肝癌分型及声动力治疗增效剂，与你的肿瘤纳米超声研究高度匹配。",
+    "projects": "官方主页列出国家自然科学基金、广西重点研发等项目。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://sky.gxmu.edu.cn/smkxyjyxkjs/smkxyjyxkdw/smkxxkgg/t59186.html",
+    "secondary_source": "https://sky.gxmu.edu.cn/smkxyjyxkjs/smkxyjyxkdw/smkxxkgg/t59186.html",
+    "admission_source": "https://sky.gxmu.edu.cn/smkxyjyxkjs/smkxyjyxkdw/smkxxkgg/t59186.html",
+    "match_score": 94,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xiao_jiaying_csu",
+    "name": "肖嘉莹",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "中南大学",
+    "hospital": "中南大学湘雅医院/医工平台",
+    "department": "超声医学科",
+    "province": "湖南",
+    "city": "长沙",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "光声成像",
+      "超声分子影像",
+      "肿瘤诊疗一体化",
+      "超声微泡和纳米材料"
+    ],
+    "research_summary": "光声/超声、智能诊疗与纳米平台，与你的研究背景高度匹配。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "jiayingxiao@csu.edu.cn",
+    "email_source": "中南大学官方主页",
+    "homepage": "https://faculty.csu.edu.cn/xiaojiaying/zh_CN/index.htm",
+    "secondary_source": "https://faculty.csu.edu.cn/xiaojiaying/zh_CN/index.htm",
+    "admission_source": "https://yz.csu.edu.cn/info/1012/1469.htm",
+    "match_score": 94,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "dai_zhifei_pku",
+    "name": "戴志飞",
+    "gender": "男",
+    "title": "博雅特聘教授",
+    "doctoral_supervisor": "是",
+    "school": "北京大学",
+    "hospital": "非临床医院主导师平台",
+    "department": "未来技术学院生物医学工程系/国家生物医学成像科学中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "纳米医学",
+      "医学超声",
+      "超声造影剂",
+      "分子探针",
+      "超声治疗"
+    ],
+    "research_summary": "新型微泡超声造影剂、超声引导基因治疗和纳米增效智能超声诊疗；与你的纳米材料与超声治疗方向极为匹配。",
+    "projects": "国家杰青、国家重点研发计划首席科学家等信息见官方主页。",
+    "email": "zhifei.dai@pku.edu.cn",
+    "email_source": "北京大学未来技术学院官方主页",
+    "homepage": "https://future.pku.edu.cn/szll/jyxln/3d96752a2a224cac9dff5bac40f15085.htm",
+    "secondary_source": "https://nbic.pku.edu.cn/rcdw/kyry/jzyjy/27fe58272fe143f99ef031f9ce9ea1b1.htm",
+    "admission_source": "https://admission.pku.edu.cn/zsxx/bszs/bssqkh/index.htm",
+    "match_score": 93,
+    "tier": "冲刺",
+    "advantages": [
+      "超声造影剂与纳米药物转化顶级平台",
+      "基础研究与产业转化强"
+    ],
+    "risks": [
+      "非临床医学专博路径",
+      "对高水平科研成果要求很高"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需核对2027招生专业与名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_wenliang_pku",
+    "name": "王文靓",
+    "gender": "未公开",
+    "title": "研究员、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京大学医学部",
+    "hospital": "北京大学药学院/医工交叉平台",
+    "department": "药剂学/纳米医学",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声微泡和纳米材料",
+      "超声生物效应",
+      "纳米递送",
+      "神经调控"
+    ],
+    "research_summary": "超声-纳米界面、递送与生物效应研究，与你的纳米材料和超声触发治疗背景高度匹配，但学位更偏药学/理工交叉。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "wangwenliang92@bjmu.edu.cn",
+    "email_source": "北京大学药学院官方主页",
+    "homepage": "https://www.sps.bjmu.edu.cn/szdw/zzjs/212935.htm",
+    "secondary_source": "https://www.sps.bjmu.edu.cn/szdw/zzjs/212935.htm",
+    "admission_source": "https://www.sps.bjmu.edu.cn/szdw/zzjs/212935.htm",
+    "match_score": 93,
+    "tier": "冲刺",
+    "advantages": [
+      "纳米材料与超声机制高度匹配",
+      "北京大学医药交叉平台强"
+    ],
+    "risks": [
+      "可能授予药学或理学学位",
+      "不适合作为唯一临床专博目标"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，交叉方向招生待目录确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "chen_tianfeng_jnu",
+    "name": "陈填烽",
+    "gender": "未公开",
+    "title": "导师组共同导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "暨南大学",
+    "hospital": "临床医学+X导师组",
+    "department": "化学/纳米医学交叉",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "专博导师组"
+    ],
+    "research_tags": [
+      "纳米医学",
+      "肿瘤诊疗一体化",
+      "超声微泡和纳米材料"
+    ],
+    "research_summary": "与刘红梅组成2026“临床医学+X”超声医学导师组，适合纳米材料与临床超声交叉。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://medc.jnu.edu.cn/_t487/6040/list1.htm",
+    "secondary_source": "https://medc.jnu.edu.cn/_t487/6040/list1.htm",
+    "admission_source": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "match_score": 93,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026导师组共同招生",
+    "coverage_class": "2026导师组共同招生",
+    "catalog_year": "2026",
+    "quota": "官方公示该导师组105124指标1个。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "qin_jiale_zju",
+    "name": "秦佳乐",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "浙江大学医学院",
+    "hospital": "浙江大学医学院附属妇产科医院",
+    "department": "超声医学科/科研部",
+    "province": "浙江",
+    "city": "杭州",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "妇产超声",
+      "超声分子影像",
+      "低强度超声治疗",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "妇产科超声分子影像和低强度超声肿瘤治疗，与你的超声治疗课题高度匹配。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "qinjiale@zju.edu.cn",
+    "email_source": "浙江大学个人主页",
+    "homepage": "https://mypage.zju.edu.cn/5503022",
+    "secondary_source": "https://mypage.zju.edu.cn/5503022",
+    "admission_source": "https://mypage.zju.edu.cn/5503022",
+    "match_score": 93,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_wei_ccmu",
+    "name": "张巍",
+    "gender": "女",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京天坛医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "神经超声",
+      "超声治疗",
+      "神经调控",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "神经系统及肿瘤的超声靶向诊疗和神经调控，与你的超声治疗背景高度匹配。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "官网邮箱排版异常，需人工核验",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/ssyjsds/sdykdxfsbjttyy1/yxyxyhyx/202520527386725550202901.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/ssyjsds/sdykdxfsbjttyy1/yxyxyhyx/202520527386725550202901.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 92,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_guowei_zju",
+    "name": "王国伟",
+    "gender": "未公开",
+    "title": "研究员、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "浙江大学医学院",
+    "hospital": "浙江大学医学院附属第二医院",
+    "department": "超声医学/转化医学",
+    "province": "浙江",
+    "city": "杭州",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声医学",
+      "靶向递药",
+      "基因疫苗",
+      "超声微泡和纳米材料"
+    ],
+    "research_summary": "超声医学与靶向递药、药物转运和基因疫苗，与你的纳米递送经验高度匹配。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "wangguowei@zju.edu.cn",
+    "email_source": "浙江大学个人主页",
+    "homepage": "https://person.zju.edu.cn/0619081",
+    "secondary_source": "https://person.zju.edu.cn/0619081",
+    "admission_source": "https://person.zju.edu.cn/0619081",
+    "match_score": 92,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "sun_ping_hrbmu2",
+    "name": "孙萍",
+    "gender": "未公开",
+    "title": "副教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "哈尔滨医科大学",
+    "hospital": "哈尔滨医科大学附属第二医院",
+    "department": "超声医学科",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声生物效应",
+      "超声治疗",
+      "心血管疾病",
+      "基础医学与超声生物效应"
+    ],
+    "research_summary": "聚焦超声生物物理作用与心血管治疗，主持多项国家和省级项目，属于青年交叉导师。",
+    "projects": "医院主页明确列出国家自然科学基金面上和青年项目等多项课题。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.hrbmush.edu.cn/info/1907/3227.htm",
+    "secondary_source": "https://www.hrbmush.edu.cn/info/1907/3227.htm",
+    "admission_source": "https://www.hrbmush.edu.cn/info/1907/3227.htm",
+    "match_score": 92,
+    "tier": "匹配",
+    "advantages": [
+      "超声生物效应与治疗方向匹配",
+      "青年学术骨干、项目活跃",
+      "相较顶级传统大牛可能更重视直接指导"
+    ],
+    "risks": [
+      "临床肿瘤纳米方向并非完全重合",
+      "2027具体指标需确认"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xu_huixiong_tongji",
+    "name": "徐辉雄",
+    "gender": "男",
+    "title": "教授、主任医师",
+    "doctoral_supervisor": "是",
+    "school": "同济大学",
+    "hospital": "同济大学附属第十人民医院",
+    "department": "超声医学科/超声医学研究所",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "人工智能与影像组学",
+      "弹性成像",
+      "超声造影",
+      "介入超声"
+    ],
+    "research_summary": "超声分子影像智能诊疗、5G/智能超声、弹性成像和介入；适合把你的材料实验拓展到临床转化与AI。",
+    "projects": "官方团队介绍显示承担国家级重大仪器等项目。",
+    "email": "未公开，需通过医学院/科室联系",
+    "email_source": "官方团队页未展示",
+    "homepage": "https://med.tongji.edu.cn/info/1322/6387.htm",
+    "secondary_source": "https://yz.tongji.edu.cn/",
+    "admission_source": "https://yz.tongji.edu.cn/",
+    "match_score": 91,
+    "tier": "冲刺",
+    "advantages": [
+      "超声分子影像+AI交叉强",
+      "临床平台与工程转化兼具"
+    ],
+    "risks": [
+      "团队规模大、竞争高",
+      "需确认直接指导与名额"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需核对2027招生资格",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "cai_xiaojun_sjtu",
+    "name": "蔡晓军",
+    "gender": "未公开",
+    "title": "博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "上海交通大学医学院",
+    "hospital": "附属第六人民医院",
+    "department": "超声医学科/神经超声影像平台",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "神经超声",
+      "超声治疗",
+      "纳米医学",
+      "超声生物效应"
+    ],
+    "research_summary": "研究涉及超声与纳米技术的神经调控和疾病干预，属于高匹配医工交叉方向。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "c1x2j34@163.com",
+    "email_source": "上海交通大学医学院导师系统",
+    "homepage": "https://daoshi.shsmu.edu.cn/",
+    "secondary_source": "https://daoshi.shsmu.edu.cn/",
+    "admission_source": "https://www.shsmu.edu.cn/yjsy/zsgz1.htm",
+    "match_score": 91,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方导师库明确博导，2027招生待确认",
+    "coverage_class": "官方导师库明确博导，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "chen_yaqing_sjtu",
+    "name": "陈亚青",
+    "gender": "女",
+    "title": "博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "上海交通大学医学院",
+    "hospital": "附属新华医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "泌尿超声",
+      "超声造影",
+      "光声成像",
+      "超声微泡和纳米材料",
+      "介入超声"
+    ],
+    "research_summary": "泌尿系统超声诊治与多模态/光声、纳米液滴造影研究兼具临床和基础转化。",
+    "projects": "官方导师库显示主持国家重大科研仪器项目及纳米液滴靶向超声研究。",
+    "email": "joychen1266@126.com",
+    "email_source": "上海交通大学医学院导师系统",
+    "homepage": "https://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?from=s&pId=&tId=722&uid=2AC58D8F-8083-4B22-8F61-E828A1BD18C1",
+    "secondary_source": "https://daoshi.shsmu.edu.cn/",
+    "admission_source": "https://www.shsmu.edu.cn/yjsy/zsgz1.htm",
+    "match_score": 91,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方导师库明确博导，2027招生待确认",
+    "coverage_class": "官方导师库明确博导，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "ge_huiyu_ccmu",
+    "name": "葛辉玉",
+    "gender": "未公开",
+    "title": "主任医师/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "首都医科大学",
+    "hospital": "附属北京朝阳医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "超声造影",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "官方导师页面标注学术型和专业型博士导师，研究涉及分子超声。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "ghyzmw@163.com",
+    "email_source": "首都医科大学/医院官方页面",
+    "homepage": "https://www.bjcyh.com.cn/",
+    "secondary_source": "https://www.bjcyh.com.cn/",
+    "admission_source": "https://yjsh.ccmu.edu.cn/zsgz/bszs/",
+    "match_score": 91,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "sun_wei_njmu",
+    "name": "孙伟",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "南京医科大学",
+    "hospital": "南京医科大学生物医学工程与信息学院/附属医院",
+    "department": "生物医学工程与信息",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "聚焦超声",
+      "心血管治疗",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "基于聚焦超声的心血管诊疗一体化技术，治疗超声交叉价值高。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "secondary_source": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "admission_source": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "match_score": 91,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "学位通常非临床医学",
+      "需要确认2027招生方向及临床背景接收条件"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "lu_mingzhu_xjtu",
+    "name": "陆明珠",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "西安交通大学",
+    "hospital": "西安交通大学生命科学与技术学院",
+    "department": "生物医学超声",
+    "province": "陕西",
+    "city": "西安",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声治疗",
+      "治疗监测",
+      "人工智能与影像组学",
+      "超声仪器与生物医学工程"
+    ],
+    "research_summary": "治疗超声、成像与治疗监测、机器学习，适合超声治疗交叉博士。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://mob.xjtu.edu.cn/teacher_content.jsp?urltype=tree.TreeTempUrl&wbtreeid=1170&wbwbxjtuteacherid=413",
+    "secondary_source": "https://mob.xjtu.edu.cn/teacher_content.jsp?urltype=tree.TreeTempUrl&wbtreeid=1170&wbwbxjtuteacherid=413",
+    "admission_source": "https://yz.xjtu.edu.cn/",
+    "match_score": 91,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zheng_yuanyi_sjtu",
+    "name": "郑元义",
+    "gender": "男",
+    "title": "特聘教授、主任医师",
+    "doctoral_supervisor": "是",
+    "school": "上海交通大学医学院",
+    "hospital": "上海交通大学附属第六人民医院",
+    "department": "超声医学/上海超声医学研究所",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "超声诊断",
+      "超分辨超声",
+      "人工智能",
+      "神经超声"
+    ],
+    "research_summary": "超声分子影像、超分辨成像和医工交叉转化；与你的纳米超声研究匹配度高。",
+    "projects": "官方校级报道显示承担基金委重点国际合作、国家重点研发等项目。",
+    "email": "未公开，需通过医院/医学院联系",
+    "email_source": "官方报道未展示",
+    "homepage": "https://news.sjtu.edu.cn/jdyw/20251219/218272.html",
+    "secondary_source": "https://yjxy.wnmc.edu.cn/info/1431/13251.htm",
+    "admission_source": "https://www.gs.sjtu.edu.cn/",
+    "match_score": 90,
+    "tier": "冲刺",
+    "advantages": [
+      "分子影像与超声前沿技术强",
+      "上海临床与就业平台突出"
+    ],
+    "risks": [
+      "竞争极强",
+      "需核实2027招生专业归属与名额"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "需核对2027目录",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_pengfei_sdu",
+    "name": "张鹏飞",
+    "gender": "未公开",
+    "title": "教授、学术与专业学位博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "山东大学",
+    "hospital": "山东大学/心血管影像平台",
+    "department": "心血管影像与医工交叉",
+    "province": "山东",
+    "city": "济南",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "血管内超声",
+      "人工智能与影像组学",
+      "超声微泡和纳米材料",
+      "靶向递药"
+    ],
+    "research_summary": "血管内超声、AI、微泡递药及心血管生物材料，与你的材料和超声交叉能力匹配。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.xxgcg.sdu.edu.cn/info/1269/4220.htm",
+    "secondary_source": "https://www.xxgcg.sdu.edu.cn/info/1269/4220.htm",
+    "admission_source": "https://www.xxgcg.sdu.edu.cn/info/1269/4220.htm",
+    "match_score": 90,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "qi_zhenhui_seu",
+    "name": "戚震辉",
+    "gender": "未公开",
+    "title": "教授/研究员、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "东南大学",
+    "hospital": "东南大学生物科学与医学工程学院",
+    "department": "医学影像与智能医学",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "聚焦超声",
+      "血脑屏障递送",
+      "神经调控",
+      "靶向递药"
+    ],
+    "research_summary": "聚焦超声血脑屏障递送和脑机接口，属于前沿治疗超声交叉方向。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "qizhenhui@seu.edu.cn",
+    "email_source": "东南大学官方主页",
+    "homepage": "https://bme.seu.edu.cn/qzh/main.htm",
+    "secondary_source": "https://bme.seu.edu.cn/qzh/main.htm",
+    "admission_source": "https://yzb.seu.edu.cn/",
+    "match_score": 90,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "可能授予工学学位",
+      "需确认是否接受临床医学背景和2027指标"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，工学/医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "qian_xiaoqin_xzhmu",
+    "name": "钱晓芹",
+    "gender": "女",
+    "title": "主任医师/教授（以现单位官网为准）",
+    "doctoral_supervisor": "是",
+    "school": "徐州医科大学/相关联合培养平台",
+    "hospital": "附属医院平台（具体归属需核对）",
+    "department": "超声医学",
+    "province": "江苏",
+    "city": "徐州/镇江（需核对现单位）",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "纳米医学",
+      "生物材料",
+      "超声造影"
+    ],
+    "research_summary": "疾病诊疗用纳米生物材料、超声分子影像与临床转化；与你的实验技能和研究主题非常接近。",
+    "projects": "公开资料显示曾主持国家自然科学基金面上项目；现单位和最新项目需申请前核验。",
+    "email": "未公开，需通过培养单位联系",
+    "email_source": "公开资料未提供可确认的套磁邮箱",
+    "homepage": "https://yxxy.xzhmu.edu.cn/info/1015/7880.htm",
+    "secondary_source": "https://rsc.ujs.edu.cn/__local/0/D9/6B/1935FE92E7C77810AEE1DD5D9E6_BAB89E4A_337C7.pdf",
+    "admission_source": "https://yxxy.xzhmu.edu.cn/info/1015/7880.htm",
+    "match_score": 90,
+    "tier": "匹配",
+    "advantages": [
+      "纳米材料与超声分子影像直接匹配",
+      "竞争可能低于北上顶级平台"
+    ],
+    "risks": [
+      "现单位/招生依托需重点核对",
+      "公开资料部分较早"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "优先邮件确认2027归属与名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xie_mingxing_hust",
+    "name": "谢明星",
+    "gender": "未公开",
+    "title": "主任医师/教授（以官网为准）",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "华中科技大学同济医学院",
+    "hospital": "附属协和医院",
+    "department": "超声医学科",
+    "province": "湖北",
+    "city": "武汉",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "胎儿超声",
+      "急重症超声",
+      "超声分子影像"
+    ],
+    "research_summary": "协和医院官方导师页面确认博士生导师身份；科室为国内较早拥有超声博士点的平台。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.whuh.com/info/1324/7398.htm",
+    "secondary_source": "https://www.whuh.com/info/1486/58160_1.htm",
+    "admission_source": "https://gszs.hust.edu.cn/info/1106/4062.htm",
+    "match_score": 90,
+    "tier": "冲刺",
+    "advantages": [
+      "超声博士培养历史久、临床病例和亚专科平台强",
+      "心血管/分子影像方向具有全国影响力"
+    ],
+    "risks": [
+      "顶级平台竞争强",
+      "需核对2027目录、导师接收意向及成果门槛"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博士生导师，2027招生待确认",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhou_jianqiao_ruijin",
+    "name": "周建桥",
+    "gender": "男",
+    "title": "主任医师",
+    "doctoral_supervisor": "是",
+    "school": "上海交通大学医学院",
+    "hospital": "上海交通大学医学院附属瑞金医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "人工智能与影像组学",
+      "超声分子影像",
+      "甲状腺超声",
+      "乳腺超声",
+      "介入超声",
+      "超声消融"
+    ],
+    "research_summary": "超声AI、超声机器人、大数据、分子影像与浅表器官消融；可将你的纳米治疗背景与AI/临床介入结合。",
+    "projects": "公开博士后招收简章和医院资料显示团队开展多项智能超声与分子影像研究。",
+    "email": "未公开，需通过瑞金医院科室联系",
+    "email_source": "官方招收简章未公开个人邮箱",
+    "homepage": "https://postd.sjtu.edu.cn/info/1086/2325.htm",
+    "secondary_source": "https://www.sciconf.cn/cn/person-detail/339?user_id=tfLU0kE0L9UAkjobotS8JQ_d_d",
+    "admission_source": "https://www.gs.sjtu.edu.cn/",
+    "match_score": 89,
+    "tier": "冲刺",
+    "advantages": [
+      "AI+分子影像+介入方向完整",
+      "瑞金临床资源和就业平台强"
+    ],
+    "risks": [
+      "团队竞争高",
+      "导师行政与临床事务可能较多，需了解培养模式"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "lu_qiang_westchina",
+    "name": "卢强",
+    "gender": "未公开",
+    "title": "主任医师/教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "四川大学",
+    "hospital": "华西医院",
+    "department": "超声医学科",
+    "province": "四川",
+    "city": "成都",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "肝脏超声",
+      "超声造影",
+      "介入超声",
+      "器官移植超声"
+    ],
+    "research_summary": "腹部、移植、术中与介入超声方向，官方研究生导师门户明确博导。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "luqiang@scu.edu.cn",
+    "email_source": "华西医院研究生导师门户",
+    "homepage": "https://yjs.cd120.com/contents/570/1976.html",
+    "secondary_source": "https://www.wchscu.cn/public/department/yxjsxy/detail/56667.html",
+    "admission_source": "https://yjs.cd120.com/channels/412.html",
+    "match_score": 89,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "liu_hongmei_jnu",
+    "name": "刘红梅",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "暨南大学",
+    "hospital": "第一临床医学院/暨南大学附属第一医院",
+    "department": "超声医学科",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "超声医学",
+      "肿瘤诊疗一体化",
+      "临床研究"
+    ],
+    "research_summary": "2026年超声医学专博目录明确招生，并有“临床医学+X”导师组招生。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "secondary_source": "https://medc.jnu.edu.cn/_t487/6040/list1.htm",
+    "admission_source": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "match_score": 89,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确招生",
+    "coverage_class": "2026专博目录明确招生",
+    "catalog_year": "2026",
+    "quota": "2026超声医学专业总计划3人；导师组指标另见学校公示。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "dong_feihong_njmu",
+    "name": "董飞宏",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "南京医科大学",
+    "hospital": "南京医科大学生物医学工程与信息学院/附属医院",
+    "department": "生物医学工程与信息",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "靶向递药",
+      "微血流成像",
+      "超声微泡和纳米材料"
+    ],
+    "research_summary": "药物精准递送与微血流成像，与你的递送和造影研究相近。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "secondary_source": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "admission_source": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "match_score": 89,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "学位通常非临床医学",
+      "需要确认2027招生方向及临床背景接收条件"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhu_jiang_zju",
+    "name": "朱江",
+    "gender": "未公开",
+    "title": "主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "浙江大学医学院",
+    "hospital": "浙江大学医学院附属妇产科医院",
+    "department": "超声科",
+    "province": "浙江",
+    "city": "杭州",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "妇产超声",
+      "超声造影",
+      "介入超声",
+      "超声靶向治疗"
+    ],
+    "research_summary": "妇科疾病超声造影、介入和超声介导肿瘤靶向治疗。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "zhujiang1963@126.com",
+    "email_source": "浙江大学个人主页",
+    "homepage": "https://person.zju.edu.cn/2307004",
+    "secondary_source": "https://person.zju.edu.cn/2307004",
+    "admission_source": "https://person.zju.edu.cn/2307004",
+    "match_score": 89,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhou_qi_xjtu",
+    "name": "周琦",
+    "gender": "未公开",
+    "title": "教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "西安交通大学",
+    "hospital": "第二附属医院",
+    "department": "超声研究室/医用超声研究室",
+    "province": "陕西",
+    "city": "西安",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "浅表超声",
+      "超声造影",
+      "超声分子影像",
+      "人工智能与影像组学",
+      "介入超声"
+    ],
+    "research_summary": "浅表器官、造影、分子影像和AI方向兼具，官方页面确认学术型博士导师。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://gr.xjtu.edu.cn/",
+    "secondary_source": "https://gr.xjtu.edu.cn/",
+    "admission_source": "https://yz.xjtu.edu.cn/",
+    "match_score": 89,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方学博导师，2027招生待确认",
+    "coverage_class": "官方学博导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yan_kun_bjcancer",
+    "name": "严昆",
+    "gender": "女",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京大学医学部",
+    "hospital": "北京大学肿瘤医院",
+    "department": "超声科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "肝脏超声",
+      "介入超声",
+      "肿瘤消融",
+      "超声造影"
+    ],
+    "research_summary": "肿瘤超声诊断、射频消融及结直肠癌肝转移治疗研究，肿瘤临床资源突出。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "ydbz@sina.com",
+    "email_source": "北京大学肿瘤医院教学平台",
+    "homepage": "https://teach.bjcancer.org/Html/Teachers/Index/249.html",
+    "secondary_source": "https://teach.bjcancer.org/Html/Teachers/Index/249.html",
+    "admission_source": "https://teach.bjcancer.org/Html/Teachers/Index/249.html",
+    "match_score": 88,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_shumin_pku3",
+    "name": "王淑敏",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京大学医学部",
+    "hospital": "北京大学第三医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "临床超声",
+      "介入超声",
+      "超声造影"
+    ],
+    "research_summary": "围绕超声诊断与介入治疗开展基础和临床研究，适合临床平台与科研能力同步提升。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://research.bjmu.edu.cn/kydt/aa6d5a42001b41e49b214a001a95f356.htm",
+    "secondary_source": "https://research.bjmu.edu.cn/kydt/aa6d5a42001b41e49b214a001a95f356.htm",
+    "admission_source": "https://research.bjmu.edu.cn/kydt/aa6d5a42001b41e49b214a001a95f356.htm",
+    "match_score": 88,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhao_hanxue_ccmu",
+    "name": "赵汉学",
+    "gender": "男",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京同仁医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "头颈超声",
+      "介入超声",
+      "超声分子影像"
+    ],
+    "research_summary": "头颈肿瘤超声诊断、介入与分子影像。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "zhaohx861@163.com",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjtryy/csyx3/20252052738694373789698.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjtryy/csyx3/20252052738694373789698.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 88,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "na_shuai_pku",
+    "name": "那帅",
+    "gender": "未公开",
+    "title": "助理教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京大学",
+    "hospital": "北京大学未来技术学院/国家生物医学成像科学中心",
+    "department": "生物医学成像",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "光声成像",
+      "超声仪器与生物医学工程",
+      "多模态成像",
+      "人工智能与影像组学"
+    ],
+    "research_summary": "聚焦高灵敏度超声换能器、光声/超声多模态和成像算法，适合医工交叉博士。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "shuai@pku.edu.cn",
+    "email_source": "北京大学国家生物医学成像科学中心",
+    "homepage": "https://nbic.pku.edu.cn/rcdw/kyry/qzyjy/1f6c425e6cf046799bbe6d22bba4f570.htm",
+    "secondary_source": "https://nbic.pku.edu.cn/rcdw/kyry/qzyjy/1f6c425e6cf046799bbe6d22bba4f570.htm",
+    "admission_source": "https://nbic.pku.edu.cn/rcdw/kyry/qzyjy/1f6c425e6cf046799bbe6d22bba4f570.htm",
+    "match_score": 88,
+    "tier": "冲刺",
+    "advantages": [
+      "超声成像硬件与多模态技术前沿",
+      "北京大学医工平台"
+    ],
+    "risks": [
+      "学位非临床医学可能性高",
+      "与你的临床三甲就业目标需权衡"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yan_feng_westchina",
+    "name": "阎锋",
+    "gender": "男",
+    "title": "教授/研究员",
+    "doctoral_supervisor": "是",
+    "school": "四川大学",
+    "hospital": "四川大学华西医院",
+    "department": "超声医学研究室/临床影像药物研究室",
+    "province": "四川",
+    "city": "成都",
+    "degree_types": [
+      "学博为主，具体目录待确认"
+    ],
+    "research_tags": [
+      "超声造影剂",
+      "纳米载体",
+      "药物递送",
+      "超声分子影像",
+      "医疗器械"
+    ],
+    "research_summary": "超声造影剂研发、靶向药物、纳米载体、基因转染与临床转化；与你的纳米材料研究高度匹配。",
+    "projects": "官方研究室介绍展示长期超声影像药物与器械转化成果。",
+    "email": "未公开，需通过研究室联系",
+    "email_source": "官方页面未公开",
+    "homepage": "https://www.wchscu.cn/public/department/yzyz/detail/32977.html",
+    "secondary_source": "https://www.wchscu.cn/scientific/science_technology/platform/61319.html",
+    "admission_source": "https://yjs.cd120.com/channels/412.html",
+    "match_score": 88,
+    "tier": "匹配",
+    "advantages": [
+      "超声造影剂研发与临床转化优势突出",
+      "华西平台强"
+    ],
+    "risks": [
+      "方向偏造影剂/材料开发，临床诊断训练比例需了解",
+      "名额未公开"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生专业",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zheng_jian_cuhksz",
+    "name": "郑剑",
+    "gender": "未公开",
+    "title": "临床客座助理教授、博士/硕士研究生导师",
+    "doctoral_supervisor": "是",
+    "school": "香港中文大学（深圳）医学院/深圳市龙岗区人民医院",
+    "hospital": "深圳市龙岗区人民医院集团",
+    "department": "超声医学中心",
+    "province": "广东",
+    "city": "深圳",
+    "degree_types": [
+      "联合培养/招生专业待核实"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "超声造影",
+      "弹性成像",
+      "介入超声",
+      "超声微泡和纳米材料"
+    ],
+    "research_summary": "腹部与浅表器官超声、介入和纳米诊疗平台研究，方向匹配度高，但招生归属需确认。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "lgsyzj@163.com",
+    "email_source": "香港中文大学（深圳）医学院主页",
+    "homepage": "https://med.cuhk.edu.cn/teacher/1330",
+    "secondary_source": "https://med.cuhk.edu.cn/teacher/1330",
+    "admission_source": "https://med.cuhk.edu.cn/teacher/1330",
+    "match_score": 88,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方个人主页称博士生导师，招生单位及学位类型待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "待核实",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yin_feng_seu",
+    "name": "尹峰",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "东南大学",
+    "hospital": "东南大学生物科学与医学工程学院",
+    "department": "医学影像与智能医学",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声仪器与生物医学工程",
+      "经颅超声",
+      "三维超声",
+      "可穿戴超声"
+    ],
+    "research_summary": "先进超声成像、经颅和可穿戴超声系统。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "yinfeng@seu.edu.cn",
+    "email_source": "东南大学官方主页",
+    "homepage": "https://bme.seu.edu.cn/",
+    "secondary_source": "https://bme.seu.edu.cn/",
+    "admission_source": "https://yzb.seu.edu.cn/",
+    "match_score": 88,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "可能授予工学学位",
+      "需确认是否接受临床医学背景和2027指标"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，工学/医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "gao_xiaoxiang_seu",
+    "name": "郜晓翔",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "东南大学",
+    "hospital": "东南大学生物科学与医学工程学院",
+    "department": "医学影像与智能医学",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声仪器与生物医学工程",
+      "可穿戴超声",
+      "人工智能与影像组学"
+    ],
+    "research_summary": "医学超声成像、可穿戴超声与AI。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "gaoxx@seu.edu.cn",
+    "email_source": "东南大学官方主页",
+    "homepage": "https://bme.seu.edu.cn/gxx/main.htm",
+    "secondary_source": "https://bme.seu.edu.cn/gxx/main.htm",
+    "admission_source": "https://yzb.seu.edu.cn/",
+    "match_score": 88,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "可能授予工学学位",
+      "需确认是否接受临床医学背景和2027指标"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，工学/医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "gu_ning_njmu",
+    "name": "顾宁",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "南京医科大学",
+    "hospital": "南京医科大学生物医学工程与信息学院/附属医院",
+    "department": "生物医学工程与信息",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "纳米医学",
+      "超声微泡和纳米材料",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "纳米医学材料资深博导，适合材料主线强化，但不属于传统超声专博。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "secondary_source": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "admission_source": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "match_score": 88,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "学位通常非临床医学",
+      "需要确认2027招生方向及临床背景接收条件"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "jiang_tianan_zju",
+    "name": "蒋天安",
+    "gender": "未公开",
+    "title": "主任医师/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "浙江大学医学院",
+    "hospital": "附属第一医院",
+    "department": "超声医学科",
+    "province": "浙江",
+    "city": "杭州",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "介入超声",
+      "肿瘤消融",
+      "超声造影"
+    ],
+    "research_summary": "腹部肿瘤诊断与超声介入/消融方向，临床平台强。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "tiananjiang@zju.edu.cn",
+    "email_source": "浙江大学官方主页",
+    "homepage": "https://person.zju.edu.cn/tiananjiang",
+    "secondary_source": "https://www.zy91.com/",
+    "admission_source": "https://www.cmm.zju.edu.cn/38716/listm.htm",
+    "match_score": 88,
+    "tier": "冲刺",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_jing_hust",
+    "name": "王静",
+    "gender": "未公开",
+    "title": "主任医师/教授（以官网为准）",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "华中科技大学同济医学院",
+    "hospital": "附属协和医院",
+    "department": "超声医学科",
+    "province": "湖北",
+    "city": "武汉",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "胎儿超声",
+      "超声分子影像"
+    ],
+    "research_summary": "协和医院官方导师页面确认博士生导师身份；科室为国内较早拥有超声博士点的平台。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.whuh.com/info/1324/7394.htm",
+    "secondary_source": "https://www.whuh.com/info/1486/58160_1.htm",
+    "admission_source": "https://gszs.hust.edu.cn/info/1106/4062.htm",
+    "match_score": 88,
+    "tier": "冲刺",
+    "advantages": [
+      "超声博士培养历史久、临床病例和亚专科平台强",
+      "心血管/分子影像方向具有全国影响力"
+    ],
+    "risks": [
+      "顶级平台竞争强",
+      "需核对2027目录、导师接收意向及成果门槛"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博士生导师，2027招生待确认",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "cheng_wen_hrbmu",
+    "name": "程文",
+    "gender": "男",
+    "title": "主任医师/二级教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "哈尔滨医科大学",
+    "hospital": "附属肿瘤医院",
+    "department": "超声医学科/超声介入病房",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "肿瘤消融",
+      "介入超声",
+      "超声造影",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "肿瘤超声诊疗与消融平台突出，官方页面明确博士生导师及国家基金经历。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://hmucancerhospital.hrbmu.edu.cn/info/1274/13232.htm",
+    "secondary_source": "https://hmucancerhospital.hrbmu.edu.cn/info/1032/23701.htm",
+    "admission_source": "https://yjsgl.hrbmu.edu.cn/",
+    "match_score": 88,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "hu_bing_sjtu",
+    "name": "胡兵",
+    "gender": "男",
+    "title": "博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "上海交通大学医学院",
+    "hospital": "附属第六人民医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "介入超声",
+      "聚焦超声",
+      "超声微泡和纳米材料",
+      "前列腺超声"
+    ],
+    "research_summary": "研究涵盖超声诊断、介入、HIFU及低频超声联合微泡治疗，平台影响力强。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "binghuzz@263.net；binghu_stephen@163.com",
+    "email_source": "上海交通大学医学院导师系统",
+    "homepage": "https://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?from=s&uid=86F44C35-BACC-4F3A-B32B-357129865B0D",
+    "secondary_source": "https://daoshi.shsmu.edu.cn/",
+    "admission_source": "https://www.shsmu.edu.cn/yjsy/zsgz1.htm",
+    "match_score": 87,
+    "tier": "冲刺",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方导师库明确博导，2027招生待确认",
+    "coverage_class": "官方导师库明确博导，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "li_jianchu_pumch",
+    "name": "李建初",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京协和医学院",
+    "hospital": "北京协和医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "超声造影",
+      "临床超声"
+    ],
+    "research_summary": "协和医院超声医学科负责人之一，综合超声临床与科研平台强。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.pumch.cn/department_chaoszdk.html",
+    "secondary_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "admission_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "match_score": 87,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "医院官网明确博士生导师，2027名额待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "hu_xiangdong_ccmu",
+    "name": "胡向东",
+    "gender": "女",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京友谊医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "乳腺超声",
+      "弹性成像",
+      "人工智能与影像组学"
+    ],
+    "research_summary": "超声诊断、弹性成像及结构化报告/AI研究。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "huxd2005@126.com",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjyyyy/csyx1/20252052738542196051970.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjyyyy/csyx1/20252052738542196051970.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 87,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhou_guangquan_seu",
+    "name": "周光泉",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "东南大学",
+    "hospital": "东南大学生物科学与医学工程学院",
+    "department": "医学影像与智能医学",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "三维超声",
+      "超声仪器与生物医学工程",
+      "人工智能与影像组学"
+    ],
+    "research_summary": "三维自由手超声与智能成像。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "guangquan.zhou@seu.edu.cn",
+    "email_source": "东南大学官方主页",
+    "homepage": "https://bme.seu.edu.cn/zgq/main.htm",
+    "secondary_source": "https://bme.seu.edu.cn/zgq/main.htm",
+    "admission_source": "https://yzb.seu.edu.cn/",
+    "match_score": 87,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "可能授予工学学位",
+      "需确认是否接受临床医学背景和2027指标"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，工学/医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yao_jing_nju",
+    "name": "姚静",
+    "gender": "女",
+    "title": "主任医师/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "南京大学",
+    "hospital": "南京鼓楼医院",
+    "department": "超声医学科",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "人工智能与影像组学",
+      "生物力学"
+    ],
+    "research_summary": "心血管超声、人工智能与生物力学交叉，南京大学临床与工程资源兼具。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "jingyao@nju.edu.cn",
+    "email_source": "南京大学官方页面",
+    "homepage": "https://med.nju.edu.cn/",
+    "secondary_source": "https://med.nju.edu.cn/",
+    "admission_source": "https://grawww.nju.edu.cn/",
+    "match_score": 87,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wu_jun_dmu",
+    "name": "武俊",
+    "gender": "女",
+    "title": "主任医师/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "大连医科大学",
+    "hospital": "附属第二医院",
+    "department": "心脏超声科/超声科",
+    "province": "辽宁",
+    "city": "大连",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "血管超声",
+      "介入超声",
+      "纳米医学"
+    ],
+    "research_summary": "大连医科大学官方导师页明确博士生导师及超声医学专博招生专业，兼有靶向纳米成像治疗论文。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "wujun108@sina.com",
+    "email_source": "大连医科大学医学影像学院官方页面",
+    "homepage": "https://imaging.dmu.edu.cn/info/1004/1253.htm",
+    "secondary_source": "https://yjs.dmu.edu.cn/info/1017/8957.htm",
+    "admission_source": "https://yjs.dmu.edu.cn/",
+    "match_score": 87,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方专博导师，2027招生待确认",
+    "coverage_class": "官方专博导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "ding_hong_fudan",
+    "name": "丁红",
+    "gender": "女",
+    "title": "教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "复旦大学上海医学院",
+    "hospital": "附属华山医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "超声造影",
+      "弹性成像",
+      "腹部超声"
+    ],
+    "research_summary": "华山医院超声临床与新技术研究平台，官方页面确认博士生导师。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "ding_hong@fudan.edu.cn",
+    "email_source": "复旦大学官方页面",
+    "homepage": "https://www.huashan.org.cn/",
+    "secondary_source": "https://www.huashan.org.cn/",
+    "admission_source": "https://gs-shmc.fudan.edu.cn/bszs_35408/list.htm",
+    "match_score": 86,
+    "tier": "冲刺",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_jian_sxmu",
+    "name": "王健",
+    "gender": "女",
+    "title": "教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "山西医科大学",
+    "hospital": "第一医院",
+    "department": "超声影像科",
+    "province": "山西",
+    "city": "太原",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "浅表超声",
+      "腹部超声"
+    ],
+    "research_summary": "官方导师信息明确科博硕、专博硕导师类型，心血管与浅表/腹部方向。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "wangjian5688@sina.com",
+    "email_source": "山西医科大学官方导师信息",
+    "homepage": "https://www.sxmu.edu.cn/jc/info/2124/3447.htm",
+    "secondary_source": "https://www.sxmu.edu.cn/jc/info/2124/3447.htm",
+    "admission_source": "https://www.sxmu.edu.cn/yjs/",
+    "match_score": 86,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方学博/专博导师，2027招生待确认",
+    "coverage_class": "官方学博/专博导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yan_fei_siat",
+    "name": "严飞",
+    "gender": "男",
+    "title": "研究员",
+    "doctoral_supervisor": "是",
+    "school": "中国科学院大学",
+    "hospital": "中国科学院深圳先进技术研究院",
+    "department": "医学成像/超声分子影像相关团队",
+    "province": "广东",
+    "city": "深圳",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "合成生物学",
+      "纳米医学",
+      "超声治疗",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "超声分子影像、合成生物学与纳米诊疗，科研产出和交叉创新强；适合科研型学博。",
+    "projects": "官方学术活动介绍其为国家重点研发计划首席科学家并主持多项项目。",
+    "email": "未公开，需通过深圳先进院导师目录联系",
+    "email_source": "官方活动页未展示",
+    "homepage": "https://ibhe.sigs.tsinghua.edu.cn/2025/1223/c8128a287901/page.htm",
+    "secondary_source": "https://siat.cas.cn/yjsjy2016/zsjs2016/",
+    "admission_source": "https://siat.cas.cn/yjsjy2016/zsjs2016/",
+    "match_score": 86,
+    "tier": "匹配",
+    "advantages": [
+      "超声分子影像与纳米研究高度匹配",
+      "深圳科研与转化资源强"
+    ],
+    "risks": [
+      "非临床医学博士路径",
+      "三甲临床就业需评估学位匹配"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "需查国科大2027导师目录",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "ren_jie_sysu",
+    "name": "任杰",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "中山大学",
+    "hospital": "附属第三医院",
+    "department": "超声科",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "超声造影",
+      "介入超声"
+    ],
+    "research_summary": "中山大学附属第三医院2026年105124超声医学调整招生计划中明确列名。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.zssy.com.cn/",
+    "secondary_source": "https://www.zssy.com.cn/",
+    "admission_source": "https://graduate.sysu.edu.cn/zsw/doctor",
+    "match_score": 86,
+    "tier": "冲刺",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录/调整计划明确招生",
+    "coverage_class": "2026专博目录/调整计划明确招生",
+    "catalog_year": "2026",
+    "quota": "2026相关调整计划公开1个名额。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xu_dong_zjcc",
+    "name": "徐栋",
+    "gender": "未公开",
+    "title": "主任医师、教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "同济大学医学院/中国科学院大学",
+    "hospital": "中国科学院大学附属肿瘤医院（浙江省肿瘤医院）",
+    "department": "超声科/超声介入病区",
+    "province": "浙江",
+    "city": "杭州",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "介入超声",
+      "肿瘤消融",
+      "超声诊断",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "肿瘤超声诊断、微创介入与消融，临床转化资源强。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "xudong@zjcc.org.cn",
+    "email_source": "同济大学医学院导师主页",
+    "homepage": "https://med.tongji.edu.cn/info/1419/4812.htm",
+    "secondary_source": "https://med.tongji.edu.cn/info/1419/4812.htm",
+    "admission_source": "https://med.tongji.edu.cn/info/1419/4812.htm",
+    "match_score": 86,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，招生单位与专业归属需确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "huang_pintong_zju",
+    "name": "黄品同",
+    "gender": "未公开",
+    "title": "主任医师/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "浙江大学医学院",
+    "hospital": "附属第二医院",
+    "department": "超声医学科",
+    "province": "浙江",
+    "city": "杭州",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "超声造影",
+      "介入超声",
+      "腹部超声"
+    ],
+    "research_summary": "超声造影、介入与临床转化方向，官方页面确认博士生导师。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "huangpintong@126.com",
+    "email_source": "浙江大学附属第二医院官方页面",
+    "homepage": "https://www.z2hospital.com/",
+    "secondary_source": "https://www.z2hospital.com/",
+    "admission_source": "https://www.cmm.zju.edu.cn/38716/listm.htm",
+    "match_score": 86,
+    "tier": "冲刺",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "lv_qing_hust",
+    "name": "吕清",
+    "gender": "未公开",
+    "title": "主任医师/教授（以官网为准）",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "华中科技大学同济医学院",
+    "hospital": "附属协和医院",
+    "department": "超声医学科",
+    "province": "湖北",
+    "city": "武汉",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "超声造影",
+      "介入超声"
+    ],
+    "research_summary": "协和医院官方导师页面确认博士生导师身份；科室为国内较早拥有超声博士点的平台。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.whuh.com/info/1324/7395.htm",
+    "secondary_source": "https://www.whuh.com/info/1486/58160_1.htm",
+    "admission_source": "https://gszs.hust.edu.cn/info/1106/4062.htm",
+    "match_score": 86,
+    "tier": "冲刺",
+    "advantages": [
+      "超声博士培养历史久、临床病例和亚专科平台强",
+      "心血管/分子影像方向具有全国影响力"
+    ],
+    "risks": [
+      "顶级平台竞争强",
+      "需核对2027目录、导师接收意向及成果门槛"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博士生导师，2027招生待确认",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "leng_xiaoping_hrbmu",
+    "name": "冷晓萍",
+    "gender": "女",
+    "title": "主任医师/教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "哈尔滨医科大学",
+    "hospital": "附属第二医院",
+    "department": "超声医学科",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "超声医学",
+      "介入超声",
+      "超声分子影像"
+    ],
+    "research_summary": "官方校友/学院页面确认博士生导师、科主任及多项国家基金经历。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.hrbmu.edu.cn/xyh/info/1044/2445.htm",
+    "secondary_source": "https://www.hrbmu.edu.cn/info/1018/5265.htm",
+    "admission_source": "https://yjsgl.hrbmu.edu.cn/",
+    "match_score": 86,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhan_weiwei_sjtu",
+    "name": "詹维伟",
+    "gender": "未公开",
+    "title": "博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "上海交通大学医学院",
+    "hospital": "附属瑞金医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "甲状腺超声",
+      "乳腺超声",
+      "介入超声",
+      "人工智能与影像组学"
+    ],
+    "research_summary": "以甲状腺、浅表器官及介入超声为重点，瑞金医院临床平台强。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "shanghairuijin@126.com",
+    "email_source": "上海交通大学医学院导师系统",
+    "homepage": "https://daoshi.shsmu.edu.cn/",
+    "secondary_source": "https://daoshi.shsmu.edu.cn/",
+    "admission_source": "https://www.shsmu.edu.cn/yjsy/zsgz1.htm",
+    "match_score": 85,
+    "tier": "冲刺",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方导师库明确博导，2027招生待确认",
+    "coverage_class": "官方导师库明确博导，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "chen_yu_shu",
+    "name": "陈雨",
+    "gender": "男",
+    "title": "教授",
+    "doctoral_supervisor": "是",
+    "school": "上海大学",
+    "hospital": "非临床主导师平台",
+    "department": "生物医用材料课题组",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "纳米医学",
+      "生物材料",
+      "超声诊疗",
+      "肿瘤诊疗一体化",
+      "药物递送"
+    ],
+    "research_summary": "生物医用功能材料、超声诊疗、药物靶向输运和肿瘤治疗；与你的纳米材料实验能力高度匹配。",
+    "projects": "官方主页公开国家级人才项目与大量材料/纳米医学成果。",
+    "email": "未公开，需通过上海大学主页联系",
+    "email_source": "官方主页未展示",
+    "homepage": "https://www.shu.edu.cn/info/1611/75804.htm",
+    "secondary_source": "https://yjszs.shu.edu.cn/",
+    "admission_source": "https://yjszs.shu.edu.cn/",
+    "match_score": 85,
+    "tier": "匹配",
+    "advantages": [
+      "纳米材料研究极强",
+      "高水平论文与交叉合作机会多"
+    ],
+    "risks": [
+      "不属于临床超声医学培养路径",
+      "毕业后进入超声临床岗位存在学位类型风险"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需核对2027博士专业",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "lv_ke_pumch",
+    "name": "吕珂",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京协和医学院",
+    "hospital": "北京协和医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "介入超声",
+      "超声造影"
+    ],
+    "research_summary": "协和超声临床与介入平台强，三甲医院就业认可度高。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.pumch.cn/department_chaoszdk.html",
+    "secondary_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "admission_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "match_score": 85,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "医院官网明确博士生导师，2027名额待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yang_wei_bjcancer",
+    "name": "杨薇",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京大学医学部",
+    "hospital": "北京大学肿瘤医院",
+    "department": "超声科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "甲状腺超声",
+      "乳腺超声",
+      "肝脏超声",
+      "肿瘤消融"
+    ],
+    "research_summary": "甲状腺、乳腺及腹部肿瘤超声诊断和射频消融，适合肿瘤超声临床转化方向。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://teach.bjcancer.org/Html/Teachers/Overview.html",
+    "secondary_source": "https://teach.bjcancer.org/Html/Teachers/Overview.html",
+    "admission_source": "https://teach.bjcancer.org/Html/Teachers/Overview.html",
+    "match_score": 85,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "lu_man_uestc",
+    "name": "卢漫",
+    "gender": "女",
+    "title": "主任医师/教授",
+    "doctoral_supervisor": "是",
+    "school": "电子科技大学",
+    "hospital": "四川省肿瘤医院（电子科技大学附属肿瘤医院）",
+    "department": "超声医学中心",
+    "province": "四川",
+    "city": "成都",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "介入超声",
+      "超声消融",
+      "肿瘤诊疗一体化",
+      "多中心研究"
+    ],
+    "research_summary": "超声分子影像、肿瘤与疼痛介入、肿瘤消融；主持多中心研究，临床转化和肿瘤平台强。",
+    "projects": "官方导师页列出国家重点研发、国家自然科学基金及多中心研究。",
+    "email": "未公开，需通过电子科大导师库或医院联系",
+    "email_source": "官方导师页未展示",
+    "homepage": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/11626?yxsh=13",
+    "secondary_source": "https://yz.uestc.edu.cn/",
+    "admission_source": "https://yz.uestc.edu.cn/",
+    "match_score": 85,
+    "tier": "匹配",
+    "advantages": [
+      "肿瘤介入与分子影像兼具",
+      "多中心临床研究资源强"
+    ],
+    "risks": [
+      "纳米材料不是唯一主线",
+      "需核对学位类型与培养单位"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "qiu_li_westchina",
+    "name": "邱逦",
+    "gender": "女",
+    "title": "主任医师/教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "四川大学",
+    "hospital": "华西医院",
+    "department": "超声医学科",
+    "province": "四川",
+    "city": "成都",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "肌骨超声",
+      "弹性成像",
+      "介入超声",
+      "人工智能与影像组学"
+    ],
+    "research_summary": "肌骨超声及弹性成像研究突出，官方页面确认博士生导师。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.wchscu.cn/expertlist/detail/57282.html",
+    "secondary_source": "https://www.wchscu.cn/public/department/yzyz/detail/32138.html",
+    "admission_source": "https://yjs.cd120.com/channels/412.html",
+    "match_score": 85,
+    "tier": "冲刺",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "jing_xiang_nankai",
+    "name": "经翔",
+    "gender": "男",
+    "title": "主任医师",
+    "doctoral_supervisor": "是",
+    "school": "南开大学",
+    "hospital": "天津市第三中心医院/天津大学中心医院",
+    "department": "超声诊断与介入治疗",
+    "province": "天津",
+    "city": "天津",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "介入超声",
+      "超声消融",
+      "超声造影",
+      "人工智能与影像组学",
+      "肿瘤免疫治疗"
+    ],
+    "research_summary": "肿瘤热消融、多模态导航、消融联合免疫治疗、CEUS-AI和影像组学；与你的肿瘤免疫纳米治疗可形成临床转化衔接。",
+    "projects": "官方导师页公开研究方向和学术简介。",
+    "email": "dr.jingxiang@aliyun.com",
+    "email_source": "南开大学医学院官方导师主页",
+    "homepage": "https://medical.nankai.edu.cn/2022/0928/c6622a481011/page.htm",
+    "secondary_source": "https://graduate.nankai.edu.cn/",
+    "admission_source": "https://graduate.nankai.edu.cn/",
+    "match_score": 85,
+    "tier": "匹配",
+    "advantages": [
+      "消融联合免疫治疗与你课题叙事接近",
+      "临床介入资源强"
+    ],
+    "risks": [
+      "导师依托单位关系需核对",
+      "2027专业代码和名额未公开"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "建议尽早邮件确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "gender": "未公开",
+    "doctoral_supervisor": "是（官方教师主页）",
+    "province": "福建",
+    "city": "福州",
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "coverage_class": "交叉方向官方博导，2027招生待确认",
+    "admission_status": "交叉方向官方博导，2027招生待确认",
+    "degree_types": [
+      "学博（生物与医药）"
+    ],
+    "secondary_source": "https://med.fzu.edu.cn/",
+    "admission_source": "https://yjsy.fzu.edu.cn/",
+    "advantages": [
+      "超声临床与工程转化结合",
+      "福建省立医院临床平台与福州大学工科资源可互补"
+    ],
+    "risks": [
+      "博士学位方向为生物与医药，不是105124临床超声专博",
+      "需确认2027是否招收全日制非定向及具体培养地点"
+    ],
+    "id": "wu_songsong_fzu",
+    "name": "吴松松",
+    "title": "主任医师/副教授",
+    "school": "福州大学",
+    "hospital": "附属省立医院",
+    "department": "超声科/医学院",
+    "research_tags": [
+      "介入超声",
+      "肿瘤消融",
+      "肿瘤诊疗一体化",
+      "超声治疗"
+    ],
+    "research_summary": "官方教师主页明确博士招生专业为生物与医药，聚焦多脏器实体肿瘤超声介入诊疗一体化。",
+    "projects": "公开主页介绍甲状腺、肝肾、子宫等肿瘤消融及复杂部位介入研究。",
+    "email": "465269898@qq.com",
+    "email_source": "福州大学医学院官方教师主页",
+    "homepage": "https://med.fzu.edu.cn/info/1114/1710.htm",
+    "match_score": 85,
+    "tier": "匹配",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "ruan_litao_xjtu",
+    "name": "阮骊韬",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "西安交通大学",
+    "hospital": "西安交通大学第一附属医院",
+    "department": "超声医学科",
+    "province": "陕西",
+    "city": "西安",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "介入超声",
+      "超声造影",
+      "乳腺超声",
+      "弹性成像"
+    ],
+    "research_summary": "介入超声和超声造影，临床科研体系成熟。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "rlt555@mail.xjtu.edu.cn",
+    "email_source": "西安交通大学教师主页",
+    "homepage": "https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=1229",
+    "secondary_source": "https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=1229",
+    "admission_source": "https://yz.xjtu.edu.cn/",
+    "match_score": 85,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yu_jinhua_fudan",
+    "name": "余锦华",
+    "gender": "未公开",
+    "title": "教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "复旦大学",
+    "hospital": "生物医学工程相关院系",
+    "department": "生物医学工程",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声成像",
+      "人工智能与影像组学",
+      "脑机接口",
+      "超声仪器与生物医学工程"
+    ],
+    "research_summary": "超声成像、人工智能和神经工程交叉，适合医工方向但不等同临床超声专博。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "jhyu@fudan.edu.cn",
+    "email_source": "复旦大学官方页面",
+    "homepage": "https://bme.fudan.edu.cn/",
+    "secondary_source": "https://bme.fudan.edu.cn/",
+    "admission_source": "https://gsao.fudan.edu.cn/",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "学位可能为工学/理学而非临床医学",
+      "三甲超声临床岗位专业匹配需提前确认"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "交叉方向官方博导，2027招生待确认",
+    "coverage_class": "交叉方向官方博导，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "peng_chengzhong_tongji",
+    "name": "彭成忠",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "同济大学医学院",
+    "hospital": "附属第十人民医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "介入超声",
+      "肿瘤消融"
+    ],
+    "research_summary": "同济大学医学院2026年临床医学专业型博士可招生导师名单明确列入105124超声医学。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "secondary_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "admission_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确可招生",
+    "coverage_class": "2026专博目录明确可招生",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未在名单中公开，建议联系导师。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "lv_xiuzhang_ccmu",
+    "name": "吕秀章",
+    "gender": "男",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京朝阳医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "人工智能与影像组学",
+      "分子影像"
+    ],
+    "research_summary": "超声心动图基础与临床、智能分析及心肌纤维化影像。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "chaoyanglxz@163.com",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjcyyy/yxyxyhyx/h017061.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjcyyy/yxyxyhyx/h017061.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xia_yu_pumch",
+    "name": "夏宇",
+    "gender": "未公开",
+    "title": "主任医师、教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京协和医学院",
+    "hospital": "北京协和医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "临床超声",
+      "超声造影",
+      "浅表器官超声"
+    ],
+    "research_summary": "北京协和医院现行官网列示博士生导师，适合临床科研并重型申请。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.pumch.cn/department_chaoszdk.html",
+    "secondary_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "admission_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "match_score": 84,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "医院官网明确博士生导师，2027名额待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "jiang_yuxin_pumch",
+    "name": "姜玉新",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京协和医学院",
+    "hospital": "北京协和医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "妇产超声",
+      "超声医学教育"
+    ],
+    "research_summary": "北京协和医院超声学科资深博导，临床与研究生培养体系成熟。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.pumch.cn/department_chaoszdk.html",
+    "secondary_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "admission_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "match_score": 84,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "医院官网明确博士生导师，2027名额待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "qian_linxue_ccmu",
+    "name": "钱林学",
+    "gender": "男",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京友谊医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "介入超声",
+      "腹部超声",
+      "浅表器官超声"
+    ],
+    "research_summary": "介入超声及腹部、浅表器官诊疗，临床平台与行业影响力强。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "qianlinxue2002@yahoo.com.cn",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjyyyy/csyx1/20251990406851364470785.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjyyyy/csyx1/20251990406851364470785.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_dong_uestc",
+    "name": "王冬",
+    "gender": "男",
+    "title": "主任医师/教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "电子科技大学",
+    "hospital": "四川省人民医院",
+    "department": "超声医学科",
+    "province": "四川",
+    "city": "成都",
+    "degree_types": [
+      "学博（临床医学）"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "血管超声",
+      "急重症超声",
+      "超声生物效应"
+    ],
+    "research_summary": "电子科大导师系统明确博士/博士后导师，博士招生专业显示为临床医学学术学位，超声专业专博需另核对。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "wang57554@163.com",
+    "email_source": "电子科技大学研招导师系统",
+    "homepage": "https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/21139?yxsh=13",
+    "secondary_source": "https://yjsjy.uestc.edu.cn/",
+    "admission_source": "https://yz.uestc.edu.cn/",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "博士专业在公开页为100200临床医学而非105124",
+      "需确认能否以超声方向培养以及毕业专业名称"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方学博导师，超声专博需核实",
+    "coverage_class": "官方学博导师，超声专博需核实",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xu_jinfeng_szh",
+    "name": "徐金锋",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "暨南大学/南方科技大学",
+    "hospital": "深圳市人民医院",
+    "department": "超声科",
+    "province": "广东",
+    "city": "深圳",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "甲状腺超声",
+      "乳腺超声",
+      "介入超声"
+    ],
+    "research_summary": "腹部、甲状腺乳腺及介入超声，深圳大型平台和博士后培养体系成熟。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "xujinfeng@yahoo.com / artery92@126.com",
+    "email_source": "深圳市人民医院官方主页",
+    "homepage": "https://www.szhospital.com/?fid=A0080203&id=1151&part=localfrm&pk=231&tk=98640c94e9cabd89404d0ad097215975",
+    "secondary_source": "https://www.szhospital.com/?fid=A0080203&id=1151&part=localfrm&pk=231&tk=98640c94e9cabd89404d0ad097215975",
+    "admission_source": "https://www.szhospital.com/?fid=A0080203&id=1151&part=localfrm&pk=231&tk=98640c94e9cabd89404d0ad097215975",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "luo_baoming_sysu",
+    "name": "罗葆明",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "中山大学",
+    "hospital": "中山大学孙逸仙纪念医院",
+    "department": "超声科",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "乳腺超声",
+      "浅表器官超声",
+      "超声造影",
+      "介入超声"
+    ],
+    "research_summary": "乳腺及浅表器官超声诊断与介入，临床病例资源和行业影响力强。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.gzsys.org.cn/node/13888",
+    "secondary_source": "https://www.gzsys.org.cn/node/13888",
+    "admission_source": "https://www.gzsys.org.cn/node/13888",
+    "match_score": 84,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "su_zhongzhen_sysu",
+    "name": "苏中振",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "中山大学",
+    "hospital": "附属第五医院",
+    "department": "超声科",
+    "province": "广东",
+    "city": "珠海",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "肿瘤超声",
+      "超声造影",
+      "人工智能与影像组学"
+    ],
+    "research_summary": "中山大学附属第五医院2026年105124超声医学调整计划明确列名。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.sysu5h.cn/",
+    "secondary_source": "https://www.sysu5h.cn/",
+    "admission_source": "https://graduate.sysu.edu.cn/zsw/doctor",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录/调整计划明确招生",
+    "coverage_class": "2026专博目录/调整计划明确招生",
+    "catalog_year": "2026",
+    "quota": "2026相关调整计划公开1个名额。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "dong_fajin_jnu",
+    "name": "董发进",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "暨南大学",
+    "hospital": "第一临床医学院/暨南大学附属第一医院",
+    "department": "超声医学科",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "临床超声",
+      "超声造影",
+      "介入超声"
+    ],
+    "research_summary": "暨南大学2026年105124超声医学专业学位博士目录明确列名。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "secondary_source": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "admission_source": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确招生",
+    "coverage_class": "2026专博目录明确招生",
+    "catalog_year": "2026",
+    "quota": "2026专业总计划3人，非导师个人固定名额。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xie_xiaoyan_sysu",
+    "name": "谢晓燕",
+    "gender": "女",
+    "title": "教授、主任医师",
+    "doctoral_supervisor": "是",
+    "school": "中山大学",
+    "hospital": "中山大学附属第一医院",
+    "department": "超声医学科/介入超声专科",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "肝脏超声",
+      "超声造影",
+      "介入超声",
+      "超声消融",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "肝胆肿瘤超声造影与超声引导消融，临床介入平台强；适合从纳米治疗转向临床介入/肿瘤超声。",
+    "projects": "官方专家主页确认博士生导师资格和主要临床研究方向。",
+    "email": "未公开，需通过中山一院科室联系",
+    "email_source": "官方主页未公开",
+    "homepage": "https://www.fahsysu.org.cn/node/5586",
+    "secondary_source": "https://graduate.sysu.edu.cn/zsw/doctor",
+    "admission_source": "https://graduate.sysu.edu.cn/zsw/doctor",
+    "match_score": 84,
+    "tier": "冲刺",
+    "advantages": [
+      "肝肿瘤介入与超声造影平台强",
+      "临床就业认可度高"
+    ],
+    "risks": [
+      "与你当前纳米材料主线并非完全重合",
+      "竞争激烈"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生目录",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "luo_shouhua_seu",
+    "name": "罗守华",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "东南大学",
+    "hospital": "东南大学生物科学与医学工程学院",
+    "department": "医学影像与智能医学",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "人工智能与影像组学",
+      "超声视频分析",
+      "医学图像计算"
+    ],
+    "research_summary": "AI辅助超声视频识别、质量控制和教学训练。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "luoshouhua@seu.edu.cn",
+    "email_source": "东南大学官方主页",
+    "homepage": "https://bme.seu.edu.cn/lsh/main.htm",
+    "secondary_source": "https://bme.seu.edu.cn/lsh/main.htm",
+    "admission_source": "https://yzb.seu.edu.cn/",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "可能授予工学学位",
+      "需确认是否接受临床医学背景和2027指标"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，工学/医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_hongmei_xjtu",
+    "name": "张红梅",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "西安交通大学",
+    "hospital": "西安交通大学/超声研究平台",
+    "department": "超声成像与智能分析",
+    "province": "陕西",
+    "city": "西安",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声黏弹性成像",
+      "人工智能与影像组学",
+      "血管超声"
+    ],
+    "research_summary": "超声黏弹性成像与智能分析，偏成像技术与生物力学。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=1838",
+    "secondary_source": "https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=1838",
+    "admission_source": "https://yz.xjtu.edu.cn/",
+    "match_score": 84,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "he_yihua_ccmu",
+    "name": "何怡华",
+    "gender": "女",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京安贞医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "胎儿心脏",
+      "人工智能与影像组学",
+      "遗传影像"
+    ],
+    "research_summary": "胎儿及成人心脏病遗传机制与影像智能诊断。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "heyihua0503@ccmu.edu.cn",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjazyy/csyx5/h017811.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjazyy/csyx5/h017811.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 83,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhu_qingli_pumch",
+    "name": "朱庆莉",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京协和医学院",
+    "hospital": "北京协和医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "浅表器官超声",
+      "乳腺超声",
+      "甲状腺超声"
+    ],
+    "research_summary": "浅表器官及临床超声方向，平台顶级但竞争强。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.pumch.cn/department_chaoszdk.html",
+    "secondary_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "admission_source": "https://www.pumch.cn/department_chaoszdk.html",
+    "match_score": 83,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "医院官网明确博士生导师，2027名额待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhu_qiang_ccmu",
+    "name": "朱强",
+    "gender": "男",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京同仁医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "头颈超声",
+      "乳腺超声",
+      "胃肠超声",
+      "介入超声",
+      "超声设备"
+    ],
+    "research_summary": "头颈、乳腺和胃肠超声及设备研发。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "qzhu@263.net",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjtryy/csyx3/20251990407061541044225.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjtryy/csyx3/20251990407061541044225.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 83,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_li_hust",
+    "name": "张丽",
+    "gender": "未公开",
+    "title": "主任医师/教授（以官网为准）",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "华中科技大学同济医学院",
+    "hospital": "附属协和医院",
+    "department": "超声医学科",
+    "province": "湖北",
+    "city": "武汉",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "胎儿超声"
+    ],
+    "research_summary": "协和医院官方导师页面确认博士生导师身份；科室为国内较早拥有超声博士点的平台。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.whuh.com/ppxk/yjks/csyxk/zjjs.htm",
+    "secondary_source": "https://www.whuh.com/info/1486/58160_1.htm",
+    "admission_source": "https://gszs.hust.edu.cn/info/1106/4062.htm",
+    "match_score": 83,
+    "tier": "匹配",
+    "advantages": [
+      "超声博士培养历史久、临床病例和亚专科平台强",
+      "心血管/分子影像方向具有全国影响力"
+    ],
+    "risks": [
+      "顶级平台竞争强",
+      "需核对2027目录、导师接收意向及成果门槛"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博士生导师，2027招生待确认",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "li_yuman_hust",
+    "name": "李玉曼",
+    "gender": "未公开",
+    "title": "主任医师/教授（以官网为准）",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "华中科技大学同济医学院",
+    "hospital": "附属协和医院",
+    "department": "超声医学科",
+    "province": "湖北",
+    "city": "武汉",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "超声造影"
+    ],
+    "research_summary": "协和医院官方导师页面确认博士生导师身份；科室为国内较早拥有超声博士点的平台。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.whuh.com/info/1324/7390.htm",
+    "secondary_source": "https://www.whuh.com/info/1486/58160_1.htm",
+    "admission_source": "https://gszs.hust.edu.cn/info/1106/4062.htm",
+    "match_score": 83,
+    "tier": "匹配",
+    "advantages": [
+      "超声博士培养历史久、临床病例和亚专科平台强",
+      "心血管/分子影像方向具有全国影响力"
+    ],
+    "risks": [
+      "顶级平台竞争强",
+      "需核对2027目录、导师接收意向及成果门槛"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博士生导师，2027招生待确认",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "jing_hui_hrbmu",
+    "name": "荆慧",
+    "gender": "女",
+    "title": "主任医师/教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "哈尔滨医科大学",
+    "hospital": "附属第四医院",
+    "department": "医学超声科",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "浅表超声",
+      "超声分子影像",
+      "介入超声"
+    ],
+    "research_summary": "官方科室页面明确博士生导师，主持国家自然科学基金并参与分子影像方向。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://ydsy.hrbmu.edu.cn/info/1467/7263.htm",
+    "secondary_source": "https://ydsy.hrbmu.edu.cn/ylgk/ksjs/zdxgks/csk.htm",
+    "admission_source": "https://yjsgl.hrbmu.edu.cn/",
+    "match_score": 83,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "jiang_lixin_sjtu",
+    "name": "姜立新",
+    "gender": "男",
+    "title": "博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "上海交通大学医学院",
+    "hospital": "附属仁济医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "肌骨超声",
+      "神经超声",
+      "介入超声",
+      "妇产超声",
+      "腹部超声"
+    ],
+    "research_summary": "方向覆盖运动肌骨神经、男科、妇产、腹部与介入超声，临床亚专科较宽。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "jinger_28@sina.com",
+    "email_source": "上海交通大学医学院导师系统",
+    "homepage": "https://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?from=s&pId=&tId=725&uid=05B8AD0B-77E4-4762-8A70-B1F3AC8DDB0E",
+    "secondary_source": "https://daoshi.shsmu.edu.cn/",
+    "admission_source": "https://www.shsmu.edu.cn/yjsy/zsgz1.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方导师库明确博导，2027招生待确认",
+    "coverage_class": "官方导师库明确博导，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "ying_tao_sjtu",
+    "name": "应涛",
+    "gender": "女",
+    "title": "博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "上海交通大学医学院",
+    "hospital": "附属第六人民医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "妇产超声",
+      "盆底超声",
+      "超声分子影像",
+      "超声造影"
+    ],
+    "research_summary": "聚焦盆底与妇产超声、分子影像和声学造影，适合妇产临床与造影交叉。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "yingtaomail@yeah.net",
+    "email_source": "上海交通大学医学院导师系统",
+    "homepage": "https://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?from=s&pId=&tId=725&uid=95AFA97F-FBC8-4AC0-BC44-75EFEF9D6511",
+    "secondary_source": "https://daoshi.shsmu.edu.cn/",
+    "admission_source": "https://www.shsmu.edu.cn/yjsy/zsgz1.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方导师库明确博导，2027招生待确认",
+    "coverage_class": "官方导师库明确博导，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "guo_lehang_tongji",
+    "name": "郭乐杭",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "同济大学医学院",
+    "hospital": "附属第十人民医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "介入超声"
+    ],
+    "research_summary": "同济大学医学院2026年临床医学专业型博士可招生导师名单明确列入105124超声医学。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "secondary_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "admission_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确可招生",
+    "coverage_class": "2026专博目录明确可招生",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未在名单中公开，建议联系导师。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "he_wen_ccmu",
+    "name": "何文",
+    "gender": "男",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京天坛医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "介入超声",
+      "血管超声",
+      "神经超声"
+    ],
+    "research_summary": "介入性超声与血管超声，临床型博士培养价值高。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "hewen168@sohu.com",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjttyy/csyx4/20251990407634185175041.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjttyy/csyx4/20251990407634185175041.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wu_qingqing_ccmu",
+    "name": "吴青青",
+    "gender": "女",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京妇产医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "妇产超声",
+      "胎儿医学",
+      "人工智能与影像组学"
+    ],
+    "research_summary": "胎儿出生缺陷、妇产超声新技术及AI。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "wuqq2007@163.com",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjfcyy/yxyxyhyx/20252052738151739904004.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjfcyy/yxyxyhyx/20252052738151739904004.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_hongyan_pumch",
+    "name": "王红燕",
+    "gender": "未公开",
+    "title": "主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "北京协和医学院",
+    "hospital": "北京协和医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "乳腺超声",
+      "甲状腺超声",
+      "血管超声",
+      "超声质量控制"
+    ],
+    "research_summary": "超声新技术与质量控制、浅表器官转化研究，适合临床型博士路径。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.pumch.cn/detail/5260.html",
+    "secondary_source": "https://www.pumch.cn/detail/5260.html",
+    "admission_source": "https://www.pumch.cn/detail/5260.html",
+    "match_score": 82,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "医院官网明确博士生导师，2027名额待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_yun_sdu",
+    "name": "张运",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "山东大学",
+    "hospital": "山东大学齐鲁医院/心血管研究平台",
+    "department": "心血管影像/超声心动图",
+    "province": "山东",
+    "city": "济南",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "心血管影像",
+      "动脉粥样硬化"
+    ],
+    "research_summary": "心血管影像与超声心动图研究，山东就业平台极强，但与纳米材料主线匹配度中等。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.xxgcg.sdu.edu.cn/info/1269/4203.htm",
+    "secondary_source": "https://www.xxgcg.sdu.edu.cn/info/1269/4203.htm",
+    "admission_source": "https://www.xxgcg.sdu.edu.cn/info/1269/4203.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xu_zuofeng_sysu",
+    "name": "徐作峰",
+    "gender": "未公开",
+    "title": "主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "中山大学",
+    "hospital": "中山大学附属医院",
+    "department": "超声医学科",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "超声医学",
+      "临床超声",
+      "肿瘤诊断"
+    ],
+    "research_summary": "中山医学院官方师资页面明确超声医学博导。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "xuzuofeng77@aliyun.com",
+    "email_source": "中山医学院官方师资页",
+    "homepage": "https://szmed.sysu.edu.cn/zh-hans/cat/251",
+    "secondary_source": "https://szmed.sysu.edu.cn/zh-hans/cat/251",
+    "admission_source": "https://szmed.sysu.edu.cn/zh-hans/cat/251",
+    "match_score": 82,
+    "tier": "冲刺",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zheng_rongqin_sysu",
+    "name": "郑荣琴",
+    "gender": "女",
+    "title": "教授、主任医师",
+    "doctoral_supervisor": "是",
+    "school": "中山大学",
+    "hospital": "中山大学附属第三医院",
+    "department": "超声科",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "肝脏超声",
+      "超声造影",
+      "介入超声",
+      "肝移植超声",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "肝胆肿瘤早期诊断、超声造影、介入治疗和肝移植超声；临床资源与多学科平台强。",
+    "projects": "官方专家主页确认博士及博士后导师资格。",
+    "email": "未公开，需通过附属三院联系",
+    "email_source": "官方主页未公开",
+    "homepage": "https://lnyy.zssy.com.cn/node/14547",
+    "secondary_source": "https://www.zssy.com.cn/article/29204",
+    "admission_source": "https://graduate.sysu.edu.cn/zsw/doctor",
+    "match_score": 82,
+    "tier": "冲刺",
+    "advantages": [
+      "肝病超声与介入平台成熟",
+      "临床培养和三甲就业优势明显"
+    ],
+    "risks": [
+      "纳米材料方向匹配一般",
+      "竞争较强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "chen_xin_szu",
+    "name": "陈昕",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "深圳大学",
+    "hospital": "深圳大学医学部生物医学工程学院",
+    "department": "医学超声工程",
+    "province": "广东",
+    "city": "深圳",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "超声仪器与生物医学工程",
+      "医学超声工程",
+      "超声设备"
+    ],
+    "research_summary": "医学超声工程与产业化，适合仪器和医工交叉方向。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "chenxin@szu.edu.cn",
+    "email_source": "深圳大学官方主页",
+    "homepage": "https://bme.szu.edu.cn/info/1154/1306.htm",
+    "secondary_source": "https://bme.szu.edu.cn/info/1154/1306.htm",
+    "admission_source": "https://bme.szu.edu.cn/info/1154/1306.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，工学方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "tu_juan_nju",
+    "name": "屠娟",
+    "gender": "女",
+    "title": "教授",
+    "doctoral_supervisor": "是",
+    "school": "南京大学",
+    "hospital": "非临床主导师平台",
+    "department": "物理学院声科学与工程系",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "医学超声",
+      "声空化",
+      "超声治疗",
+      "超声生物效应",
+      "神经调控"
+    ],
+    "research_summary": "医学超声、非线性声学、声空化及其生物医学应用；适合深入超声治疗机制与工程基础。",
+    "projects": "南京大学官方页面确认博士生导师及多项国家基金经历。",
+    "email": "官网以防爬格式展示，申请前请从官方主页复制确认",
+    "email_source": "南京大学声学研究所官方主页",
+    "homepage": "https://physics.nju.edu.cn/szdw/qbmd/20240321/i262108.html",
+    "secondary_source": "https://tzb.nju.edu.cn/de/42/c360a515650/page.htm",
+    "admission_source": "https://yzb.nju.edu.cn/",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "超声空化与治疗机制强",
+      "南京医工交叉资源好"
+    ],
+    "risks": [
+      "非临床医学博士",
+      "对物理/工程基础要求可能较高"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需核对2027招生专业与名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "hu_benhui_njmu",
+    "name": "胡本慧",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "南京医科大学",
+    "hospital": "南京医科大学生物医学工程与信息学院/附属医院",
+    "department": "生物医学工程与信息",
+    "province": "江苏",
+    "city": "南京",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "磁声成像",
+      "人工智能与影像组学",
+      "超声仪器与生物医学工程"
+    ],
+    "research_summary": "智能磁声成像与共生电子，偏医工成像。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "secondary_source": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "admission_source": "https://bmei.njmu.edu.cn/10269/list.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "学位通常非临床医学",
+      "需要确认2027招生方向及临床背景接收条件"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，医工交叉方向",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yang_yali_hust",
+    "name": "杨亚利",
+    "gender": "未公开",
+    "title": "主任医师/教授（以官网为准）",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "华中科技大学同济医学院",
+    "hospital": "附属协和医院",
+    "department": "超声医学科",
+    "province": "湖北",
+    "city": "武汉",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "儿科超声"
+    ],
+    "research_summary": "协和医院官方导师页面确认博士生导师身份；科室为国内较早拥有超声博士点的平台。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.whuh.com/info/1324/7393.htm",
+    "secondary_source": "https://www.whuh.com/info/1486/58160_1.htm",
+    "admission_source": "https://gszs.hust.edu.cn/info/1106/4062.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "超声博士培养历史久、临床病例和亚专科平台强",
+      "心血管/分子影像方向具有全国影响力"
+    ],
+    "risks": [
+      "顶级平台竞争强",
+      "需核对2027目录、导师接收意向及成果门槛"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博士生导师，2027招生待确认",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhou_ping_csu",
+    "name": "周平",
+    "gender": "未公开",
+    "title": "教授/主任医师、专业学位博导",
+    "doctoral_supervisor": "是",
+    "school": "中南大学",
+    "hospital": "中南大学湘雅三医院",
+    "department": "超声医学科",
+    "province": "湖南",
+    "city": "长沙",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "浅表器官超声",
+      "介入超声"
+    ],
+    "research_summary": "腹部、浅表器官与介入超声，临床型博士路径清晰。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "Zhouping1000@hotmail.com",
+    "email_source": "中南大学官方主页",
+    "homepage": "https://xysm.csu.edu.cn/info/1213/7606.htm",
+    "secondary_source": "https://xysm.csu.edu.cn/info/1213/7606.htm",
+    "admission_source": "https://yz.csu.edu.cn/info/1012/1469.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zeng_shi_csu",
+    "name": "曾施",
+    "gender": "未公开",
+    "title": "教授/主任医师、学术与专业学位博导",
+    "doctoral_supervisor": "是",
+    "school": "中南大学",
+    "hospital": "中南大学湘雅医院",
+    "department": "超声医学科",
+    "province": "湖南",
+    "city": "长沙",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "妇产超声",
+      "临床超声"
+    ],
+    "research_summary": "心脏与妇产超声临床研究。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "doctorzshi@163.com",
+    "email_source": "中南大学官方主页",
+    "homepage": "https://xysm.csu.edu.cn/info/1212/7600.htm",
+    "secondary_source": "https://xysm.csu.edu.cn/info/1212/7600.htm",
+    "admission_source": "https://yz.csu.edu.cn/info/1012/1469.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "gender": "未公开",
+    "doctoral_supervisor": "是（官方教师主页）",
+    "province": "福建",
+    "city": "福州",
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "coverage_class": "交叉方向官方博导，2027招生待确认",
+    "admission_status": "交叉方向官方博导，2027招生待确认",
+    "degree_types": [
+      "学博（生物与医药）"
+    ],
+    "secondary_source": "https://med.fzu.edu.cn/",
+    "admission_source": "https://yjsy.fzu.edu.cn/",
+    "advantages": [
+      "超声临床与工程转化结合",
+      "福建省立医院临床平台与福州大学工科资源可互补"
+    ],
+    "risks": [
+      "博士学位方向为生物与医药，不是105124临床超声专博",
+      "需确认2027是否招收全日制非定向及具体培养地点"
+    ],
+    "id": "chen_shuqiang_fzu",
+    "name": "陈树强",
+    "title": "主任医师/副教授",
+    "school": "福州大学",
+    "hospital": "附属省立医院",
+    "department": "超声科/医学院",
+    "research_tags": [
+      "超声新技术",
+      "肌骨超声",
+      "人工智能与影像组学",
+      "超声仪器与生物医学工程"
+    ],
+    "research_summary": "官方教师主页明确博士招生专业为生物与医药，研究超声新技术研发与转化。",
+    "projects": "公开主页列出超声影像组学、肌骨超声及多项省部厅级课题。",
+    "email": "chenshu0518@163.com",
+    "email_source": "福州大学医学院官方教师主页",
+    "homepage": "https://med.fzu.edu.cn/info/1114/1713.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "jiang_shuangquan_hrbmu",
+    "name": "姜双全",
+    "gender": "男",
+    "title": "主任医师/教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "哈尔滨医科大学",
+    "hospital": "附属第二医院",
+    "department": "超声医学科",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "浅表超声",
+      "介入超声"
+    ],
+    "research_summary": "哈医大导师系统明确博士生导师，研究心脏、外周血管、浅表器官及介入。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "23237003@qq.com",
+    "email_source": "哈尔滨医科大学导师系统",
+    "homepage": "https://yjsgl.hrbmu.edu.cn/dsfc/dsfcgrxx/9EC43311777C0B5B9A6D3B4C8CC82E7C",
+    "secondary_source": "https://yjsgl.hrbmu.edu.cn/",
+    "admission_source": "https://yjsgl.hrbmu.edu.cn/",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "tian_jiawei_hrbmu",
+    "name": "田家玮",
+    "gender": "女",
+    "title": "二级教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "哈尔滨医科大学",
+    "hospital": "哈尔滨医科大学附属第二医院",
+    "department": "超声医学科/医学影像中心",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "妇产超声",
+      "浅表器官超声",
+      "介入超声"
+    ],
+    "research_summary": "超声医学资深博导，培养体系和临床学科平台强；需关注是否继续招收2027级。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.hrbmush.edu.cn/info/2098/1956.htm",
+    "secondary_source": "https://www.hrbmush.edu.cn/info/2098/1956.htm",
+    "admission_source": "https://www.hrbmush.edu.cn/info/2098/1956.htm",
+    "match_score": 82,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "资深导师当年是否招生需确认",
+      "研究方向与纳米材料匹配度有限"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027是否招生需重点确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "sun_liping_tongji",
+    "name": "孙丽萍",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "同济大学医学院",
+    "hospital": "附属第十人民医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "临床超声"
+    ],
+    "research_summary": "同济大学医学院2026年临床医学专业型博士可招生导师名单明确列入105124超声医学。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "secondary_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "admission_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "match_score": 81,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确可招生",
+    "coverage_class": "2026专博目录明确可招生",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未在名单中公开，建议联系导师。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhou_yang_swjtu",
+    "name": "周洋",
+    "gender": "男",
+    "title": "副教授",
+    "doctoral_supervisor": "公开导师系统标注为是",
+    "school": "西南交通大学",
+    "hospital": "附属成都市第三人民医院",
+    "department": "医学院/超声相关",
+    "province": "四川",
+    "city": "成都",
+    "degree_types": [
+      "学博（以目录为准）"
+    ],
+    "research_tags": [
+      "超声分子影像",
+      "纳米医学",
+      "超声治疗"
+    ],
+    "research_summary": "具有重庆医科大学超声分子影像背景，适合纳米超声与分子影像的中青年团队路线。",
+    "projects": "招生导师系统公开其背景和联系方式，具体基金与近5年成果需进一步核验。",
+    "email": "hansenzy@126.com",
+    "email_source": "西南交通大学研究生招生导师信息系统",
+    "homepage": "https://yz.swjtu.edu.cn/~12623",
+    "secondary_source": "https://yz.swjtu.edu.cn/",
+    "admission_source": "https://yz.swjtu.edu.cn/",
+    "match_score": 81,
+    "tier": "匹配",
+    "advantages": [
+      "方向高度匹配且中青年导师可能直接指导更多",
+      "成都地区平台和生活成本相对友好"
+    ],
+    "risks": [
+      "临床平台与学校学位归属需核对",
+      "团队规模与毕业去向需进一步了解"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "建议邮件确认2027名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_zhibiao_cqmu",
+    "name": "王智彪",
+    "gender": "男",
+    "title": "教授",
+    "doctoral_supervisor": "是",
+    "school": "重庆医科大学",
+    "hospital": "超声医疗国家工程研究中心相关平台",
+    "department": "生物医学工程/超声治疗",
+    "province": "重庆",
+    "city": "重庆",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "聚焦超声",
+      "超声治疗",
+      "超声生物效应",
+      "妇产超声",
+      "医疗器械"
+    ],
+    "research_summary": "聚焦超声治疗学与大型设备转化的代表性团队；适合超声治疗工程与临床转化方向。",
+    "projects": "多个官方学术机构页面确认其长期从事超声治疗与国家重大项目。",
+    "email": "未公开，需通过重庆医科大学/工程中心联系",
+    "email_source": "公开页面未提供可确认邮箱",
+    "homepage": "https://www.csbme.org/admin/operation/orgMember/Com_memberDetails.do?conditionObject.id=20",
+    "secondary_source": "https://www.cssb.tsinghua.edu.cn/zh/jiaoliu/itemlist/category/35-2015-oct",
+    "admission_source": "https://yjsy.cqmu.edu.cn/",
+    "match_score": 81,
+    "tier": "冲刺",
+    "advantages": [
+      "聚焦超声治疗顶级平台",
+      "设备与临床转化资源突出"
+    ],
+    "risks": [
+      "导师非常资深，需确认是否亲自招生",
+      "方向偏HIFU工程，与你当前纳米递送并非完全一致"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "必须优先确认当前招生状态",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "ren_min_tongji",
+    "name": "任敏",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "同济大学医学院",
+    "hospital": "附属妇产科医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "妇产超声",
+      "胎儿超声"
+    ],
+    "research_summary": "同济大学医学院2026年临床医学专业型博士可招生导师名单明确列入105124超声医学。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "secondary_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "admission_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确可招生",
+    "coverage_class": "2026专博目录明确可招生",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未在名单中公开，建议联系导师。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wu_rong_shanghai",
+    "name": "吴蓉",
+    "gender": "女",
+    "title": "主任医师",
+    "doctoral_supervisor": "是",
+    "school": "上海交通大学（公开简介）/合作培养单位",
+    "hospital": "上海市第一人民医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "专业型博士（公开导师页）"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "超声造影",
+      "人工智能与影像组学",
+      "介入超声"
+    ],
+    "research_summary": "临床超声与介入、AI/影像处理相关研究，适合临床专博路线。",
+    "projects": "公开导师资料确认博士生导师和专业型博导身份。",
+    "email": "wurong7111@163.com",
+    "email_source": "徐州医科大学导师信息页公开",
+    "homepage": "https://yjsxxgl.xzhmu.edu.cn/gmis/%28S%28ukl2w4o1ysqposfvoemq44tw%29%29/dsfc/dsfcgrxx/9B7014D0F55A17F149285FEE3C5641B5",
+    "secondary_source": "https://www.gs.sjtu.edu.cn/",
+    "admission_source": "https://www.gs.sjtu.edu.cn/",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "专业型博士与临床平台匹配",
+      "上海就业资源好"
+    ],
+    "risks": [
+      "招生依托单位与实际工作单位需核对",
+      "纳米材料方向匹配有限"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生归属",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "待核实",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_bo_tongji",
+    "name": "张波",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "同济大学医学院",
+    "hospital": "附属东方医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "临床超声",
+      "介入超声"
+    ],
+    "research_summary": "同济大学医学院2026年临床医学专业型博士可招生导师名单明确列入105124超声医学。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "secondary_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "admission_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确可招生",
+    "coverage_class": "2026专博目录明确可招生",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未在名单中公开，建议联系导师。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "bai_wenkun_tongji",
+    "name": "白文坤",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "同济大学医学院",
+    "hospital": "附属同济医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "临床超声",
+      "超声造影"
+    ],
+    "research_summary": "同济大学医学院2026年临床医学专业型博士可招生导师名单明确列入105124超声医学。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "secondary_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "admission_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确可招生",
+    "coverage_class": "2026专博目录明确可招生",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未在名单中公开，建议联系导师。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_bo_pumc",
+    "name": "张波",
+    "gender": "男",
+    "title": "教授、主任医师",
+    "doctoral_supervisor": "是",
+    "school": "北京协和医学院（导师库）",
+    "hospital": "中日友好医院",
+    "department": "超声医学科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博/专博以协和年度目录为准"
+    ],
+    "research_tags": [
+      "甲状腺超声",
+      "人工智能与影像组学",
+      "浅表器官超声"
+    ],
+    "research_summary": "甲状腺超声、智能超声与临床标准化研究；更偏临床诊断与AI，纳米材料匹配度中等。",
+    "projects": "协和导师库公开主持多项国家自然科学基金。",
+    "email": "未公开，需通过导师库/科室联系",
+    "email_source": "导师库页面未显示",
+    "homepage": "https://yzbss.pumc.edu.cn/basicinfo/tutorinfo/tutordetail/J2009023659",
+    "secondary_source": "https://graduate.pumc.edu.cn/zsw/bszs.htm",
+    "admission_source": "https://graduate.pumc.edu.cn/zsw/bszs.htm",
+    "match_score": 80,
+    "tier": "冲刺",
+    "advantages": [
+      "甲状腺超声与AI学术影响力强",
+      "北京临床平台好"
+    ],
+    "risks": [
+      "纳米治疗方向不直接匹配",
+      "竞争强、成果门槛高"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需核对2027导师目录",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xing_yingqi_ccmu",
+    "name": "邢英琦",
+    "gender": "女",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学宣武医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "血管超声",
+      "神经超声",
+      "脑血管病"
+    ],
+    "research_summary": "颅脑、颈部及全身血管超声和神经系统疾病研究。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "xingyq2009@sina.com",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxxwyy/csyx/xw2011285.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxxwyy/csyx/xw2011285.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_quanbin_sxmu",
+    "name": "张全斌",
+    "gender": "未公开",
+    "title": "博士生导师（以年度目录为准）",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "山西医科大学",
+    "hospital": "相关附属医院",
+    "department": "超声医学科",
+    "province": "山西",
+    "city": "太原",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "临床超声",
+      "超声医学"
+    ],
+    "research_summary": "学校博士学位授予公示显示其指导超声医学专业博士，当前招生资格仍需年度确认。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.sxmu.edu.cn/yjs/info/1033/4182.htm",
+    "secondary_source": "https://www.sxmu.edu.cn/yjs/info/1033/4182.htm",
+    "admission_source": "https://www.sxmu.edu.cn/yjs/",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方培养记录确认博导，2027招生待确认",
+    "coverage_class": "官方培养记录确认博导，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "du_guoqing_sysu",
+    "name": "杜国庆",
+    "gender": "未公开",
+    "title": "教授/主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "中山大学",
+    "hospital": "中山大学孙逸仙纪念医院",
+    "department": "超声科",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "临床超声",
+      "介入超声",
+      "超声造影"
+    ],
+    "research_summary": "孙逸仙纪念医院官方科室页面列示博士生导师，具体研究主线需套磁前核验。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.gzsys.org.cn/node/13888",
+    "secondary_source": "https://www.gzsys.org.cn/node/13888",
+    "admission_source": "https://www.gzsys.org.cn/node/13888",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "qin_xiaojuan_hust",
+    "name": "覃小娟",
+    "gender": "未公开",
+    "title": "主任医师/教授（以官网为准）",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "华中科技大学同济医学院",
+    "hospital": "附属协和医院",
+    "department": "超声医学科",
+    "province": "湖北",
+    "city": "武汉",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "浅表超声",
+      "介入超声"
+    ],
+    "research_summary": "协和医院官方导师页面确认博士生导师身份；科室为国内较早拥有超声博士点的平台。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.whuh.com/info/1486/58160_1.htm",
+    "secondary_source": "https://www.whuh.com/info/1486/58160_1.htm",
+    "admission_source": "https://gszs.hust.edu.cn/info/1106/4062.htm",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "超声博士培养历史久、临床病例和亚专科平台强",
+      "心血管/分子影像方向具有全国影响力"
+    ],
+    "risks": [
+      "顶级平台竞争强",
+      "需核对2027目录、导师接收意向及成果门槛"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博士生导师，2027招生待确认",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhou_qichang_csu",
+    "name": "周启昌",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "中南大学",
+    "hospital": "中南大学湘雅二医院",
+    "department": "超声医学科",
+    "province": "湖南",
+    "city": "长沙",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "妇产超声",
+      "胎儿心脏",
+      "心脏超声"
+    ],
+    "research_summary": "胎儿超声心动图与产前诊断，传统强方向。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过医院联系",
+    "email_source": "中南大学官方主页",
+    "homepage": "https://xysm.csu.edu.cn/",
+    "secondary_source": "https://xysm.csu.edu.cn/",
+    "admission_source": "https://yz.csu.edu.cn/info/1012/1469.htm",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "dong_xiaoqiu_hrbmu",
+    "name": "董晓秋",
+    "gender": "女",
+    "title": "二级教授/博士生导师",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "哈尔滨医科大学",
+    "hospital": "附属第四医院",
+    "department": "医学超声科",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博",
+      "专博（以目录为准）"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "妇产超声",
+      "介入超声"
+    ],
+    "research_summary": "黑龙江超声介入早期推动者，官方页面明确二级教授、博士生导师。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://ydsy.hrbmu.edu.cn/info/1022/1541.htm",
+    "secondary_source": "https://ydsy.hrbmu.edu.cn/ylgk/ksjs/zdxgks/csk.htm",
+    "admission_source": "https://yjsgl.hrbmu.edu.cn/",
+    "match_score": 80,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "官方博导资格，2027招生待确认",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "bai_zhiyong_tsinghua",
+    "name": "白志勇",
+    "gender": "男",
+    "title": "主任医师、副教授",
+    "doctoral_supervisor": "是",
+    "school": "清华大学",
+    "hospital": "北京清华长庚医院",
+    "department": "超声科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "全日制专业学位博士（官方导师页曾明确）",
+      "另有非全日制项目，与你不匹配"
+    ],
+    "research_tags": [
+      "介入超声",
+      "超声造影",
+      "聚焦超声",
+      "肌骨超声"
+    ],
+    "research_summary": "超声诊断与介入、造影增强超声和高能聚焦超声；适合临床专博与超声治疗路线。",
+    "projects": "官方招生导师页公开研究方向与招生类型。",
+    "email": "zhiyongbai@sina.com",
+    "email_source": "清华大学招生导师官方页面",
+    "homepage": "https://yzbm.tsinghua.edu.cn/publish/infors/view/dsfc/772df922-89f1-4efa-ae33-09daee5a3121",
+    "secondary_source": "https://yz.tsinghua.edu.cn/",
+    "admission_source": "https://yz.tsinghua.edu.cn/",
+    "match_score": 79,
+    "tier": "冲刺",
+    "advantages": [
+      "官方页面明确曾招全日制专业学位博士",
+      "临床介入和聚焦超声匹配"
+    ],
+    "risks": [
+      "需严格排除非全日制名额",
+      "纳米材料研究不是核心主线"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需核对2027是否仍有全日制专博名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "待核实",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "li_rui_cqmu",
+    "name": "李锐",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "重庆医科大学",
+    "hospital": "相关附属医院",
+    "department": "超声医学科",
+    "province": "重庆",
+    "city": "重庆",
+    "degree_types": [
+      "专博（目录待复核）"
+    ],
+    "research_tags": [
+      "临床超声",
+      "超声造影",
+      "介入超声"
+    ],
+    "research_summary": "公开招生线索显示2026年超声医学专业博士招生，因官方附件解析受限，列为待复核候选。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://yjsy.cqmu.edu.cn/",
+    "secondary_source": "https://yjsy.cqmu.edu.cn/",
+    "admission_source": "https://yjsy.cqmu.edu.cn/",
+    "match_score": 79,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "当前仅确认到招生目录线索，需从官方附件再次核对",
+      "导师个人主页和邮箱尚未核实"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026目录线索，官方附件待复核",
+    "coverage_class": "2026目录线索，官方附件待复核",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_yin_tongji",
+    "name": "王茵",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "同济大学医学院",
+    "hospital": "附属肺科医院",
+    "department": "超声医学科",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "胸部超声",
+      "临床超声"
+    ],
+    "research_summary": "同济大学医学院2026年临床医学专业型博士可招生导师名单明确列入105124超声医学。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "secondary_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "admission_source": "https://med.tongji.edu.cn/info/1047/13752.htm",
+    "match_score": 78,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确可招生",
+    "coverage_class": "2026专博目录明确可招生",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未在名单中公开，建议联系导师。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_xiaoshan_immu",
+    "name": "张小杉",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "内蒙古医科大学",
+    "hospital": "相关附属医院",
+    "department": "超声医学科",
+    "province": "内蒙古",
+    "city": "呼和浩特",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "临床超声",
+      "研究方向待核实"
+    ],
+    "research_summary": "内蒙古医科大学年度105124超声医学博士目录中出现，具体方向和名额需联系培养单位。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://yjsxy.immu.edu.cn/",
+    "secondary_source": "https://yjsxy.immu.edu.cn/",
+    "admission_source": "https://yjsxy.immu.edu.cn/",
+    "match_score": 78,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确列名",
+    "coverage_class": "2026专博目录明确列名",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "wang_yaxi_immu",
+    "name": "王雅晳",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "内蒙古医科大学",
+    "hospital": "相关附属医院",
+    "department": "超声医学科",
+    "province": "内蒙古",
+    "city": "呼和浩特",
+    "degree_types": [
+      "专博"
+    ],
+    "research_tags": [
+      "临床超声",
+      "研究方向待核实"
+    ],
+    "research_summary": "内蒙古医科大学2026年度105124超声医学博士目录中出现，详细方向待核验。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://yjsxy.immu.edu.cn/",
+    "secondary_source": "https://yjsxy.immu.edu.cn/",
+    "admission_source": "https://yjsxy.immu.edu.cn/",
+    "match_score": 78,
+    "tier": "匹配",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2027是否招生及具体名额需以年度目录和导师回复为准",
+      "公开页面信息颗粒度有限，套磁前需核对近5年论文与培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "2026专博目录明确列名",
+    "coverage_class": "2026专博目录明确列名",
+    "catalog_year": "2026",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "liang_ping_nankai",
+    "name": "梁萍",
+    "gender": "女",
+    "title": "教授、主任医师",
+    "doctoral_supervisor": "是",
+    "school": "南开大学（导师主页）",
+    "hospital": "解放军总医院",
+    "department": "介入超声科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博/专博以年度目录为准"
+    ],
+    "research_tags": [
+      "介入超声",
+      "超声消融",
+      "多模态影像导航",
+      "肿瘤诊疗一体化"
+    ],
+    "research_summary": "实体肿瘤热消融、多模态影像导航与介入超声；临床转化强，但公开导师页面较早，需要重点确认当前招生状态。",
+    "projects": "官方导师页列出国家自然科学基金重大仪器项目等。",
+    "email": "未公开，需通过南开医学院/解放军总医院联系",
+    "email_source": "官方导师页未展示",
+    "homepage": "https://medical.nankai.edu.cn/2017/0914/c6617a73165/page.htm",
+    "secondary_source": "https://graduate.nankai.edu.cn/",
+    "admission_source": "https://graduate.nankai.edu.cn/",
+    "match_score": 78,
+    "tier": "冲刺",
+    "advantages": [
+      "介入消融与影像导航顶级经验",
+      "临床平台强"
+    ],
+    "risks": [
+      "主页发布时间较早，必须确认是否仍招生",
+      "导师个人名额和依托单位需核验"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "高优先级核实当前招生状态",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "ma_ning_ccmu",
+    "name": "马宁",
+    "gender": "女",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "首都医科大学",
+    "hospital": "首都医科大学附属北京儿童医院",
+    "department": "超声医学科/相关中心",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博",
+      "专博"
+    ],
+    "research_tags": [
+      "儿科超声",
+      "心脏超声",
+      "胎儿心脏"
+    ],
+    "research_summary": "儿童心血管结构与功能超声诊断。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "echo_mn@163.com",
+    "email_source": "首都医科大学2025博士生导师库",
+    "homepage": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjetyy/csyx7/20252052738922145468419.htm",
+    "secondary_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/sdykdxfsbjetyy/csyx7/20252052738922145468419.htm",
+    "admission_source": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+    "match_score": 78,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027年度名额需重新确认",
+      "北京地区竞争强"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "2025官方博士生导师库明确招生类型",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "liu_yanna_ncu",
+    "name": "刘燕娜",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "南昌大学",
+    "hospital": "南昌大学第一附属医院",
+    "department": "超声医学科",
+    "province": "江西",
+    "city": "南昌",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "临床超声",
+      "超声造影",
+      "介入超声"
+    ],
+    "research_summary": "南昌大学官方报道明确超声医学博导，区域临床平台较强；现行招生需核实。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.ncu.edu.cn/info/1010/49501.htm",
+    "secondary_source": "https://www.ncu.edu.cn/info/1010/49501.htm",
+    "admission_source": "https://yjsy.ncu.edu.cn/info/1012/23996.htm",
+    "match_score": 78,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，现行招生待核实",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhu_jiaan_pkuph",
+    "name": "朱家安",
+    "gender": "未公开",
+    "title": "教授/主任医师（个人年度资格待核实）",
+    "doctoral_supervisor": "是",
+    "school": "北京大学医学部",
+    "hospital": "北京大学人民医院",
+    "department": "超声诊断科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博/专博待核实"
+    ],
+    "research_tags": [
+      "介入超声",
+      "肌骨超声",
+      "腹部超声",
+      "超声造影"
+    ],
+    "research_summary": "北京大学人民医院超声科为博士培养点，科室官网显示现有2名博导；个人2027招生身份需在年度目录中再次确认。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.pkuph.cn/cszdk_department.html",
+    "secondary_source": "https://www.pkuph.cn/cszdk_department.html",
+    "admission_source": "https://www.pkuph.cn/cszdk_department.html",
+    "match_score": 76,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "官网未在同页明确对应2名现任博导姓名",
+      "不应在未确认前直接套磁"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "个人当前招生资格需核对",
+    "coverage_class": "官方科室博士培养记录，个人2027身份待核实",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "li_jianguo_pkuph",
+    "name": "李建国",
+    "gender": "未公开",
+    "title": "教授/主任医师（个人年度资格待核实）",
+    "doctoral_supervisor": "是",
+    "school": "北京大学医学部",
+    "hospital": "北京大学人民医院",
+    "department": "超声诊断科",
+    "province": "北京",
+    "city": "北京",
+    "degree_types": [
+      "学博/专博待核实"
+    ],
+    "research_tags": [
+      "介入超声",
+      "肌骨超声",
+      "腹部超声",
+      "超声造影"
+    ],
+    "research_summary": "北京大学人民医院超声科为博士培养点，科室官网显示现有2名博导；个人2027招生身份需在年度目录中再次确认。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.pkuph.cn/cszdk_department.html",
+    "secondary_source": "https://www.pkuph.cn/cszdk_department.html",
+    "admission_source": "https://www.pkuph.cn/cszdk_department.html",
+    "match_score": 76,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "官网未在同页明确对应2名现任博导姓名",
+      "不应在未确认前直接套磁"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "个人当前招生资格需核对",
+    "coverage_class": "官方科室博士培养记录，个人2027身份待核实",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "liu_yingying_jnu",
+    "name": "刘莹莹",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "暨南大学",
+    "hospital": "相关附属医院",
+    "department": "影像/超声相关科室",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "专博（历史目录）"
+    ],
+    "research_tags": [
+      "临床超声",
+      "研究方向待核实"
+    ],
+    "research_summary": "曾在暨南大学既往官方博士目录或导师名单中出现，2026超声医学目录未确认其个人招生状态。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://yz.jnu.edu.cn/",
+    "secondary_source": "https://yz.jnu.edu.cn/2024/1213/c42554a826313/page.htm",
+    "admission_source": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "match_score": 76,
+    "tier": "暂不建议",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2026目录未确认超声医学招生",
+      "仅作为防漏候选，必须先核对导师资格和专业归属"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "历史目录出现，2027需重新核实",
+    "coverage_class": "历史目录出现，2027需重新核实",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_shuixing_jnu",
+    "name": "张水兴",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "暨南大学",
+    "hospital": "相关附属医院",
+    "department": "影像/超声相关科室",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "专博（历史目录）"
+    ],
+    "research_tags": [
+      "人工智能与影像组学",
+      "医学影像"
+    ],
+    "research_summary": "曾在暨南大学既往官方博士目录或导师名单中出现，2026超声医学目录未确认其个人招生状态。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://yz.jnu.edu.cn/",
+    "secondary_source": "https://yz.jnu.edu.cn/2024/1213/c42554a826313/page.htm",
+    "admission_source": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "match_score": 76,
+    "tier": "暂不建议",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2026目录未确认超声医学招生",
+      "仅作为防漏候选，必须先核对导师资格和专业归属"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "历史目录出现，2027需重新核实",
+    "coverage_class": "历史目录出现，2027需重新核实",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "luo_liangping_jnu",
+    "name": "罗良平",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "暨南大学",
+    "hospital": "相关附属医院",
+    "department": "影像/超声相关科室",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "专博（历史目录）"
+    ],
+    "research_tags": [
+      "医学影像",
+      "超声交叉"
+    ],
+    "research_summary": "曾在暨南大学既往官方博士目录或导师名单中出现，2026超声医学目录未确认其个人招生状态。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://yz.jnu.edu.cn/",
+    "secondary_source": "https://yz.jnu.edu.cn/2024/1213/c42554a826313/page.htm",
+    "admission_source": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "match_score": 76,
+    "tier": "暂不建议",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2026目录未确认超声医学招生",
+      "仅作为防漏候选，必须先核对导师资格和专业归属"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "历史目录出现，2027需重新核实",
+    "coverage_class": "历史目录出现，2027需重新核实",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhong_xing_jnu",
+    "name": "钟兴",
+    "gender": "未公开",
+    "title": "未公开",
+    "doctoral_supervisor": "是（按所列官方来源）",
+    "school": "暨南大学",
+    "hospital": "相关附属医院",
+    "department": "影像/超声相关科室",
+    "province": "广东",
+    "city": "广州",
+    "degree_types": [
+      "专博（历史目录）"
+    ],
+    "research_tags": [
+      "临床超声",
+      "腹部超声"
+    ],
+    "research_summary": "曾在暨南大学既往官方博士目录或导师名单中出现，2026超声医学目录未确认其个人招生状态。",
+    "projects": "公开页面已确认导师身份；项目与论文需在申请前继续核验。",
+    "email": "未公开，建议通过导师主页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://yz.jnu.edu.cn/",
+    "secondary_source": "https://yz.jnu.edu.cn/2024/1213/c42554a826313/page.htm",
+    "admission_source": "https://yz.jnu.edu.cn/2025/1210/c42554a847736/page.htm",
+    "match_score": 76,
+    "tier": "暂不建议",
+    "advantages": [
+      "官方渠道可核验导师身份",
+      "具备超声医学或相关交叉培养平台"
+    ],
+    "risks": [
+      "2026目录未确认超声医学招生",
+      "仅作为防漏候选，必须先核对导师资格和专业归属"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "历史目录出现，2027需重新核实",
+    "coverage_class": "历史目录出现，2027需重新核实",
+    "catalog_year": "2025",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "guo_shifang_xjtu",
+    "name": "郭世放",
+    "gender": "男",
+    "title": "副教授",
+    "doctoral_supervisor": "待年度导师资格名单确认",
+    "school": "西安交通大学",
+    "hospital": "非临床主导师平台",
+    "department": "生物医学与健康工程研究院",
+    "province": "陕西",
+    "city": "西安",
+    "degree_types": [
+      "学博（导师资格需确认）"
+    ],
+    "research_tags": [
+      "生物医学超声",
+      "聚焦超声",
+      "声空化",
+      "超声治疗",
+      "超声操控"
+    ],
+    "research_summary": "高强度聚焦超声、声涡旋、超声操控和空化物理；适合基础超声治疗与工程研究。",
+    "projects": "官方教师主页公开研究方向；未在当前页面明确博士招生资格。",
+    "email": "sfguobme@mail.xjtu.edu.cn",
+    "email_source": "西安交通大学官方教师主页",
+    "homepage": "https://gr.xjtu.edu.cn/sfguobme/zh_CN/index.htm",
+    "secondary_source": "https://yz.xjtu.edu.cn/",
+    "admission_source": "https://yz.xjtu.edu.cn/",
+    "match_score": 76,
+    "tier": "暂不建议",
+    "advantages": [
+      "超声治疗与空化机制匹配",
+      "中青年医工交叉团队"
+    ],
+    "risks": [
+      "博士招生资格尚需确认",
+      "非临床医学学位，与你三甲临床目标存在风险"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "待核实博士招生资格",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "xue_li_hrbmu4",
+    "name": "薛莉",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "哈尔滨医科大学",
+    "hospital": "哈尔滨医科大学附属第四医院",
+    "department": "超声医学科",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "心脏超声",
+      "临床超声"
+    ],
+    "research_summary": "心脏超声与临床研究，官方医院主页明确博导资格。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://ydsy.hrbmu.edu.cn/info/1754/6866.htm",
+    "secondary_source": "https://ydsy.hrbmu.edu.cn/info/1754/6866.htm",
+    "admission_source": "https://ydsy.hrbmu.edu.cn/info/1754/6866.htm",
+    "match_score": 76,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博士生导师，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "li_zhixian_gxmu",
+    "name": "李智贤",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "广西医科大学",
+    "hospital": "广西医科大学第一附属医院",
+    "department": "超声医学科",
+    "province": "广西",
+    "city": "南宁",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "腹部超声",
+      "介入超声",
+      "超声造影"
+    ],
+    "research_summary": "腹部和介入超声资深导师，官方个人页较早，2027招生状态需重点确认。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.gxmu.edu.cn/syej/msmj/ejjs/t56311.html",
+    "secondary_source": "https://www.gxmu.edu.cn/syej/msmj/ejjs/t56311.html",
+    "admission_source": "https://www.gxmu.edu.cn/syej/msmj/ejjs/t56311.html",
+    "match_score": 74,
+    "tier": "匹配",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方历史博导页面，当前招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "yin_hongning_hebmu",
+    "name": "尹洪宁",
+    "gender": "未公开",
+    "title": "教授、主任医师、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "河北医科大学",
+    "hospital": "河北医科大学第二医院",
+    "department": "超声科",
+    "province": "河北",
+    "city": "石家庄",
+    "degree_types": [
+      "学博",
+      "专博待目录确认"
+    ],
+    "research_tags": [
+      "临床超声",
+      "超声医学教育"
+    ],
+    "research_summary": "河北医科大学官方报道明确博士生导师，具体研究方向与2027招生需进一步核实。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.hebmu.edu.cn/a/2024/11/18/4E09767E31A741B2935CADB9EE24DD6D.html",
+    "secondary_source": "https://www.hebmu.edu.cn/a/2024/11/18/4E09767E31A741B2935CADB9EE24DD6D.html",
+    "admission_source": "https://www.hebmu.edu.cn/a/2024/11/18/4E09767E31A741B2935CADB9EE24DD6D.html",
+    "match_score": 72,
+    "tier": "保底",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "A",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博导资格，2027招生待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "sun_kun_sjtu",
+    "name": "孙锟",
+    "gender": "未公开",
+    "title": "教授、博士生导师",
+    "doctoral_supervisor": "是",
+    "school": "上海交通大学医学院",
+    "hospital": "上海交通大学医学院附属儿童医学中心",
+    "department": "儿科/心脏影像交叉",
+    "province": "上海",
+    "city": "上海",
+    "degree_types": [
+      "学博"
+    ],
+    "research_tags": [
+      "儿科超声",
+      "心脏超声",
+      "医用材料"
+    ],
+    "research_summary": "儿科心血管影像及医工材料交叉，适合心脏方向，与你的肿瘤纳米主线匹配度一般。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.shsmu.edu.cn/",
+    "secondary_source": "https://www.shsmu.edu.cn/",
+    "admission_source": "https://www.shsmu.edu.cn/",
+    "match_score": 70,
+    "tier": "保底",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "2027个人招生名额未公开",
+      "需核对招生专业代码、学位类型及培养方式"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "需确认2027招生及名额",
+    "coverage_class": "官方博导资格，超声相关交叉方向待确认",
+    "catalog_year": "",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhou_xianli_hrbmu2",
+    "name": "周显礼",
+    "gender": "未公开",
+    "title": "博士招生导师（历史申请考核名单）",
+    "doctoral_supervisor": "是",
+    "school": "哈尔滨医科大学",
+    "hospital": "哈尔滨医科大学附属第二医院",
+    "department": "超声医学方向",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博/专博待核实"
+    ],
+    "research_tags": [
+      "超声医学",
+      "临床超声"
+    ],
+    "research_summary": "曾出现在哈尔滨医科大学第二临床医学院超声医学博士申请考核导师名单；当前职称、方向及2027资格需重新核验。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.hrbmush.edu.cn/info/2004/6228.htm",
+    "secondary_source": "https://www.hrbmush.edu.cn/info/2004/6228.htm",
+    "admission_source": "https://www.hrbmush.edu.cn/info/2004/6228.htm",
+    "match_score": 68,
+    "tier": "保底",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "当前导师资格和所在科室需复核",
+      "不得在未确认前视为2027可报"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "历史招生记录，当前待确认",
+    "coverage_class": "历史申请考核名单出现，2027资格待核实",
+    "catalog_year": "历史",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhou_hang_hrbmu2",
+    "name": "周航",
+    "gender": "未公开",
+    "title": "博士招生导师（历史申请考核名单）",
+    "doctoral_supervisor": "是",
+    "school": "哈尔滨医科大学",
+    "hospital": "哈尔滨医科大学附属第二医院",
+    "department": "超声医学方向",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博/专博待核实"
+    ],
+    "research_tags": [
+      "超声医学",
+      "临床超声"
+    ],
+    "research_summary": "曾出现在哈尔滨医科大学第二临床医学院超声医学博士申请考核导师名单；当前职称、方向及2027资格需重新核验。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.hrbmush.edu.cn/info/2004/6228.htm",
+    "secondary_source": "https://www.hrbmush.edu.cn/info/2004/6228.htm",
+    "admission_source": "https://www.hrbmush.edu.cn/info/2004/6228.htm",
+    "match_score": 68,
+    "tier": "保底",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "当前导师资格和所在科室需复核",
+      "不得在未确认前视为2027可报"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "历史招生记录，当前待确认",
+    "coverage_class": "历史申请考核名单出现，2027资格待核实",
+    "catalog_year": "历史",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  },
+  {
+    "id": "zhang_lei_hrbmu2",
+    "name": "张蕾",
+    "gender": "未公开",
+    "title": "博士招生导师（历史申请考核名单）",
+    "doctoral_supervisor": "是",
+    "school": "哈尔滨医科大学",
+    "hospital": "哈尔滨医科大学附属第二医院",
+    "department": "超声医学方向",
+    "province": "黑龙江",
+    "city": "哈尔滨",
+    "degree_types": [
+      "学博/专博待核实"
+    ],
+    "research_tags": [
+      "超声医学",
+      "临床超声"
+    ],
+    "research_summary": "曾出现在哈尔滨医科大学第二临床医学院超声医学博士申请考核导师名单；当前职称、方向及2027资格需重新核验。",
+    "projects": "官方页面确认导师身份与研究方向；具体近5年项目和论文需在套磁前继续核验。",
+    "email": "未公开，建议通过官方导师页或科室联系",
+    "email_source": "官方页面未公开可确认邮箱",
+    "homepage": "https://www.hrbmush.edu.cn/info/2004/6228.htm",
+    "secondary_source": "https://www.hrbmush.edu.cn/info/2004/6228.htm",
+    "admission_source": "https://www.hrbmush.edu.cn/info/2004/6228.htm",
+    "match_score": 68,
+    "tier": "保底",
+    "advantages": [
+      "官方来源可核验导师身份",
+      "具备超声医学或医工交叉培养平台"
+    ],
+    "risks": [
+      "当前导师资格和所在科室需复核",
+      "不得在未确认前视为2027可报"
+    ],
+    "source_level": "B",
+    "verified_at": "2026-07-25",
+    "admission_status": "历史招生记录，当前待确认",
+    "coverage_class": "历史申请考核名单出现，2027资格待核实",
+    "catalog_year": "历史",
+    "quota": "导师个人名额未公开，建议邮件确认。",
+    "admission_track": "学博/专博",
+    "program_code": "",
+    "program_name": "",
+    "program_direction": ""
+  }
+]

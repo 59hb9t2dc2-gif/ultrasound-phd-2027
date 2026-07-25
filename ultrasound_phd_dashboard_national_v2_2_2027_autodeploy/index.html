@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="全国超声医学博士生导师与招生信息数据库，按年度目录、官方博导与交叉方向分层核验，含招生简章与目录自动监控。" />
+  <title>全国超声医学博士申请数据库 · 2027</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="主导航">
+      <div class="brand">
+        <div class="brand-mark">US</div>
+        <div>
+          <h1>超声申博库</h1>
+          <p>2027 · 学博口径纠错 V2.2</p>
+        </div>
+      </div>
+      <nav id="navList">
+        <button class="nav-item active" data-section="dashboard"><span>⌂</span>首页概览</button>
+        <button class="nav-item" data-section="admissions"><span>↻</span>招生实时动态</button>
+        <button class="nav-item" data-section="advisors"><span>◎</span>全国导师库</button>
+        <button class="nav-item" data-section="schools"><span>▦</span>院校政策库</button>
+        <button class="nav-item" data-section="ranking"><span>★</span>个性化匹配榜</button>
+        <button class="nav-item" data-section="timeline"><span>◷</span>申请时间轴</button>
+        <button class="nav-item" data-section="tracker"><span>✓</span>套磁进度</button>
+        <button class="nav-item" data-section="materials"><span>☷</span>材料清单</button>
+        <button class="nav-item" data-section="sources"><span>◉</span>监控源状态</button>
+      </nav>
+      <div class="sidebar-note">
+        <strong>数据原则</strong>
+        <p>只收录可追溯信息；未确认内容统一标记“待核实”。</p>
+      </div>
+    </aside>
+
+    <div class="main-wrap">
+      <header class="topbar">
+        <button id="mobileMenuBtn" class="icon-btn mobile-only" aria-label="打开导航">☰</button>
+        <div class="topbar-title">
+          <h2 id="pageTitle">首页概览</h2>
+          <p id="lastUpdated">数据更新时间：读取中…</p>
+        </div>
+        <div class="topbar-actions">
+          <span id="modeBadge" class="status-pill neutral">检测运行模式</span>
+          <button id="globalRefreshBtn" class="btn primary">检查最新数据</button>
+        </div>
+      </header>
+
+      <main>
+        <section id="dashboard" class="page-section active">
+          <div class="hero">
+            <div>
+              <span class="eyebrow">ULTRASOUND PHD APPLICATION INTELLIGENCE</span>
+              <h3>全国超声医学博士导师与招生信息数据库</h3>
+              <p>为你的2027级全日制、非定向博士申请定制。重点追踪超声分子影像、纳米医学、超声治疗、介入超声与人工智能方向。</p>
+            </div>
+            <div class="hero-badge">
+              <span>目标入学</span>
+              <strong>2027</strong>
+              <small>当前重点：提前联系导师</small>
+            </div>
+          </div>
+
+          <div id="statCards" class="stat-grid"></div>
+
+          <div class="grid two-one">
+            <article class="panel">
+              <div class="panel-head">
+                <div><span class="kicker">PERSONAL FIT</span><h3>你的申请画像</h3></div>
+                <span class="tag success">已纳入匹配算法</span>
+              </div>
+              <div id="profileCard" class="profile-card"></div>
+            </article>
+            <article class="panel alert-panel">
+              <div class="panel-head"><div><span class="kicker">ALERTS</span><h3>当前风险提醒</h3></div></div>
+              <div id="riskAlerts"></div>
+            </article>
+          </div>
+
+          <div class="grid two-one">
+            <article class="panel">
+              <div class="panel-head">
+                <div><span class="kicker">TOP MATCHES</span><h3>优先联系导师</h3></div>
+                <button class="text-btn" data-jump="ranking">查看完整榜单 →</button>
+              </div>
+              <div id="topMatches" class="match-list"></div>
+            </article>
+            <article class="panel">
+              <div class="panel-head">
+                <div><span class="kicker">LATEST</span><h3>最新招生动态</h3></div>
+                <button class="text-btn" data-jump="admissions">全部动态 →</button>
+              </div>
+              <div id="latestNotices" class="notice-list compact"></div>
+            </article>
+          </div>
+        </section>
+
+        <section id="admissions" class="page-section">
+          <div class="section-heading">
+            <div><span class="eyebrow">LIVE ADMISSION WATCH</span><h3>招生简章、目录与导师资格动态</h3><p>自动监控官方页面；“新”表示首次发现的新链接，不代表政策内容已人工审读。</p></div>
+            <button id="admissionRefreshBtn" class="btn primary">立即读取最新数据</button>
+          </div>
+          <div class="toolbar">
+            <label class="search-box"><span>⌕</span><input id="noticeSearch" type="search" placeholder="搜索学校、标题或类型" /></label>
+            <select id="noticeSchoolFilter"><option value="">全部院校</option></select>
+            <select id="noticeTypeFilter"><option value="">全部类型</option></select>
+            <select id="noticeYearFilter"><option value="">全部年份</option></select>
+            <label class="check-inline"><input id="noticeNewOnly" type="checkbox" /> 仅看新动态</label>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>日期</th><th>院校</th><th>类型</th><th>招生信息</th><th>年份</th><th>来源</th></tr></thead>
+              <tbody id="admissionTable"></tbody>
+            </table>
+          </div>
+          <div id="admissionEmpty" class="empty-state hidden">没有符合条件的招生动态。</div>
+        </section>
+
+        <section id="advisors" class="page-section">
+          <div class="section-heading">
+            <div><span class="eyebrow">ADVISOR DATABASE</span><h3>全国超声医学与交叉方向导师库</h3><p>当前为全国公开可核验 V2.2 纠错版，明确纳入100207“影像医学与核医学”超声方向学博、临床医学一级学科超声方向、超声医学专博及医工交叉博士路径。匹配评分是相对申请策略工具，不代表录取概率或导师承诺。</p></div>
+            <button id="exportAdvisorBtn" class="btn secondary">导出筛选结果 CSV</button>
+          </div>
+          <div class="coverage-note">
+            <strong>收录口径：</strong>
+            <span><b>年度目录明确</b>＝官方当年目录或可招生名单列名；</span>
+            <span><b>官方博导待确认</b>＝官网确认博导，但2027名额尚未发布；</span>
+            <span><b>历史目录/交叉方向</b>＝用于防漏，报考前必须再次核验。</span>
+          </div>
+          <div class="scope-correction">
+            <strong>本次口径纠错：</strong> 前版过度依赖“超声医学”科室名和专博代码，漏收了通过 <b>100207 影像医学与核医学</b> 招收的超声学博。张华伟老师已按“2025、2026年度考核名单明确招生”补入。数据库仍需按全国年度目录逐校回溯，不能再以科室名单代替博士招生名单。
+          </div>
+          <div class="toolbar advisor-toolbar">
+            <label class="search-box wide"><span>⌕</span><input id="advisorSearch" type="search" placeholder="搜索导师、学校、医院、研究方向" /></label>
+            <select id="advisorProvinceFilter"><option value="">全部地区</option></select>
+            <select id="advisorCoverageFilter"><option value="">全部核验层级</option></select>
+            <select id="advisorTierFilter"><option value="">全部档位</option></select>
+            <select id="advisorDegreeFilter"><option value="">专博/学博不限</option></select>
+            <select id="advisorProgramFilter"><option value="">全部招生专业</option></select>
+            <select id="advisorTagFilter"><option value="">全部研究方向</option></select>
+            <label class="range-field">最低评分 <input id="advisorScoreFilter" type="range" min="60" max="100" value="60" /><output id="advisorScoreOutput">60</output></label>
+          </div>
+          <div class="result-summary"><span id="advisorResultCount"></span><label class="check-inline"><input id="favoritesOnly" type="checkbox" /> 仅看收藏</label></div>
+          <div id="advisorGrid" class="advisor-grid"></div>
+          <div id="advisorEmpty" class="empty-state hidden">没有符合条件的导师。</div>
+        </section>
+
+        <section id="schools" class="page-section">
+          <div class="section-heading">
+            <div><span class="eyebrow">SCHOOL POLICY DATABASE</span><h3>院校与培养单位招生政策</h3><p>2027政策未发布时，展示最近一年度并明确年份。</p></div>
+          </div>
+          <div class="toolbar">
+            <label class="search-box wide"><span>⌕</span><input id="schoolSearch" type="search" placeholder="搜索学校、培养单位或政策" /></label>
+            <select id="schoolProvinceFilter"><option value="">全部地区</option></select>
+            <select id="schoolTierFilter"><option value="">全部匹配档位</option></select>
+            <select id="schoolStatusFilter"><option value="">全部核验状态</option></select>
+          </div>
+          <div id="schoolGrid" class="school-grid"></div>
+        </section>
+
+        <section id="ranking" class="page-section">
+          <div class="section-heading">
+            <div><span class="eyebrow">PERSONALIZED RANKING</span><h3>你的个性化匹配排行榜</h3><p>综合研究方向、临床背景、科研履历、平台、就业和政策友好度。</p></div>
+          </div>
+          <div class="score-legend">
+            <span><i class="dot match"></i>匹配：优先联系</span>
+            <span><i class="dot reach"></i>冲刺：平台强、竞争高</span>
+            <span><i class="dot hold"></i>暂不建议：学位或方向风险</span>
+          </div>
+          <div id="rankingList" class="ranking-list"></div>
+        </section>
+
+        <section id="timeline" class="page-section">
+          <div class="section-heading">
+            <div><span class="eyebrow">APPLICATION ROADMAP</span><h3>2027级博士申请时间轴</h3><p>招生时间可能因学校变化；新简章出现后，网站会把关键节点加入动态区。</p></div>
+          </div>
+          <div id="timelineList" class="timeline"></div>
+        </section>
+
+        <section id="tracker" class="page-section">
+          <div class="section-heading">
+            <div><span class="eyebrow">OUTREACH TRACKER</span><h3>套磁与联系记录</h3><p>数据仅保存在你的浏览器 localStorage，不会上传。</p></div>
+            <button id="exportTrackerBtn" class="btn secondary">导出联系记录 CSV</button>
+          </div>
+          <div class="toolbar">
+            <label class="search-box wide"><span>⌕</span><input id="trackerSearch" type="search" placeholder="搜索导师或单位" /></label>
+            <select id="trackerStatusFilter"><option value="">全部联系状态</option><option>未联系</option><option>拟联系</option><option>已发送</option><option>已回复</option><option>需跟进</option><option>暂缓</option></select>
+          </div>
+          <div class="table-wrap tracker-table-wrap">
+            <table>
+              <thead><tr><th>收藏</th><th>导师/单位</th><th>匹配</th><th>联系状态</th><th>联系日期</th><th>备注</th><th>主页</th></tr></thead>
+              <tbody id="trackerTable"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section id="materials" class="page-section">
+          <div class="section-heading">
+            <div><span class="eyebrow">MATERIAL CHECKLIST</span><h3>申请材料清单</h3><p>勾选状态保存在本机浏览器。</p></div>
+            <button id="resetMaterialsBtn" class="btn ghost">重置清单</button>
+          </div>
+          <div id="materialProgress" class="progress-card"></div>
+          <div id="materialList" class="checklist"></div>
+        </section>
+
+        <section id="sources" class="page-section">
+          <div class="section-heading">
+            <div><span class="eyebrow">SOURCE HEALTH</span><h3>官方监控源与抓取状态</h3><p>自动抓取受限不等于学校没有新通知；此类网站需要人工打开复核。</p></div>
+          </div>
+          <div id="sourceStats" class="stat-grid source-stats"></div>
+          <div class="panel">
+            <div class="panel-head"><div><span class="kicker">COVERAGE</span><h3>当前监控入口</h3></div><span id="sourceCheckTime" class="muted"></span></div>
+            <div class="table-wrap">
+              <table><thead><tr><th>院校</th><th>状态</th><th>候选动态</th><th>新发现</th><th>最后检查</th><th>官方入口</th></tr></thead><tbody id="sourceTable"></tbody></table>
+            </div>
+          </div>
+          <article class="info-box">
+            <h4>“实时更新”的实际含义</h4>
+            <p>本项目采用每日定时检查 + 手动触发。学校官网没有统一API，且部分站点有验证码、登录或反爬限制，因此不能保证秒级实时或100%无漏报。网站会明确显示抓取受限和最后检查时间，正式申请仍以学校研究生院与导师回复为准。</p>
+          </article>
+        </section>
+      </main>
+
+      <footer>
+        招生政策和导师名额可能变化，正式申请前须以学校研究生院、年度专业目录及导师书面回复为准。匹配评分仅用于信息整理。
+      </footer>
+    </div>
+  </div>
+
+  <dialog id="advisorDialog" class="advisor-dialog">
+    <button id="dialogCloseBtn" class="dialog-close" aria-label="关闭">×</button>
+    <div id="advisorDialogContent"></div>
+  </dialog>
+  <div id="toast" class="toast" role="status"></div>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

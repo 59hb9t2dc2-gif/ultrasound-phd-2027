@@ -1,0 +1,69 @@
+name: Update admissions and deploy Pages
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # 01:15 UTC = 09:15 China Standard Time
+    - cron: '15 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install crawler dependencies
+        run: pip install -r requirements.txt
+
+      - name: Crawl official admission pages
+        run: python scripts/update_admissions.py
+        continue-on-error: true
+
+      - name: Commit changed data
+        shell: bash
+        run: |
+          git config user.name "admissions-watcher[bot]"
+          git config user.email "admissions-watcher@users.noreply.github.com"
+          git add data/admissions.json data/source_status.json data.js
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "chore: update doctoral admissions data"
+            git push
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
