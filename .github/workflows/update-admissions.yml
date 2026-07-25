@@ -37,23 +37,28 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Check repository files
+      - name: Check project files
         run: |
-          echo "Current directory:"
-          pwd
-          echo "Repository files:"
+          echo "Repository root:"
           ls -la
-          echo "Requirements file:"
-          ls -la "${GITHUB_WORKSPACE}/requirements.txt"
+
+          echo "Website project files:"
+          ls -la ultrasound_phd_dashboard_national_v2_2_2027_autodeploy
+
+          test -f ultrasound_phd_dashboard_national_v2_2_2027_autodeploy/requirements.txt
+          test -f ultrasound_phd_dashboard_national_v2_2_2027_autodeploy/index.html
+          test -f ultrasound_phd_dashboard_national_v2_2_2027_autodeploy/scripts/update_admissions.py
 
       - name: Install crawler dependencies
+        working-directory: ultrasound_phd_dashboard_national_v2_2_2027_autodeploy
         run: |
           python -m pip install --upgrade pip
-          python -m pip install -r "${GITHUB_WORKSPACE}/requirements.txt"
+          python -m pip install -r requirements.txt
 
       - name: Crawl official admission pages
+        working-directory: ultrasound_phd_dashboard_national_v2_2_2027_autodeploy
         run: |
-          python "${GITHUB_WORKSPACE}/scripts/update_admissions.py"
+          python scripts/update_admissions.py
         continue-on-error: true
 
       - name: Commit changed data
@@ -62,7 +67,8 @@ jobs:
           git config user.name "admissions-watcher[bot]"
           git config user.email "admissions-watcher@users.noreply.github.com"
 
-          git add -A data data.js
+          git add ultrasound_phd_dashboard_national_v2_2_2027_autodeploy/data
+          git add ultrasound_phd_dashboard_national_v2_2_2027_autodeploy/data.js
 
           if git diff --cached --quiet; then
             echo "No data changes"
@@ -77,7 +83,7 @@ jobs:
       - name: Upload website artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: "."
+          path: ultrasound_phd_dashboard_national_v2_2_2027_autodeploy
 
       - name: Deploy to GitHub Pages
         id: deployment
