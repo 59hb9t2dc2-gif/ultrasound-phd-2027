@@ -1,235 +1,552 @@
 {
-  "last_checked": "2026-07-25T21:45:00+08:00",
-  "mode": "seed_snapshot",
+  "last_checked": "2026-07-25T23:32:56+08:00",
+  "mode": "scheduled_crawl",
   "summary": {
     "total": 49,
-    "ok": 0,
+    "ok": 39,
     "limited": 0,
-    "error": 0,
-    "note": "已加入100207影像医学与核医学学博及附属医院考核名单监控入口；部署后由GitHub Actions每日检查。"
+    "error": 10,
+    "new_notices": 348
   },
   "sources": [
     {
       "source_id": "bjmu_admission",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "北京大学医学部",
+      "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/index.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 6 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 6,
+      "new_count": 5
     },
     {
       "source_id": "pumc_doctor",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "北京协和医学院",
+      "url": "https://graduate.pumc.edu.cn/zsw/bszs.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 6 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 6,
+      "new_count": 5
     },
     {
       "source_id": "tsinghua_yz",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "清华大学",
+      "url": "https://yz.tsinghua.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 4 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 4,
+      "new_count": 4
     },
     {
       "source_id": "fudan_shmc_doctor",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "复旦大学上海医学院",
+      "url": "https://gs-shmc.fudan.edu.cn/bszs_35408/list.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 14 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 14,
+      "new_count": 14
     },
     {
       "source_id": "sjtu_grad",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "上海交通大学医学院",
+      "url": "https://www.gs.sjtu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 2 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 2,
+      "new_count": 2
     },
     {
       "source_id": "tongji_yz",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "同济大学",
+      "url": "https://yz.tongji.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 7 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 7,
+      "new_count": 7
     },
     {
       "source_id": "zju_med_admission",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "浙江大学医学院",
+      "url": "https://www.cmm.zju.edu.cn/38716/listm.htm",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "请求失败: ConnectionError",
+      "http_status": null,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "hust_union",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "华中科技大学同济医学院附属协和医院",
+      "url": "https://www.whuh.com/yxjy/yjsjy/zsxx.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 4 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 4,
+      "new_count": 4
     },
     {
       "source_id": "hust_tongji",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "华中科技大学同济医学院附属同济医院",
+      "url": "https://www.tjh.com.cn/channels/296.html",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 0 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "sysu_doctor",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "中山大学",
+      "url": "https://graduate.sysu.edu.cn/zsw/doctor",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 16 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 16,
+      "new_count": 16
     },
     {
       "source_id": "scu_doctor",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "四川大学",
+      "url": "https://yz.scu.edu.cn/zsxx/newslist/bs/zc",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 19 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 19,
+      "new_count": 19
     },
     {
       "source_id": "westchina_doctor",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "四川大学华西临床医学院",
+      "url": "https://yjs.cd120.com/channels/412.html",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 4 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 4,
+      "new_count": 3
     },
     {
       "source_id": "sdu_yz",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "山东大学",
+      "url": "https://www.yz.sdu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 3 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 3,
+      "new_count": 3
     },
     {
       "source_id": "sdu_qilu",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "山东大学齐鲁医学院",
+      "url": "https://qlyxjxgl.sdu.edu.cn/jxglbgs/yjsjiao/zsgz/bszs.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 20 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 20,
+      "new_count": 20
     },
     {
       "source_id": "njmu_doctor",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "南京医科大学",
+      "url": "https://yjszs.njmu.edu.cn/10188/listm.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 14 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 14,
+      "new_count": 14
     },
     {
       "source_id": "seu_doctor",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "东南大学",
+      "url": "https://yzb.seu.edu.cn/6677/list.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 13 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 13,
+      "new_count": 13
     },
     {
       "source_id": "cqmu_yjs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "重庆医科大学",
+      "url": "https://yjsy.cqmu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 3 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 3,
+      "new_count": 3
     },
     {
       "source_id": "uestc_yz",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "电子科技大学",
+      "url": "https://yz.uestc.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 7 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 7,
+      "new_count": 7
     },
     {
       "source_id": "xjtu_yz",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "西安交通大学",
+      "url": "https://yz.xjtu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 9 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 9,
+      "new_count": 9
     },
     {
       "source_id": "nankai_grad",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "南开大学",
+      "url": "https://graduate.nankai.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 6 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 6,
+      "new_count": 6
     },
     {
       "source_id": "xzhmu_grad",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "徐州医科大学",
+      "url": "https://yjsy.xzhmu.edu.cn/",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "请求失败: ConnectionError",
+      "http_status": null,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "shu_yz",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "上海大学",
+      "url": "https://yjszs.shu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 6 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 6,
+      "new_count": 6
     },
     {
       "source_id": "siat_admission",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "中国科学院深圳先进技术研究院",
+      "url": "https://siat.cas.cn/yjsjy2016/zsjs2016/",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "HTTP 404",
+      "http_status": 404,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "ccmu_yjs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "首都医科大学",
+      "url": "https://yjsh.ccmu.edu.cn/zsxx/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 1 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 1,
+      "new_count": 1
     },
     {
       "source_id": "smu_yz",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "南方医科大学",
+      "url": "https://portal.smu.edu.cn/yzw/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 8 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 8,
+      "new_count": 8
     },
     {
       "source_id": "whu_gs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "武汉大学",
+      "url": "https://gs.whu.edu.cn/zsxx.htm",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "HTTP 404",
+      "http_status": 404,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "jnu_doctor",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "暨南大学",
+      "url": "https://yz.jnu.edu.cn/bszs/list.htm",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "HTTP 410",
+      "http_status": 410,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "hrbmu_yjs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "哈尔滨医科大学",
+      "url": "https://yjsgl.hrbmu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 0 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "dmu_yjs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "大连医科大学",
+      "url": "https://yjs.dmu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 3 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 3,
+      "new_count": 3
     },
     {
       "source_id": "sxmu_yjs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "山西医科大学",
+      "url": "https://www.sxmu.edu.cn/yjs/",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "请求失败: ConnectionError",
+      "http_status": null,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "immu_yjs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "内蒙古医科大学",
+      "url": "https://yjsxy.immu.edu.cn/",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "请求失败: ConnectionError",
+      "http_status": null,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "nju_yz",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "南京大学",
+      "url": "https://grawww.nju.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 5 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 5,
+      "new_count": 5
     },
     {
       "source_id": "fzu_yjs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "福州大学",
+      "url": "https://yjsy.fzu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 7 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 7,
+      "new_count": 7
     },
     {
       "source_id": "ahmu_yjs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "安徽医科大学",
+      "url": "https://yjsxy.ahmu.edu.cn/zsxx/bszs.htm",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "HTTP 404",
+      "http_status": 404,
+      "candidate_count": 0,
+      "new_count": 0
     },
     {
       "source_id": "gdmu_yjs",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "广东医科大学",
+      "url": "https://yjsxy.gdmu.edu.cn/1310/list.htm",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "HTTP 404",
+      "http_status": 404,
+      "candidate_count": 0,
+      "new_count": 0
+    },
+    {
+      "source_id": "src_ccmu_tutors",
+      "school": "首都医科大学博士生导师库",
+      "url": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 1 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 1,
+      "new_count": 1
+    },
+    {
+      "source_id": "src_pumch_ultrasound",
+      "school": "北京协和医院超声医学科",
+      "url": "https://www.pumch.cn/department_chaoszdk.html",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 5 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 5,
+      "new_count": 5
+    },
+    {
+      "source_id": "src_pku_cancer_tutors",
+      "school": "北京大学肿瘤医院导师团队",
+      "url": "https://teach.bjcancer.org/Html/Teachers/Overview.html",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 110 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 110,
+      "new_count": 110
+    },
+    {
+      "source_id": "src_pku_first_tutors",
+      "school": "北京大学第一医院导师风采",
+      "url": "https://www.pkufh.com/Html/Doctors/Main/Index_1645.html",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 0 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 0,
+      "new_count": 0
+    },
+    {
+      "source_id": "src_csu_2026",
+      "school": "中南大学2026博士招生",
+      "url": "https://yz.csu.edu.cn/info/1012/1469.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 7 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 7,
+      "new_count": 7
+    },
+    {
+      "source_id": "src_ncu_2026",
+      "school": "南昌大学2026博士招生",
+      "url": "https://yjsy.ncu.edu.cn/info/1012/23996.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 3 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 3,
+      "new_count": 3
+    },
+    {
+      "source_id": "src_szu_2026",
+      "school": "深圳大学博士招生简章目录",
+      "url": "https://yz.szu.edu.cn/bszs/jzml.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 11 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 11,
+      "new_count": 11
+    },
+    {
+      "source_id": "src_njmu_bmei",
+      "school": "南京医科大学医工导师库",
+      "url": "https://bmei.njmu.edu.cn/10269/list.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 0 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 0,
+      "new_count": 0
+    },
+    {
+      "source_id": "src_seu_bme",
+      "school": "东南大学生物医学工程导师库",
+      "url": "https://bme.seu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 2 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 2,
+      "new_count": 2
+    },
+    {
+      "source_id": "src_xjtu_tutors",
+      "school": "西安交通大学博士生导师",
+      "url": "https://www.xjtu.edu.cn/szdw/bssds.htm",
+      "status": "error",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "HTTP 404",
+      "http_status": 404,
+      "candidate_count": 0,
+      "new_count": 0
+    },
+    {
+      "source_id": "src_gxmu_graduate",
+      "school": "广西医科大学研究生院",
+      "url": "https://yjs.gxmu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 4 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 4,
+      "new_count": 4
+    },
+    {
+      "source_id": "src_hebmu_graduate",
+      "school": "河北医科大学研究生学院",
+      "url": "https://gschool.hebmu.edu.cn/",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 12 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 12,
+      "new_count": 12
     },
     {
       "source_id": "sdfmu_yz",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "山东第一医科大学",
+      "url": "https://yz.sdfmu.edu.cn/bszs1/tzgg.htm",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 9 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 9,
+      "new_count": 9
     },
     {
       "source_id": "sph_doctor_admission",
-      "status": "等待首次自动任务",
-      "checked_at": "",
-      "message": "部署到GitHub后由Actions每日检查"
+      "school": "山东第一医科大学附属省立医院",
+      "url": "https://www.sph.com.cn/Html/News/Columns/7/1.html",
+      "status": "ok",
+      "checked_at": "2026-07-25T23:32:56+08:00",
+      "message": "发现 0 条候选招生动态",
+      "http_status": 200,
+      "candidate_count": 0,
+      "new_count": 0
     }
   ]
 }
