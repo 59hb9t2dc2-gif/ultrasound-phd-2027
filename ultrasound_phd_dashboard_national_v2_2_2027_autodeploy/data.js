@@ -1,6 +1,6 @@
 window.APP_DATA = {
   "meta": {
-    "updated_at": "2026-08-03T12:46:31+08:00",
+    "updated_at": "2026-08-04T12:30:02+08:00",
     "data_version": "2.0.1",
     "target_year": 2027,
     "notice": "全国公开可核验扩展版；2027政策以学校官方新发布内容为准，自动抓取只记录官方页面可见标题、日期和链接。"
@@ -8634,7 +8634,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/536",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8649,7 +8649,7 @@ window.APP_DATA = {
       "url": "https://yjsy.cqmu.edu.cn/info/1012/2351.htm",
       "source_level": "A",
       "source_id": "cqmu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8664,7 +8664,7 @@ window.APP_DATA = {
       "url": "https://yjsy.cqmu.edu.cn/info/1012/2352.htm",
       "source_level": "A",
       "source_id": "cqmu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8679,7 +8679,7 @@ window.APP_DATA = {
       "url": "https://info22.fzu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1306&wbnewsid=41195",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8694,7 +8694,7 @@ window.APP_DATA = {
       "url": "https://info22.fzu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1306&wbnewsid=41187",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8709,7 +8709,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1002/12391.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8724,7 +8724,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/534",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8739,7 +8739,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/6295.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8754,7 +8754,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/6305.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8769,7 +8769,7 @@ window.APP_DATA = {
       "url": "https://www.yz.sdu.edu.cn/info/1025/1443.htm",
       "source_level": "A",
       "source_id": "sdu_yz",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8784,7 +8784,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1002/12361.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8799,7 +8799,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1002/12351.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8814,7 +8814,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/06/26/FC78CF9D23A547949163DFBEF2A294D3.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8829,7 +8829,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/532",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8844,7 +8844,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/06/23/2CAC7B7B52A6400D8C05C238884A55EA.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8900,7 +8900,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/06/17/358BAA81ED48401E80CD688F553565C7.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8930,7 +8930,7 @@ window.APP_DATA = {
       "url": "https://yjs.gxmu.edu.cn/tzxw/tzgg/t235871.html",
       "source_level": "A",
       "source_id": "src_gxmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8945,7 +8945,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1002/12341.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8960,7 +8960,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/06/02/3CFABF00D7DD4B6980A46C22CD374C0D.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8988,7 +8988,7 @@ window.APP_DATA = {
       "url": "https://yz.tsinghua.edu.cn/info/1024/3244.htm",
       "source_level": "A",
       "source_id": "tsinghua_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9003,7 +9003,7 @@ window.APP_DATA = {
       "url": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1ceee112-93f3-400d-bd92-c1bfce260b0f",
       "source_level": "A",
       "source_id": "tsinghua_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9018,7 +9018,7 @@ window.APP_DATA = {
       "url": "https://yzbm.tsinghua.edu.cn/publish/s01/s0103/detail/2ede1fca-d9a0-407a-9d68-3475494848b7/2",
       "source_level": "A",
       "source_id": "tsinghua_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9033,7 +9033,7 @@ window.APP_DATA = {
       "url": "https://yzbm.tsinghua.edu.cn/publish/s03/s0303/detail/ab3ae191-f6b5-4a83-bd4d-02a279904861",
       "source_level": "A",
       "source_id": "tsinghua_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9048,7 +9048,7 @@ window.APP_DATA = {
       "url": "https://www.yz.sdu.edu.cn/info/1022/1436.htm",
       "source_level": "A",
       "source_id": "sdu_yz",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9063,7 +9063,7 @@ window.APP_DATA = {
       "url": "https://yjsy.fzu.edu.cn/info/1070/5912.htm",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9078,7 +9078,7 @@ window.APP_DATA = {
       "url": "https://info22.fzu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1306&wbnewsid=40792",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9093,7 +9093,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1084/4357.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9121,7 +9121,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1084/4356.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9136,7 +9136,7 @@ window.APP_DATA = {
       "url": "https://yjs.gxmu.edu.cn/tzxw/xwdt/t233909.html",
       "source_level": "A",
       "source_id": "src_gxmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9164,7 +9164,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1084/4351.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9192,7 +9192,7 @@ window.APP_DATA = {
       "url": "https://www.yz.sdu.edu.cn/info/1025/1405.htm",
       "source_level": "A",
       "source_id": "sdu_yz",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9220,7 +9220,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/527",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9235,7 +9235,7 @@ window.APP_DATA = {
       "url": "https://www.whuh.com/info/1482/73326.htm",
       "source_level": "A",
       "source_id": "hust_union",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9263,7 +9263,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/04/30/D57591B18A784B8D9DFDEA7A59BEF8BD.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9278,7 +9278,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/523",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9293,7 +9293,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/04/23/BE11CE35A649424BBE3BA77C01111DBC.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9321,7 +9321,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/03/09/FE48FF11B7B64C148730C672301BA6CC.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9336,7 +9336,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3475.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9351,7 +9351,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14216.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9366,7 +9366,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14126.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9381,7 +9381,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14136.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9396,7 +9396,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14146.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9424,7 +9424,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14116.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9452,7 +9452,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3425.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9467,7 +9467,7 @@ window.APP_DATA = {
       "url": "https://www.whuh.com/info/1482/59766.htm",
       "source_level": "A",
       "source_id": "hust_union",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9482,7 +9482,7 @@ window.APP_DATA = {
       "url": "https://www.whuh.com/info/1482/59759.htm",
       "source_level": "A",
       "source_id": "hust_union",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9497,7 +9497,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/0410/c75a592570/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9512,7 +9512,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/2026gatbszsml.pdf",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9540,7 +9540,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/519",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9555,7 +9555,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2025/12/11/57E3F59C5D3045A8935E5CAB06CEE83C.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9583,7 +9583,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2025/12/05/27710FA1DD474578BB4D5DAECE001C29.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9598,7 +9598,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3415.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9613,7 +9613,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3445.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9628,7 +9628,7 @@ window.APP_DATA = {
       "url": "https://yjs.cd120.com/contents/412/7080.html",
       "source_level": "A",
       "source_id": "westchina_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9655,7 +9655,7 @@ window.APP_DATA = {
       "publish_date": "2025-11-25",
       "url": "https://yjs.cd120.com/contents/412/7052.html",
       "source_level": "A",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "is_new": false,
       "source_id": "westchina_doctor"
     },
@@ -9708,7 +9708,7 @@ window.APP_DATA = {
       "publish_date": "2025-11-13",
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2130.htm",
       "source_level": "A",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "is_new": false,
       "source_id": "pumc_doctor"
     },
@@ -9723,7 +9723,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/515",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9738,7 +9738,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/935828b5d29c4aeab9d9e4ee0d9cd613.htm",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9779,7 +9779,7 @@ window.APP_DATA = {
       "url": "https://yzbm.xjtu.edu.cn/zsml/bszsml/detailtk/bfo8@yEtRpW1EyxsEKg7eQ==",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9794,7 +9794,7 @@ window.APP_DATA = {
       "url": "https://yzbm.xjtu.edu.cn/logon",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9822,7 +9822,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/513",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9837,7 +9837,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/514",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9852,7 +9852,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/511",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9867,7 +9867,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/507",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9882,7 +9882,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/508",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9897,7 +9897,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/509",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9912,7 +9912,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/506",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9927,7 +9927,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/501",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9955,7 +9955,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/499",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9982,7 +9982,7 @@ window.APP_DATA = {
       "publish_date": "2025-10-10",
       "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/c1c194ca3d6b4e319c16c22006fb7d26.htm",
       "source_level": "A",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "is_new": false,
       "source_id": "bjmu_admission"
     },
@@ -10010,7 +10010,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/docs/2025-10/a0e2a1ed91f3416cb672194df65d50bd.pdf",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10025,7 +10025,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2025/09/30/054A4BE04FAC43F7B9E0B9AB561D4971.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10040,7 +10040,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1082/4280.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10055,7 +10055,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1086/4263.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10070,7 +10070,7 @@ window.APP_DATA = {
       "url": "https://yzbm.xjtu.edu.cn/zsml/bszsml/detailtm/bfo8@yEtRpW1EyxsEKg7eQ==",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10098,7 +10098,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3235.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10113,7 +10113,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3225.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10141,7 +10141,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1011/11401.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10156,7 +10156,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3205.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10171,7 +10171,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2025/03/14/5C84852D8F5E45C6A87859F87FC4BA6E.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10186,7 +10186,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2025/03/14/341753405AE34529B443FECE17E60344.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10201,7 +10201,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13130.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10216,7 +10216,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13097.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10231,7 +10231,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13096.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10246,7 +10246,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13100.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10261,7 +10261,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13093.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10276,7 +10276,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1011/10891.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10304,7 +10304,7 @@ window.APP_DATA = {
       "url": "https://yjs.cd120.com/contents/412/5472.html",
       "source_level": "A",
       "source_id": "westchina_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10319,7 +10319,7 @@ window.APP_DATA = {
       "url": "https://yjs.cd120.com/contents/412/5469.html",
       "source_level": "A",
       "source_id": "westchina_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10334,7 +10334,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/5943416423de4340afe47a82f56aa34f.htm",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10349,7 +10349,7 @@ window.APP_DATA = {
       "url": "https://nursing.bjmu.edu.cn/jyjx/tzgg2/63452f622b624122bdfe146aa57ef933.htm",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10364,7 +10364,7 @@ window.APP_DATA = {
       "url": "https://ss.bjmu.edu.cn/Html/News/Articles/5868.html",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10379,7 +10379,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13010.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10394,7 +10394,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/387.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10409,7 +10409,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/765.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10424,7 +10424,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/442.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10439,7 +10439,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/546.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10454,7 +10454,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/787.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10469,7 +10469,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/606.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10484,7 +10484,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/57.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10499,7 +10499,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/370.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10514,7 +10514,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2250.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10529,7 +10529,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/44.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10544,7 +10544,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/95.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10559,7 +10559,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2416.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10574,7 +10574,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/538.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10589,7 +10589,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2095.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10604,7 +10604,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/67.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10619,7 +10619,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/91.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10634,7 +10634,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/617.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10649,7 +10649,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2538.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10664,7 +10664,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/149.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10679,7 +10679,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/683.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10694,7 +10694,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/352.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10709,7 +10709,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/27.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10724,7 +10724,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/61.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10739,7 +10739,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/636.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10754,7 +10754,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/64.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10784,7 +10784,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16488.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10799,7 +10799,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16485.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10814,8 +10814,23 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/874.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
+      "is_new": true
+    },
+    {
+      "id": "auto_05a83def48171d",
+      "school_id": "seu",
+      "school": "东南大学生物医学工程导师库",
+      "title": "祝贺！生医学院至善博士后熊烽入选2026年度“博新计划”",
+      "type": "招生计划",
+      "year": 2026,
+      "publish_date": "",
+      "url": "https://bme.seu.edu.cn/2026/0803/c478a578760/page.htm",
+      "source_level": "A",
+      "source_id": "src_seu_bme",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
+      "first_seen_at": "2026-08-04T12:30:02+08:00",
       "is_new": true
     },
     {
@@ -10829,7 +10844,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/293.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10844,7 +10859,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/209.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10859,7 +10874,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/852.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10874,7 +10889,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/829.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10889,7 +10904,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2105.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10904,7 +10919,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/229.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10919,7 +10934,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/839.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10934,7 +10949,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/709.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10949,7 +10964,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/825.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10964,7 +10979,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2107.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10979,7 +10994,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/76.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10994,7 +11009,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2010.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11009,7 +11024,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/bsgat",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11024,7 +11039,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/63.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11039,7 +11054,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2371.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11054,7 +11069,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/279.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11069,7 +11084,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/116.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11084,7 +11099,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/727.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11099,7 +11114,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/53.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11114,7 +11129,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/708.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11129,7 +11144,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/306.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11144,7 +11159,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2100.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11159,7 +11174,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2433.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11174,7 +11189,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/111.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11189,7 +11204,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/833.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11204,7 +11219,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/713.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11219,7 +11234,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/821.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11234,7 +11249,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/382.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11249,7 +11264,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/882.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11264,7 +11279,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2382.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11279,7 +11294,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/620.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11294,7 +11309,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/135.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11309,7 +11324,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5273.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11324,7 +11339,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/322.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11339,7 +11354,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/203.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11354,7 +11369,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/115.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11369,7 +11384,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/130.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11384,7 +11399,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5261.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11399,7 +11414,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/785.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11414,7 +11429,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/75.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11429,7 +11444,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2422.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11444,7 +11459,7 @@ window.APP_DATA = {
       "url": "https://grawww.nju.edu.cn/41/7f/c906a16767/page.htm",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11459,7 +11474,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2131.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11489,7 +11504,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/206.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11504,7 +11519,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/sszyml/tmsml",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11519,7 +11534,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/sszyml/index",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11534,7 +11549,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/bszyml/index",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11549,7 +11564,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/867.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11564,7 +11579,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/571.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11579,7 +11594,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/631.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11594,7 +11609,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/712.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11609,7 +11624,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/880.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11624,7 +11639,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/851.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11639,7 +11654,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/830.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11654,7 +11669,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2011.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11669,7 +11684,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/419.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11684,7 +11699,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/106.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11699,7 +11714,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/823.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11714,7 +11729,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/119.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11729,7 +11744,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/784.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11744,7 +11759,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/112.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11759,7 +11774,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16470.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11774,7 +11789,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16203.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11789,7 +11804,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/711.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11804,7 +11819,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/163.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11819,7 +11834,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/518.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11834,7 +11849,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/93.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11849,7 +11864,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/104.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11864,7 +11879,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/83.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11879,7 +11894,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/380.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11894,7 +11909,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5274.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11909,7 +11924,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/642.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11924,7 +11939,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2248.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11939,7 +11954,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2080.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11954,7 +11969,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5272.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11969,7 +11984,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/86/ca/c35408a755402/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11984,7 +11999,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/c4/f9/c35408a705785/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11999,7 +12014,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/10/80/c35408a725120/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12014,7 +12029,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/ff/09/c35408a720649/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12029,7 +12044,7 @@ window.APP_DATA = {
       "url": "https://yjsy.cqmu.edu.cn/info/1025/2294.htm",
       "source_level": "A",
       "source_id": "cqmu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12044,7 +12059,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/9ba98741-1c2f-4a08-97de-5c615fe40e6e",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12059,7 +12074,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/65b77e87-fb3c-4b08-adb1-4c909a4715fb",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12074,7 +12089,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/acbeb949-ffd7-4588-a1ac-0a4b3b8c13e6",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12089,7 +12104,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/d5521eea-f5ac-4d07-9553-16b5ea990117",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12104,7 +12119,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/faa8e2ea-2f57-4682-9f14-c680b2cad466",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12119,7 +12134,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/067b1a7d-e425-4285-9bf2-2c37dc9cf093",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12134,7 +12149,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/7a39a61f-70ea-4145-b2c5-cf3c9207ade9",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12149,7 +12164,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/2083633b-f644-4d53-b9b6-88d9d6fb0666",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12164,7 +12179,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/ed2adf77-2c67-46b8-9d1f-e5854c7640fe",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12179,7 +12194,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/88b8aa7f-a47b-413b-9075-2e0c8019b1b0",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12194,7 +12209,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/c0d16f13-6a1d-4301-9eff-38b1d24db5e0",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12209,7 +12224,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/4cffb995-e451-4456-9400-1418d834ab1e",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12224,7 +12239,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/6beab59a-186e-4526-8278-bfbc4075b3d5",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12239,7 +12254,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/e853827e-b0e5-429b-b4a5-309ba4dc489c",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12254,7 +12269,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/50bcf309-63de-40f0-9705-6e6eeeb64f5f",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12269,7 +12284,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/103.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12284,7 +12299,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/30.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12299,7 +12314,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2310.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12314,7 +12329,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2383.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12329,7 +12344,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/869.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12344,7 +12359,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/125.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12359,7 +12374,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/781.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12374,7 +12389,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5213.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12389,7 +12404,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2566.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12404,7 +12419,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/685.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12419,7 +12434,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/bszs/zsjz.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12434,7 +12449,7 @@ window.APP_DATA = {
       "url": "https://yjsy.ncu.edu.cn/info/1171/22176.htm",
       "source_level": "A",
       "source_id": "src_ncu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12449,7 +12464,7 @@ window.APP_DATA = {
       "url": "https://yjsy.fzu.edu.cn/zsgz/bsyjszs.htm",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12464,7 +12479,7 @@ window.APP_DATA = {
       "url": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
       "source_level": "A",
       "source_id": "src_ccmu_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12479,7 +12494,7 @@ window.APP_DATA = {
       "url": "https://www.gs.sjtu.edu.cn/bsszyryjh/xmjs",
       "source_level": "A",
       "source_id": "sjtu_grad",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12494,7 +12509,7 @@ window.APP_DATA = {
       "url": "https://ehallapp.nju.edu.cn/gsapp/sys/dbgsglappecupl/*default/index.do",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12509,7 +12524,7 @@ window.APP_DATA = {
       "url": "https://gs.nju.edu.cn/geapp/sys/yjsbmxsd/entrance.do",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12524,7 +12539,7 @@ window.APP_DATA = {
       "url": "https://bme.seu.edu.cn/616/list.htm",
       "source_level": "A",
       "source_id": "src_seu_bme",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12539,7 +12554,7 @@ window.APP_DATA = {
       "url": "https://yjszs.shu.edu.cn/zsjz/bszsjz.htm",
       "source_level": "A",
       "source_id": "shu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12554,7 +12569,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/xxgk/bszsgs.htm",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12569,7 +12584,7 @@ window.APP_DATA = {
       "url": "https://yjs.gxmu.edu.cn/zsgz/bsyjszs/",
       "source_level": "A",
       "source_id": "src_gxmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12584,7 +12599,7 @@ window.APP_DATA = {
       "url": "https://gmis.shu.edu.cn/BSBM.html",
       "source_level": "A",
       "source_id": "shu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12599,7 +12614,7 @@ window.APP_DATA = {
       "url": "https://yjs.shu.edu.cn/",
       "source_level": "A",
       "source_id": "shu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12614,7 +12629,7 @@ window.APP_DATA = {
       "url": "https://yjsy.fzu.edu.cn/info/1068/4595.htm",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12629,7 +12644,7 @@ window.APP_DATA = {
       "url": "https://yjsy.fzu.edu.cn/info/1068/4594.htm",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12644,7 +12659,7 @@ window.APP_DATA = {
       "url": "https://grawww.nju.edu.cn/29/00/c906a10496/page.htm",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12659,7 +12674,7 @@ window.APP_DATA = {
       "url": "https://bme.seu.edu.cn/529/list.htm",
       "source_level": "A",
       "source_id": "src_seu_bme",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12674,7 +12689,7 @@ window.APP_DATA = {
       "url": "https://www.whuh.com/rczp/bshzp.htm",
       "source_level": "A",
       "source_id": "hust_union",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12689,7 +12704,7 @@ window.APP_DATA = {
       "url": "https://yjs.gxmu.edu.cn/bsrxkscx/",
       "source_level": "A",
       "source_id": "src_gxmu_graduate",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12704,7 +12719,7 @@ window.APP_DATA = {
       "url": "https://yjsy.ncu.edu.cn/info/1012/23986.htm",
       "source_level": "A",
       "source_id": "src_ncu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12719,7 +12734,7 @@ window.APP_DATA = {
       "url": "https://yjsy.ncu.edu.cn/info/1012/24006.htm",
       "source_level": "A",
       "source_id": "src_ncu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12734,7 +12749,7 @@ window.APP_DATA = {
       "url": "https://yjsxt.smu.edu.cn/open/tutorlist.aspx",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12749,7 +12764,7 @@ window.APP_DATA = {
       "url": "http://app.smu.edu.cn:81/DoctorSys/",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12764,7 +12779,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0511/c10188a300922/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12779,7 +12794,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0521/c10188a301618/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12794,7 +12809,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0309/c10188a297996/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12809,7 +12824,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0604/c10188a302468/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12824,7 +12839,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0622/c10188a303493/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12839,7 +12854,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0511/c10188a300931/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12854,7 +12869,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0511/c10188a300923/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12869,7 +12884,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0522/c10188a301663/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12884,7 +12899,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0528/c10188a301969/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12899,7 +12914,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/283.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12914,7 +12929,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2088.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12929,7 +12944,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2196.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12944,7 +12959,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/757.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12959,7 +12974,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2569.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12974,7 +12989,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/721.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12989,7 +13004,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/17.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13004,7 +13019,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2260.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13019,7 +13034,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/0413/c83a592868/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13034,7 +13049,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/0617/c83a598474/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13049,7 +13064,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0707/c10188a304263/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13064,7 +13079,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0707/c10188a304255/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13079,7 +13094,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0415/c10188a299759/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13094,7 +13109,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2132.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13109,7 +13124,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2091.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13124,7 +13139,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2078.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13139,7 +13154,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0623/c10188a303577/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13154,7 +13169,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/fd/85/c35408a720261/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13169,7 +13184,7 @@ window.APP_DATA = {
       "url": "https://grawww.nju.edu.cn/c5/a2/c905a837026/page.htm",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13184,7 +13199,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/410.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13199,7 +13214,7 @@ window.APP_DATA = {
       "url": "https://www.gs.sjtu.edu.cn/yxbslw",
       "source_level": "A",
       "source_id": "sjtu_grad",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13214,7 +13229,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2117.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13229,7 +13244,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/834.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13244,7 +13259,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/b7/25/c35408a767781/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13259,7 +13274,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/21/f7/c35408a729591/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13274,7 +13289,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/41/48/c35408a672072/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13289,7 +13304,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/info/1012/1470.htm",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13304,7 +13319,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/249.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13319,7 +13334,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0608/c6677a570508/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13334,7 +13349,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0630/c6677a575068/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13349,7 +13364,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0616/c6677a571857/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13364,7 +13379,7 @@ window.APP_DATA = {
       "url": "https://law.seu.edu.cn/2026/0611/c9381a571241/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13379,7 +13394,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0616/c6677a571855/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13394,7 +13409,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0609/c6677a570819/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13409,7 +13424,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0616/c6677a571861/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13424,7 +13439,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0616/c6677a571852/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13439,7 +13454,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0615/c6677a571724/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13454,7 +13469,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0622/c6677a572658/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13469,7 +13484,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0709/c6677a576275/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13484,7 +13499,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0706/c6677a575668/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13499,7 +13514,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/45/ce/c35408a673230/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13514,7 +13529,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/45/da/c35408a673242/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13529,7 +13544,7 @@ window.APP_DATA = {
       "url": "https://yjszs.shu.edu.cn/info/1004/8724.htm",
       "source_level": "A",
       "source_id": "shu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13544,7 +13559,7 @@ window.APP_DATA = {
       "url": "https://yjszs.shu.edu.cn/info/1004/8764.htm",
       "source_level": "A",
       "source_id": "shu_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13559,7 +13574,7 @@ window.APP_DATA = {
       "url": "https://teach.bjcancer.org/Html/Teachers/Index/2017.html",
       "source_level": "A",
       "source_id": "src_pku_cancer_tutors",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13574,7 +13589,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/5766.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13589,7 +13604,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/5757.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13604,7 +13619,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/5818.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13619,7 +13634,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/5747.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13634,7 +13649,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/5834.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13649,7 +13664,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/5794.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13664,7 +13679,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498540",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13679,7 +13694,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498538",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13694,7 +13709,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498535",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13709,7 +13724,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16495.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13724,7 +13739,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16483.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13739,7 +13754,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16529.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13754,7 +13769,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16500.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13769,7 +13784,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16492.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13784,7 +13799,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16487.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13799,7 +13814,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16498.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13814,7 +13829,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16486.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13829,7 +13844,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16499.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13844,7 +13859,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16463.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13859,7 +13874,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16493.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13874,7 +13889,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16467.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13889,7 +13904,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4192.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13904,7 +13919,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4221.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13919,7 +13934,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4209.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13934,7 +13949,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4204.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13949,7 +13964,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4207.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13964,7 +13979,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4198.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13979,7 +13994,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4205.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13994,7 +14009,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0521/c10188a301585/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14024,7 +14039,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/0630/c73a599331/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14054,7 +14069,7 @@ window.APP_DATA = {
       "url": "https://gw.seu.edu.cn/2026/0608/c15732a570688/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14069,7 +14084,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16462.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14084,7 +14099,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/0626/c73a599049/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14099,7 +14114,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16063.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14114,7 +14129,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16060.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14129,7 +14144,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16059.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-08-02T12:37:02+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14144,7 +14159,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/21/f9/c35408a729593/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14159,7 +14174,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/46/25/c35408a673317/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14174,7 +14189,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/4a/b4/c35408a674484/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14189,7 +14204,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/45/09/c35408a673033/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14204,7 +14219,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498534",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14219,7 +14234,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498536",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-08-03T12:46:31+08:00",
+      "fetched_at": "2026-08-04T12:30:02+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     }
@@ -14619,14 +14634,14 @@ window.APP_DATA = {
     }
   ],
   "sourceStatus": {
-    "last_checked": "2026-08-03T12:46:31+08:00",
+    "last_checked": "2026-08-04T12:30:02+08:00",
     "mode": "scheduled_crawl",
     "summary": {
       "total": 49,
-      "ok": 37,
+      "ok": 38,
       "limited": 1,
-      "error": 11,
-      "new_notices": 0
+      "error": 10,
+      "new_notices": 1
     },
     "sources": [
       {
@@ -14634,7 +14649,7 @@ window.APP_DATA = {
         "school": "北京大学医学部",
         "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/index.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 6 条候选招生动态",
         "http_status": 200,
         "candidate_count": 6,
@@ -14645,7 +14660,7 @@ window.APP_DATA = {
         "school": "北京协和医学院",
         "url": "https://graduate.pumc.edu.cn/zsw/bszs.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 6 条候选招生动态",
         "http_status": 200,
         "candidate_count": 6,
@@ -14656,7 +14671,7 @@ window.APP_DATA = {
         "school": "清华大学",
         "url": "https://yz.tsinghua.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 4 条候选招生动态",
         "http_status": 200,
         "candidate_count": 4,
@@ -14667,7 +14682,7 @@ window.APP_DATA = {
         "school": "复旦大学上海医学院",
         "url": "https://gs-shmc.fudan.edu.cn/bszs_35408/list.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 14 条候选招生动态",
         "http_status": 200,
         "candidate_count": 14,
@@ -14678,7 +14693,7 @@ window.APP_DATA = {
         "school": "上海交通大学医学院",
         "url": "https://www.gs.sjtu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 2 条候选招生动态",
         "http_status": 200,
         "candidate_count": 2,
@@ -14689,7 +14704,7 @@ window.APP_DATA = {
         "school": "同济大学",
         "url": "https://yz.tongji.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 7 条候选招生动态",
         "http_status": 200,
         "candidate_count": 7,
@@ -14700,7 +14715,7 @@ window.APP_DATA = {
         "school": "浙江大学医学院",
         "url": "https://www.cmm.zju.edu.cn/38716/listm.htm",
         "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "请求失败: ConnectionError",
         "http_status": null,
         "candidate_count": 0,
@@ -14711,7 +14726,7 @@ window.APP_DATA = {
         "school": "华中科技大学同济医学院附属协和医院",
         "url": "https://www.whuh.com/yxjy/yjsjy/zsxx.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 4 条候选招生动态",
         "http_status": 200,
         "candidate_count": 4,
@@ -14722,7 +14737,7 @@ window.APP_DATA = {
         "school": "华中科技大学同济医学院附属同济医院",
         "url": "https://www.tjh.com.cn/channels/296.html",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
@@ -14733,7 +14748,7 @@ window.APP_DATA = {
         "school": "中山大学",
         "url": "https://graduate.sysu.edu.cn/zsw/doctor",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 16 条候选招生动态",
         "http_status": 200,
         "candidate_count": 16,
@@ -14744,7 +14759,7 @@ window.APP_DATA = {
         "school": "四川大学",
         "url": "https://yz.scu.edu.cn/zsxx/newslist/bs/zc",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 19 条候选招生动态",
         "http_status": 200,
         "candidate_count": 19,
@@ -14755,7 +14770,7 @@ window.APP_DATA = {
         "school": "四川大学华西临床医学院",
         "url": "https://yjs.cd120.com/channels/412.html",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 4 条候选招生动态",
         "http_status": 200,
         "candidate_count": 4,
@@ -14765,22 +14780,22 @@ window.APP_DATA = {
         "source_id": "sdu_yz",
         "school": "山东大学",
         "url": "https://www.yz.sdu.edu.cn/",
-        "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
-        "message": "请求失败: ConnectionError",
-        "http_status": null,
-        "candidate_count": 0,
+        "status": "ok",
+        "checked_at": "2026-08-04T12:30:02+08:00",
+        "message": "发现 3 条候选招生动态",
+        "http_status": 200,
+        "candidate_count": 3,
         "new_count": 0
       },
       {
         "source_id": "sdu_qilu",
         "school": "山东大学齐鲁医学院",
         "url": "https://qlyxjxgl.sdu.edu.cn/jxglbgs/yjsjiao/zsgz/bszs.htm",
-        "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
-        "message": "请求失败: ConnectionError",
-        "http_status": null,
-        "candidate_count": 0,
+        "status": "ok",
+        "checked_at": "2026-08-04T12:30:02+08:00",
+        "message": "发现 20 条候选招生动态",
+        "http_status": 200,
+        "candidate_count": 20,
         "new_count": 0
       },
       {
@@ -14788,7 +14803,7 @@ window.APP_DATA = {
         "school": "南京医科大学",
         "url": "https://yjszs.njmu.edu.cn/10188/listm.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 14 条候选招生动态",
         "http_status": 200,
         "candidate_count": 14,
@@ -14799,7 +14814,7 @@ window.APP_DATA = {
         "school": "东南大学",
         "url": "https://yzb.seu.edu.cn/6677/list.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 13 条候选招生动态",
         "http_status": 200,
         "candidate_count": 13,
@@ -14810,7 +14825,7 @@ window.APP_DATA = {
         "school": "重庆医科大学",
         "url": "https://yjsy.cqmu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 3 条候选招生动态",
         "http_status": 200,
         "candidate_count": 3,
@@ -14821,7 +14836,7 @@ window.APP_DATA = {
         "school": "电子科技大学",
         "url": "https://yz.uestc.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 7 条候选招生动态",
         "http_status": 200,
         "candidate_count": 7,
@@ -14832,7 +14847,7 @@ window.APP_DATA = {
         "school": "西安交通大学",
         "url": "https://yz.xjtu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 9 条候选招生动态",
         "http_status": 200,
         "candidate_count": 9,
@@ -14843,10 +14858,10 @@ window.APP_DATA = {
         "school": "南开大学",
         "url": "https://graduate.nankai.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
-        "message": "发现 6 条候选招生动态",
+        "checked_at": "2026-08-04T12:30:02+08:00",
+        "message": "发现 5 条候选招生动态",
         "http_status": 200,
-        "candidate_count": 6,
+        "candidate_count": 5,
         "new_count": 0
       },
       {
@@ -14854,7 +14869,7 @@ window.APP_DATA = {
         "school": "徐州医科大学",
         "url": "https://yjsy.xzhmu.edu.cn/",
         "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "请求失败: ConnectionError",
         "http_status": null,
         "candidate_count": 0,
@@ -14865,7 +14880,7 @@ window.APP_DATA = {
         "school": "上海大学",
         "url": "https://yjszs.shu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 5 条候选招生动态",
         "http_status": 200,
         "candidate_count": 5,
@@ -14876,7 +14891,7 @@ window.APP_DATA = {
         "school": "中国科学院深圳先进技术研究院",
         "url": "https://siat.cas.cn/yjsjy2016/zsjs2016/",
         "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "HTTP 404",
         "http_status": 404,
         "candidate_count": 0,
@@ -14887,7 +14902,7 @@ window.APP_DATA = {
         "school": "首都医科大学",
         "url": "https://yjsh.ccmu.edu.cn/zsxx/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
@@ -14898,7 +14913,7 @@ window.APP_DATA = {
         "school": "南方医科大学",
         "url": "https://portal.smu.edu.cn/yzw/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 8 条候选招生动态",
         "http_status": 200,
         "candidate_count": 8,
@@ -14909,7 +14924,7 @@ window.APP_DATA = {
         "school": "武汉大学",
         "url": "https://gs.whu.edu.cn/zsxx.htm",
         "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "HTTP 404",
         "http_status": 404,
         "candidate_count": 0,
@@ -14920,7 +14935,7 @@ window.APP_DATA = {
         "school": "暨南大学",
         "url": "https://yz.jnu.edu.cn/bszs/list.htm",
         "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "HTTP 410",
         "http_status": 410,
         "candidate_count": 0,
@@ -14931,7 +14946,7 @@ window.APP_DATA = {
         "school": "哈尔滨医科大学",
         "url": "https://yjsgl.hrbmu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
@@ -14941,11 +14956,11 @@ window.APP_DATA = {
         "source_id": "dmu_yjs",
         "school": "大连医科大学",
         "url": "https://yjs.dmu.edu.cn/",
-        "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
-        "message": "发现 2 条候选招生动态",
-        "http_status": 200,
-        "candidate_count": 2,
+        "status": "error",
+        "checked_at": "2026-08-04T12:30:02+08:00",
+        "message": "请求失败: ConnectionError",
+        "http_status": null,
+        "candidate_count": 0,
         "new_count": 0
       },
       {
@@ -14953,7 +14968,7 @@ window.APP_DATA = {
         "school": "山西医科大学",
         "url": "https://www.sxmu.edu.cn/yjs/",
         "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "请求失败: ConnectionError",
         "http_status": null,
         "candidate_count": 0,
@@ -14964,7 +14979,7 @@ window.APP_DATA = {
         "school": "内蒙古医科大学",
         "url": "https://yjsxy.immu.edu.cn/",
         "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "请求失败: ConnectionError",
         "http_status": null,
         "candidate_count": 0,
@@ -14975,7 +14990,7 @@ window.APP_DATA = {
         "school": "南京大学",
         "url": "https://grawww.nju.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 5 条候选招生动态",
         "http_status": 200,
         "candidate_count": 5,
@@ -14986,7 +15001,7 @@ window.APP_DATA = {
         "school": "福州大学",
         "url": "https://yjsy.fzu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 7 条候选招生动态",
         "http_status": 200,
         "candidate_count": 7,
@@ -14997,7 +15012,7 @@ window.APP_DATA = {
         "school": "安徽医科大学",
         "url": "https://yjsxy.ahmu.edu.cn/zsxx/bszs.htm",
         "status": "limited",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "访问受限 HTTP 403",
         "http_status": 403,
         "candidate_count": 0,
@@ -15008,7 +15023,7 @@ window.APP_DATA = {
         "school": "广东医科大学",
         "url": "https://yjsxy.gdmu.edu.cn/1310/list.htm",
         "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "HTTP 404",
         "http_status": 404,
         "candidate_count": 0,
@@ -15019,7 +15034,7 @@ window.APP_DATA = {
         "school": "首都医科大学博士生导师库",
         "url": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 1 条候选招生动态",
         "http_status": 200,
         "candidate_count": 1,
@@ -15030,7 +15045,7 @@ window.APP_DATA = {
         "school": "北京协和医院超声医学科",
         "url": "https://www.pumch.cn/department_chaoszdk.html",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 5 条候选招生动态",
         "http_status": 200,
         "candidate_count": 5,
@@ -15041,7 +15056,7 @@ window.APP_DATA = {
         "school": "北京大学肿瘤医院导师团队",
         "url": "https://teach.bjcancer.org/Html/Teachers/Overview.html",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 110 条候选招生动态",
         "http_status": 200,
         "candidate_count": 110,
@@ -15052,7 +15067,7 @@ window.APP_DATA = {
         "school": "北京大学第一医院导师风采",
         "url": "https://www.pkufh.com/Html/Doctors/Main/Index_1645.html",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
@@ -15063,7 +15078,7 @@ window.APP_DATA = {
         "school": "中南大学2026博士招生",
         "url": "https://yz.csu.edu.cn/info/1012/1469.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 7 条候选招生动态",
         "http_status": 200,
         "candidate_count": 7,
@@ -15074,7 +15089,7 @@ window.APP_DATA = {
         "school": "南昌大学2026博士招生",
         "url": "https://yjsy.ncu.edu.cn/info/1012/23996.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 3 条候选招生动态",
         "http_status": 200,
         "candidate_count": 3,
@@ -15085,7 +15100,7 @@ window.APP_DATA = {
         "school": "深圳大学博士招生简章目录",
         "url": "https://yz.szu.edu.cn/bszs/jzml.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 11 条候选招生动态",
         "http_status": 200,
         "candidate_count": 11,
@@ -15096,7 +15111,7 @@ window.APP_DATA = {
         "school": "南京医科大学医工导师库",
         "url": "https://bmei.njmu.edu.cn/10269/list.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
@@ -15107,18 +15122,18 @@ window.APP_DATA = {
         "school": "东南大学生物医学工程导师库",
         "url": "https://bme.seu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
-        "message": "发现 2 条候选招生动态",
+        "checked_at": "2026-08-04T12:30:02+08:00",
+        "message": "发现 3 条候选招生动态",
         "http_status": 200,
-        "candidate_count": 2,
-        "new_count": 0
+        "candidate_count": 3,
+        "new_count": 1
       },
       {
         "source_id": "src_xjtu_tutors",
         "school": "西安交通大学博士生导师",
         "url": "https://www.xjtu.edu.cn/szdw/bssds.htm",
         "status": "error",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "HTTP 404",
         "http_status": 404,
         "candidate_count": 0,
@@ -15129,7 +15144,7 @@ window.APP_DATA = {
         "school": "广西医科大学研究生院",
         "url": "https://yjs.gxmu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 4 条候选招生动态",
         "http_status": 200,
         "candidate_count": 4,
@@ -15140,7 +15155,7 @@ window.APP_DATA = {
         "school": "河北医科大学研究生学院",
         "url": "https://gschool.hebmu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 12 条候选招生动态",
         "http_status": 200,
         "candidate_count": 12,
@@ -15151,7 +15166,7 @@ window.APP_DATA = {
         "school": "山东第一医科大学",
         "url": "https://yz.sdfmu.edu.cn/bszs1/tzgg.htm",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 9 条候选招生动态",
         "http_status": 200,
         "candidate_count": 9,
@@ -15162,7 +15177,7 @@ window.APP_DATA = {
         "school": "山东第一医科大学附属省立医院",
         "url": "https://www.sph.com.cn/Html/News/Columns/7/1.html",
         "status": "ok",
-        "checked_at": "2026-08-03T12:46:31+08:00",
+        "checked_at": "2026-08-04T12:30:02+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
