@@ -1,6 +1,6 @@
 window.APP_DATA = {
   "meta": {
-    "updated_at": "2026-11-17T17:11:53+08:00",
+    "updated_at": "2026-11-18T16:31:39+08:00",
     "data_version": "2.0.1",
     "target_year": 2027,
     "notice": "全国公开可核验扩展版；2027政策以学校官方新发布内容为准，自动抓取只记录官方页面可见标题、日期和链接。"
@@ -8634,7 +8634,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/1106/c73a606159/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-06T15:54:54+08:00",
       "is_new": true
     },
@@ -8664,7 +8664,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/1014/c75a604373/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-15T13:53:58+08:00",
       "is_new": true
     },
@@ -8699,6 +8699,21 @@ window.APP_DATA = {
       "is_new": true
     },
     {
+      "id": "auto_1209e9757a0e90",
+      "school_id": "hebmu",
+      "school": "河北医科大学研究生学院",
+      "title": "研究生学院关于推荐参评2024/2025学年度省优秀博士、硕士学位论文评选的公示",
+      "type": "招生动态",
+      "year": 2025,
+      "publish_date": "2026-11-17",
+      "url": "https://gschool.hebmu.edu.cn/a/2026/11/17/425E78D9573D4D4683779850E4E6CF47.html",
+      "source_level": "A",
+      "source_id": "src_hebmu_graduate",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
+      "first_seen_at": "2026-11-18T16:31:39+08:00",
+      "is_new": true
+    },
+    {
       "id": "auto_1ae1f31fe4a0a1",
       "school_id": "sysu",
       "school": "中山大学",
@@ -8709,7 +8724,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/547",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-16T15:58:04+08:00",
       "is_new": true
     },
@@ -8724,7 +8739,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1002/12541.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-12T16:18:17+08:00",
       "is_new": true
     },
@@ -8739,7 +8754,7 @@ window.APP_DATA = {
       "url": "https://yjsy.fzu.edu.cn/info/1070/6219.htm",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-17T17:11:53+08:00",
       "is_new": true
     },
@@ -8754,7 +8769,7 @@ window.APP_DATA = {
       "url": "https://yjsy.fzu.edu.cn/info/1070/6218.htm",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-17T17:11:53+08:00",
       "is_new": true
     },
@@ -8769,7 +8784,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1002/12531.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-11T15:44:06+08:00",
       "is_new": true
     },
@@ -8784,7 +8799,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/e2a72415f6ff4957a75311a85ac6a128.htm",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-09T15:57:14+08:00",
       "is_new": true
     },
@@ -8814,7 +8829,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1084/4443.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-05T15:54:15+08:00",
       "is_new": true
     },
@@ -8829,7 +8844,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/11/04/DFF5B07F3F394066B58C1E04573EBDF1.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-05T15:54:15+08:00",
       "is_new": true
     },
@@ -8844,7 +8859,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1084/4440.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-04T15:29:10+08:00",
       "is_new": true
     },
@@ -8859,7 +8874,7 @@ window.APP_DATA = {
       "url": "https://yzbm.xjtu.edu.cn/zsml/bszsml/detailtk/Ppu8Tbrbt8BWT%207TDfLD@g==",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-04T15:29:10+08:00",
       "is_new": true
     },
@@ -8874,7 +8889,7 @@ window.APP_DATA = {
       "url": "https://yzbm.xjtu.edu.cn/logon",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -8889,7 +8904,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/6525.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-13T15:55:26+08:00",
       "is_new": true
     },
@@ -8904,7 +8919,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/6515.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-11T15:44:06+08:00",
       "is_new": true
     },
@@ -8919,7 +8934,7 @@ window.APP_DATA = {
       "url": "https://yzbm.tsinghua.edu.cn/publish/s04/s0403/detail/d94dee44-4e7b-426e-90d9-cd56f726ea78/2",
       "source_level": "A",
       "source_id": "tsinghua_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-06T15:54:54+08:00",
       "is_new": true
     },
@@ -8934,7 +8949,7 @@ window.APP_DATA = {
       "url": "https://yjs.gxmu.edu.cn/tzxw/tzgg/t241477.html",
       "source_level": "A",
       "source_id": "src_gxmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-30T15:04:40+08:00",
       "is_new": true
     },
@@ -8949,7 +8964,7 @@ window.APP_DATA = {
       "url": "https://yjs.gxmu.edu.cn/tzxw/tzgg/t241318.html",
       "source_level": "A",
       "source_id": "src_gxmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-29T15:03:07+08:00",
       "is_new": true
     },
@@ -8964,7 +8979,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/6ae01b5460df4a328824cb6eb57e8586.htm",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-27T14:15:19+08:00",
       "is_new": true
     },
@@ -8979,7 +8994,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1084/4434.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-22T14:06:25+08:00",
       "is_new": true
     },
@@ -8994,7 +9009,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/d185d6a41b344c7b9f22e538c4cf086f.htm",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-20T14:00:00+08:00",
       "is_new": true
     },
@@ -9024,7 +9039,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/docs/2026-10/978ba00aff384aaab67657f9e435b0e2.pdf",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-24T13:51:27+08:00",
       "is_new": true
     },
@@ -9039,7 +9054,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/10/16/726AD7AD075248C39388419746DD106C.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-16T13:51:02+08:00",
       "is_new": true
     },
@@ -9054,7 +9069,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/10/11/F03F6AB578984462ADB23C6B87A9DA53.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-12T15:20:17+08:00",
       "is_new": true
     },
@@ -9069,7 +9084,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/10/09/4F70D6F2E0DF45C39F1371096B84F300.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-10T15:05:41+08:00",
       "is_new": true
     },
@@ -9099,7 +9114,7 @@ window.APP_DATA = {
       "url": "https://www.gs.sjtu.edu.cn/post/detail/Z3MzODE5",
       "source_level": "A",
       "source_id": "sjtu_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-26T14:11:30+08:00",
       "is_new": true
     },
@@ -9114,7 +9129,7 @@ window.APP_DATA = {
       "url": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/410f1b12-e047-4f72-832f-3e39596f545a",
       "source_level": "A",
       "source_id": "tsinghua_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-30T15:04:40+08:00",
       "is_new": true
     },
@@ -9129,7 +9144,7 @@ window.APP_DATA = {
       "url": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/a81f81ab-4e82-4848-96fb-cb6e515952d0",
       "source_level": "A",
       "source_id": "tsinghua_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-30T15:04:40+08:00",
       "is_new": true
     },
@@ -9144,7 +9159,7 @@ window.APP_DATA = {
       "url": "https://yz.tsinghua.edu.cn/info/1024/3303.htm",
       "source_level": "A",
       "source_id": "tsinghua_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-30T15:04:40+08:00",
       "is_new": true
     },
@@ -9264,7 +9279,7 @@ window.APP_DATA = {
       "url": "https://yzbm.xjtu.edu.cn/zsml/bszsml/detailtm/Ppu8Tbrbt8BWT%207TDfLD@g==",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-09-22T14:12:21+08:00",
       "is_new": true
     },
@@ -9294,7 +9309,7 @@ window.APP_DATA = {
       "url": "https://www.tjh.com.cn/contents/296/59754.html",
       "source_level": "A",
       "source_id": "hust_tongji",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-22T14:06:25+08:00",
       "is_new": true
     },
@@ -9309,7 +9324,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1082/4404.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-09-14T14:16:18+08:00",
       "is_new": true
     },
@@ -9324,7 +9339,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1086/4403.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-09-14T14:16:18+08:00",
       "is_new": true
     },
@@ -9354,7 +9369,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/info/1086/4398.htm",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-09-07T14:05:52+08:00",
       "is_new": true
     },
@@ -9414,7 +9429,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/08/28/EBA665F732BC46E5827B49E52809DB22.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-08-28T20:46:06+08:00",
       "is_new": true
     },
@@ -9444,7 +9459,7 @@ window.APP_DATA = {
       "url": "https://yjs.dmu.edu.cn/info/1452/9438.htm",
       "source_level": "A",
       "source_id": "dmu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-08-27T19:11:41+08:00",
       "is_new": true
     },
@@ -9474,7 +9489,7 @@ window.APP_DATA = {
       "url": "https://yjsy.cqmu.edu.cn/info/1012/2351.htm",
       "source_level": "A",
       "source_id": "cqmu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9489,7 +9504,7 @@ window.APP_DATA = {
       "url": "https://yjsy.cqmu.edu.cn/info/1012/2352.htm",
       "source_level": "A",
       "source_id": "cqmu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9504,7 +9519,7 @@ window.APP_DATA = {
       "url": "https://info22.fzu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1306&wbnewsid=41195",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9519,7 +9534,7 @@ window.APP_DATA = {
       "url": "https://info22.fzu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1306&wbnewsid=41187",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9579,7 +9594,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/534",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9594,7 +9609,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/6295.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9609,7 +9624,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/6305.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9624,7 +9639,7 @@ window.APP_DATA = {
       "url": "https://www.yz.sdu.edu.cn/info/1025/1443.htm",
       "source_level": "A",
       "source_id": "sdu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9669,7 +9684,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/06/26/FC78CF9D23A547949163DFBEF2A294D3.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9684,7 +9699,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/532",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9770,7 +9785,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/06/17/358BAA81ED48401E80CD688F553565C7.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -9830,7 +9845,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/06/02/3CFABF00D7DD4B6980A46C22CD374C0D.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10090,7 +10105,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/527",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10105,7 +10120,7 @@ window.APP_DATA = {
       "url": "https://www.whuh.com/info/1482/73326.htm",
       "source_level": "A",
       "source_id": "hust_union",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10148,7 +10163,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/523",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10163,7 +10178,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/04/23/BE11CE35A649424BBE3BA77C01111DBC.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10206,7 +10221,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2026/03/09/FE48FF11B7B64C148730C672301BA6CC.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10221,7 +10236,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3475.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10251,7 +10266,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14216.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10266,7 +10281,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14126.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10281,7 +10296,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14136.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10296,7 +10311,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14146.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10324,7 +10339,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/14116.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10382,7 +10397,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3425.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10397,7 +10412,7 @@ window.APP_DATA = {
       "url": "https://www.whuh.com/info/1482/59766.htm",
       "source_level": "A",
       "source_id": "hust_union",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10412,7 +10427,7 @@ window.APP_DATA = {
       "url": "https://www.whuh.com/info/1482/59759.htm",
       "source_level": "A",
       "source_id": "hust_union",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10427,7 +10442,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/0410/c75a592570/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10442,7 +10457,7 @@ window.APP_DATA = {
       "url": "https://yz.xjtu.edu.cn/2026gatbszsml.pdf",
       "source_level": "A",
       "source_id": "xjtu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10470,7 +10485,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/519",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10543,7 +10558,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3415.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10558,7 +10573,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3445.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10573,7 +10588,7 @@ window.APP_DATA = {
       "url": "https://yjs.cd120.com/contents/412/7080.html",
       "source_level": "A",
       "source_id": "westchina_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10600,7 +10615,7 @@ window.APP_DATA = {
       "publish_date": "2025-11-25",
       "url": "https://yjs.cd120.com/contents/412/7052.html",
       "source_level": "A",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "is_new": false,
       "source_id": "westchina_doctor"
     },
@@ -10668,7 +10683,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/515",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10683,7 +10698,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/935828b5d29c4aeab9d9e4ee0d9cd613.htm",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10752,7 +10767,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/513",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10767,7 +10782,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/514",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10782,7 +10797,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/511",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10797,7 +10812,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/507",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10812,7 +10827,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/508",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10827,7 +10842,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/509",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10842,7 +10857,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/506",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10857,7 +10872,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/501",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10900,7 +10915,7 @@ window.APP_DATA = {
       "url": "https://graduate.sysu.edu.cn/zsw/article/499",
       "source_level": "A",
       "source_id": "sysu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -10927,7 +10942,7 @@ window.APP_DATA = {
       "publish_date": "2025-10-10",
       "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/c1c194ca3d6b4e319c16c22006fb7d26.htm",
       "source_level": "A",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "is_new": false,
       "source_id": "bjmu_admission"
     },
@@ -10955,7 +10970,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/docs/2025-10/a0e2a1ed91f3416cb672194df65d50bd.pdf",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11043,7 +11058,7 @@ window.APP_DATA = {
       "url": "https://yz.sdfmu.edu.cn/info/1034/3235.htm",
       "source_level": "A",
       "source_id": "sdfmu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11086,7 +11101,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1011/11401.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11116,7 +11131,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2025/03/14/5C84852D8F5E45C6A87859F87FC4BA6E.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11131,7 +11146,7 @@ window.APP_DATA = {
       "url": "https://gschool.hebmu.edu.cn/a/2025/03/14/341753405AE34529B443FECE17E60344.html",
       "source_level": "A",
       "source_id": "src_hebmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11146,7 +11161,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13130.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11161,7 +11176,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13097.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11176,7 +11191,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13096.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11191,7 +11206,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13100.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11206,7 +11221,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13093.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11221,7 +11236,7 @@ window.APP_DATA = {
       "url": "https://portal.smu.edu.cn/yzw/info/1011/10891.htm",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11236,7 +11251,7 @@ window.APP_DATA = {
       "url": "https://www.tjh.com.cn/contents/296/53982.html",
       "source_level": "A",
       "source_id": "hust_tongji",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-21T14:01:06+08:00",
       "is_new": true
     },
@@ -11294,7 +11309,7 @@ window.APP_DATA = {
       "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/5943416423de4340afe47a82f56aa34f.htm",
       "source_level": "A",
       "source_id": "bjmu_admission",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11339,7 +11354,7 @@ window.APP_DATA = {
       "url": "https://yz.szu.edu.cn/info/1011/13010.htm",
       "source_level": "A",
       "source_id": "src_szu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11609,7 +11624,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/6016.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-27T14:15:19+08:00",
       "is_new": true
     },
@@ -11774,7 +11789,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16488.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11789,7 +11804,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16485.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -11879,7 +11894,7 @@ window.APP_DATA = {
       "url": "https://yzbm.uestc.edu.cn/zsml/bszsml/index/2027",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-22T14:06:25+08:00",
       "is_new": true
     },
@@ -11894,7 +11909,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1081/5999.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-22T14:06:25+08:00",
       "is_new": true
     },
@@ -11909,7 +11924,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/6001.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-22T14:06:25+08:00",
       "is_new": true
     },
@@ -12089,7 +12104,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/bsgat",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12389,7 +12404,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5273.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12464,7 +12479,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5261.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12524,7 +12539,7 @@ window.APP_DATA = {
       "url": "https://grawww.nju.edu.cn/41/7f/c906a16767/page.htm",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12554,7 +12569,7 @@ window.APP_DATA = {
       "url": "https://yjs.dmu.edu.cn/zsgz/ptzkbs.htm",
       "source_level": "A",
       "source_id": "dmu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12584,7 +12599,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/sszyml/tmsml",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12599,7 +12614,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/sszyml/index",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12614,7 +12629,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/bszyml/index",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12839,7 +12854,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16470.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12854,7 +12869,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16203.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -12974,7 +12989,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5274.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13049,7 +13064,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5272.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13064,7 +13079,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/86/ca/c35408a755402/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13079,7 +13094,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/c4/f9/c35408a705785/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13094,7 +13109,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/10/80/c35408a725120/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13109,7 +13124,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/ff/09/c35408a720649/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13139,7 +13154,7 @@ window.APP_DATA = {
       "url": "https://yjsy.cqmu.edu.cn/info/1025/2496.htm",
       "source_level": "A",
       "source_id": "cqmu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-27T14:15:19+08:00",
       "is_new": true
     },
@@ -13154,7 +13169,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/9ba98741-1c2f-4a08-97de-5c615fe40e6e",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13169,7 +13184,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/65b77e87-fb3c-4b08-adb1-4c909a4715fb",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13184,7 +13199,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/acbeb949-ffd7-4588-a1ac-0a4b3b8c13e6",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13199,7 +13214,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/d5521eea-f5ac-4d07-9553-16b5ea990117",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13214,7 +13229,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/faa8e2ea-2f57-4682-9f14-c680b2cad466",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13229,7 +13244,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/067b1a7d-e425-4285-9bf2-2c37dc9cf093",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13249,6 +13264,21 @@ window.APP_DATA = {
       "is_new": true
     },
     {
+      "id": "auto_041b6fa439eb1e",
+      "school_id": "scu_westchina",
+      "school": "四川大学",
+      "title": "四川大学2027年博士研究生招生章程",
+      "type": "招生简章",
+      "year": 2027,
+      "publish_date": "",
+      "url": "https://yz.scu.edu.cn/zsxx/Details/5e211015-7f53-4c99-8f20-12c117723a24",
+      "source_level": "A",
+      "source_id": "scu_doctor",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
+      "first_seen_at": "2026-11-18T16:31:39+08:00",
+      "is_new": true
+    },
+    {
       "id": "auto_7402d6b4968725",
       "school_id": "scu_westchina",
       "school": "四川大学",
@@ -13259,7 +13289,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/2083633b-f644-4d53-b9b6-88d9d6fb0666",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13274,7 +13304,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/ed2adf77-2c67-46b8-9d1f-e5854c7640fe",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13289,7 +13319,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/88b8aa7f-a47b-413b-9075-2e0c8019b1b0",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13304,7 +13334,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/c0d16f13-6a1d-4301-9eff-38b1d24db5e0",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13319,7 +13349,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/4cffb995-e451-4456-9400-1418d834ab1e",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13334,7 +13364,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/6beab59a-186e-4526-8278-bfbc4075b3d5",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13349,7 +13379,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/e853827e-b0e5-429b-b4a5-309ba4dc489c",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13364,7 +13394,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/zsxx/Details/50bcf309-63de-40f0-9705-6e6eeeb64f5f",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13484,7 +13514,7 @@ window.APP_DATA = {
       "url": "https://www.pumch.cn/detail/5213.html",
       "source_level": "A",
       "source_id": "src_pumch_ultrasound",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13507,14 +13537,14 @@ window.APP_DATA = {
       "id": "auto_a77108a6bdafaa",
       "school_id": "tongji_med",
       "school": "同济大学",
-      "title": "同济大学2027年招收博士生网报公告",
+      "title": "同济大学2027年招收普通招考博士生网报公告",
       "type": "招生动态",
       "year": 2027,
       "publish_date": "",
       "url": "https://yz.tongji.edu.cn/info/1011/4291.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-17T17:11:53+08:00",
       "is_new": true
     },
@@ -13529,7 +13559,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4293.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-17T17:11:53+08:00",
       "is_new": true
     },
@@ -13559,7 +13589,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/bszs/zsjz.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13574,7 +13604,7 @@ window.APP_DATA = {
       "url": "https://yjsy.ncu.edu.cn/info/1171/22176.htm",
       "source_level": "A",
       "source_id": "src_ncu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13589,7 +13619,7 @@ window.APP_DATA = {
       "url": "https://yjsy.fzu.edu.cn/zsgz/bsyjszs.htm",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13604,7 +13634,7 @@ window.APP_DATA = {
       "url": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
       "source_level": "A",
       "source_id": "src_ccmu_tutors",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13619,7 +13649,7 @@ window.APP_DATA = {
       "url": "https://www.gs.sjtu.edu.cn/bsszyryjh/xmjs",
       "source_level": "A",
       "source_id": "sjtu_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13634,7 +13664,7 @@ window.APP_DATA = {
       "url": "https://ehallapp.nju.edu.cn/gsapp/sys/dbgsglappecupl/*default/index.do",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13649,7 +13679,7 @@ window.APP_DATA = {
       "url": "https://gs.nju.edu.cn/geapp/sys/yjsbmxsd/entrance.do",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13664,7 +13694,7 @@ window.APP_DATA = {
       "url": "https://bme.seu.edu.cn/616/list.htm",
       "source_level": "A",
       "source_id": "src_seu_bme",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13679,7 +13709,7 @@ window.APP_DATA = {
       "url": "https://yjszs.shu.edu.cn/zsjz/bszsjz.htm",
       "source_level": "A",
       "source_id": "shu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13694,7 +13724,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/xxgk/bszsgs.htm",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13709,7 +13739,7 @@ window.APP_DATA = {
       "url": "https://yjs.gxmu.edu.cn/zsgz/bsyjszs/",
       "source_level": "A",
       "source_id": "src_gxmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13724,7 +13754,7 @@ window.APP_DATA = {
       "url": "https://gmis.shu.edu.cn/BSBM.html",
       "source_level": "A",
       "source_id": "shu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13739,7 +13769,7 @@ window.APP_DATA = {
       "url": "https://yjs.shu.edu.cn/",
       "source_level": "A",
       "source_id": "shu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13754,7 +13784,7 @@ window.APP_DATA = {
       "url": "https://yz.scu.edu.cn/bscl/",
       "source_level": "A",
       "source_id": "scu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-17T17:11:53+08:00",
       "is_new": true
     },
@@ -13769,7 +13799,7 @@ window.APP_DATA = {
       "url": "https://yjsy.fzu.edu.cn/info/1068/4595.htm",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13784,7 +13814,7 @@ window.APP_DATA = {
       "url": "https://yjsy.fzu.edu.cn/info/1068/4594.htm",
       "source_level": "A",
       "source_id": "fzu_yjs",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13799,7 +13829,7 @@ window.APP_DATA = {
       "url": "https://grawww.nju.edu.cn/29/00/c906a10496/page.htm",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13814,7 +13844,7 @@ window.APP_DATA = {
       "url": "https://bme.seu.edu.cn/529/list.htm",
       "source_level": "A",
       "source_id": "src_seu_bme",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13829,7 +13859,7 @@ window.APP_DATA = {
       "url": "https://www.whuh.com/rczp/bshzp.htm",
       "source_level": "A",
       "source_id": "hust_union",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13844,7 +13874,7 @@ window.APP_DATA = {
       "url": "https://yjs.gxmu.edu.cn/bsrxkscx/",
       "source_level": "A",
       "source_id": "src_gxmu_graduate",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13859,7 +13889,7 @@ window.APP_DATA = {
       "url": "https://yjsy.ncu.edu.cn/info/1012/23986.htm",
       "source_level": "A",
       "source_id": "src_ncu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13874,7 +13904,7 @@ window.APP_DATA = {
       "url": "https://yjsy.ncu.edu.cn/info/1012/24006.htm",
       "source_level": "A",
       "source_id": "src_ncu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13889,7 +13919,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/1109/c120a606290/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-09T15:57:14+08:00",
       "is_new": true
     },
@@ -13904,7 +13934,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/1104/c83a605998/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-05T15:54:15+08:00",
       "is_new": true
     },
@@ -13919,7 +13949,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/1029/c83a605399/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-29T15:03:07+08:00",
       "is_new": true
     },
@@ -13934,7 +13964,7 @@ window.APP_DATA = {
       "url": "https://yjsxt.smu.edu.cn/open/tutorlist.aspx",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13949,7 +13979,7 @@ window.APP_DATA = {
       "url": "http://app.smu.edu.cn:81/DoctorSys/",
       "source_level": "A",
       "source_id": "smu_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -13994,7 +14024,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0521/c10188a301618/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14024,7 +14054,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0604/c10188a302468/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14039,7 +14069,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0622/c10188a303493/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14054,7 +14084,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0511/c10188a300931/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14069,7 +14099,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0511/c10188a300923/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14084,7 +14114,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0522/c10188a301663/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14099,7 +14129,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0528/c10188a301969/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14144,7 +14174,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2300.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-03T15:54:18+08:00",
       "is_new": true
     },
@@ -14159,7 +14189,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2297.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-03T15:54:18+08:00",
       "is_new": true
     },
@@ -14174,7 +14204,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2196.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14264,7 +14294,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/0917/c73a602887/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-09-18T13:54:12+08:00",
       "is_new": true
     },
@@ -14279,7 +14309,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/1014/c10188a307845/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-14T14:07:32+08:00",
       "is_new": true
     },
@@ -14294,7 +14324,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/1021/c6677a586980/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-21T14:01:06+08:00",
       "is_new": true
     },
@@ -14309,7 +14339,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/1014/c10188a307844/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-14T14:07:32+08:00",
       "is_new": true
     },
@@ -14354,7 +14384,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0707/c10188a304263/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14369,7 +14399,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0707/c10188a304255/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14444,7 +14474,7 @@ window.APP_DATA = {
       "url": "https://grawww.nju.edu.cn/ee/f3/c905a847603/page.htm",
       "source_level": "A",
       "source_id": "nju_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-02T15:40:23+08:00",
       "is_new": true
     },
@@ -14459,7 +14489,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0623/c10188a303577/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14489,7 +14519,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/fd/85/c35408a720261/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14534,7 +14564,7 @@ window.APP_DATA = {
       "url": "https://bme.seu.edu.cn/71641/list.htm",
       "source_level": "A",
       "source_id": "src_seu_bme",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-23T14:01:49+08:00",
       "is_new": true
     },
@@ -14579,7 +14609,7 @@ window.APP_DATA = {
       "url": "https://www.gs.sjtu.edu.cn/zxgz/yxbsxwlwpx",
       "source_level": "A",
       "source_id": "sjtu_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-31T14:59:03+08:00",
       "is_new": true
     },
@@ -14594,7 +14624,7 @@ window.APP_DATA = {
       "url": "https://www.gs.sjtu.edu.cn/yxbslw",
       "source_level": "A",
       "source_id": "sjtu_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14639,7 +14669,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/b7/25/c35408a767781/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14654,7 +14684,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/21/f7/c35408a729591/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14669,7 +14699,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/41/48/c35408a672072/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14684,7 +14714,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/info/1012/1470.htm",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14714,7 +14744,7 @@ window.APP_DATA = {
       "url": "https://gsas.seu.edu.cn/bsmlcx2027/pages/index.html",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-04T15:29:10+08:00",
       "is_new": true
     },
@@ -14729,7 +14759,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/1103/c6677a588543/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-04T15:29:10+08:00",
       "is_new": true
     },
@@ -14744,7 +14774,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/1103/c6677a588544/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-04T15:29:10+08:00",
       "is_new": true
     },
@@ -14774,7 +14804,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0630/c6677a575068/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14789,7 +14819,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0616/c6677a571857/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14819,7 +14849,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0616/c6677a571855/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14849,7 +14879,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0616/c6677a571861/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14894,7 +14924,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0622/c6677a572658/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14909,7 +14939,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0709/c6677a576275/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14924,7 +14954,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/0706/c6677a575668/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14939,7 +14969,7 @@ window.APP_DATA = {
       "url": "https://yzb.seu.edu.cn/2026/1103/c6677a588459/page.htm",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-03T15:54:18+08:00",
       "is_new": true
     },
@@ -14954,7 +14984,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/45/ce/c35408a673230/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -14969,7 +14999,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/45/da/c35408a673242/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15104,7 +15134,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1204/5984.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-14T14:07:32+08:00",
       "is_new": true
     },
@@ -15149,7 +15179,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1204/5983.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-14T14:07:32+08:00",
       "is_new": true
     },
@@ -15164,7 +15194,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/5964.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-14T14:07:32+08:00",
       "is_new": true
     },
@@ -15179,7 +15209,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1204/5982.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-14T14:07:32+08:00",
       "is_new": true
     },
@@ -15194,7 +15224,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1081/6017.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-27T14:15:19+08:00",
       "is_new": true
     },
@@ -15209,7 +15239,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1004/6018.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-28T14:50:47+08:00",
       "is_new": true
     },
@@ -15239,7 +15269,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1204/5978.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-14T14:07:32+08:00",
       "is_new": true
     },
@@ -15314,7 +15344,7 @@ window.APP_DATA = {
       "url": "https://yz.uestc.edu.cn/info/1204/5975.htm",
       "source_level": "A",
       "source_id": "uestc_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-14T14:07:32+08:00",
       "is_new": true
     },
@@ -15329,7 +15359,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2305.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-06T15:54:54+08:00",
       "is_new": true
     },
@@ -15344,7 +15374,7 @@ window.APP_DATA = {
       "url": "https://graduate.pumc.edu.cn/zsw/info/1004/2308.htm",
       "source_level": "A",
       "source_id": "pumc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-06T15:54:54+08:00",
       "is_new": true
     },
@@ -15359,7 +15389,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498540",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15374,7 +15404,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498538",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15389,7 +15419,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498535",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15404,7 +15434,7 @@ window.APP_DATA = {
       "url": "https://graduate.nankai.edu.cn/2026/1103/c83a605880/page.htm",
       "source_level": "A",
       "source_id": "nankai_grad",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-04T15:29:10+08:00",
       "is_new": true
     },
@@ -15419,7 +15449,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4294.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-17T17:11:53+08:00",
       "is_new": true
     },
@@ -15434,7 +15464,7 @@ window.APP_DATA = {
       "url": "https://gsas.seu.edu.cn/gsxx/bszsxz/202701",
       "source_level": "A",
       "source_id": "seu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-11-13T15:55:26+08:00",
       "is_new": true
     },
@@ -15509,7 +15539,7 @@ window.APP_DATA = {
       "url": "https://bme.seu.edu.cn/2026/1030/c480a588074/page.htm",
       "source_level": "A",
       "source_id": "src_seu_bme",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-10-30T15:04:40+08:00",
       "is_new": true
     },
@@ -15524,7 +15554,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16495.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15539,7 +15569,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16483.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15554,7 +15584,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16529.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15569,7 +15599,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16500.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15584,7 +15614,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16492.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15599,7 +15629,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16487.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15614,7 +15644,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16498.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15629,7 +15659,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16486.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15644,7 +15674,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16499.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15659,7 +15689,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16463.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15674,7 +15704,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16493.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15689,7 +15719,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16467.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15719,7 +15749,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4221.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15734,7 +15764,7 @@ window.APP_DATA = {
       "url": "https://yz.tongji.edu.cn/info/1011/4209.htm",
       "source_level": "A",
       "source_id": "tongji_yz",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15809,7 +15839,7 @@ window.APP_DATA = {
       "url": "https://yjszs.njmu.edu.cn/2026/0521/c10188a301585/pagem.htm",
       "source_level": "A",
       "source_id": "njmu_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15884,7 +15914,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16462.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15914,7 +15944,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16063.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15929,7 +15959,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16060.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15944,7 +15974,7 @@ window.APP_DATA = {
       "url": "https://qlyxjxgl.sdu.edu.cn/info/2004/16059.htm",
       "source_level": "A",
       "source_id": "sdu_qilu",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15959,7 +15989,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/21/f9/c35408a729593/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15974,7 +16004,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/46/25/c35408a673317/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -15989,7 +16019,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/4a/b4/c35408a674484/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -16004,7 +16034,7 @@ window.APP_DATA = {
       "url": "https://gs-shmc.fudan.edu.cn/45/09/c35408a673033/page.htm",
       "source_level": "A",
       "source_id": "fudan_shmc_doctor",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -16019,7 +16049,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498534",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     },
@@ -16034,7 +16064,7 @@ window.APP_DATA = {
       "url": "https://yz.csu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2037374327&wbfileid=17498536",
       "source_level": "A",
       "source_id": "src_csu_2026",
-      "fetched_at": "2026-11-17T17:11:53+08:00",
+      "fetched_at": "2026-11-18T16:31:39+08:00",
       "first_seen_at": "2026-07-25T23:32:56+08:00",
       "is_new": true
     }
@@ -16434,14 +16464,14 @@ window.APP_DATA = {
     }
   ],
   "sourceStatus": {
-    "last_checked": "2026-11-17T17:11:53+08:00",
+    "last_checked": "2026-11-18T16:31:39+08:00",
     "mode": "scheduled_crawl",
     "summary": {
       "total": 49,
-      "ok": 38,
+      "ok": 37,
       "limited": 1,
-      "error": 10,
-      "new_notices": 6
+      "error": 11,
+      "new_notices": 2
     },
     "sources": [
       {
@@ -16449,7 +16479,7 @@ window.APP_DATA = {
         "school": "北京大学医学部",
         "url": "https://yjsy.bjmu.edu.cn/zslq/zsjzjml/index.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 8 条候选招生动态",
         "http_status": 200,
         "candidate_count": 8,
@@ -16460,7 +16490,7 @@ window.APP_DATA = {
         "school": "北京协和医学院",
         "url": "https://graduate.pumc.edu.cn/zsw/bszs.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 5 条候选招生动态",
         "http_status": 200,
         "candidate_count": 5,
@@ -16471,7 +16501,7 @@ window.APP_DATA = {
         "school": "清华大学",
         "url": "https://yz.tsinghua.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 4 条候选招生动态",
         "http_status": 200,
         "candidate_count": 4,
@@ -16482,7 +16512,7 @@ window.APP_DATA = {
         "school": "复旦大学上海医学院",
         "url": "https://gs-shmc.fudan.edu.cn/bszs_35408/list.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 14 条候选招生动态",
         "http_status": 200,
         "candidate_count": 14,
@@ -16493,7 +16523,7 @@ window.APP_DATA = {
         "school": "上海交通大学医学院",
         "url": "https://www.gs.sjtu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 4 条候选招生动态",
         "http_status": 200,
         "candidate_count": 4,
@@ -16504,18 +16534,18 @@ window.APP_DATA = {
         "school": "同济大学",
         "url": "https://yz.tongji.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 5 条候选招生动态",
         "http_status": 200,
         "candidate_count": 5,
-        "new_count": 3
+        "new_count": 0
       },
       {
         "source_id": "zju_med_admission",
         "school": "浙江大学医学院",
         "url": "https://www.cmm.zju.edu.cn/38716/listm.htm",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "请求失败: ConnectionError",
         "http_status": null,
         "candidate_count": 0,
@@ -16526,7 +16556,7 @@ window.APP_DATA = {
         "school": "华中科技大学同济医学院附属协和医院",
         "url": "https://www.whuh.com/yxjy/yjsjy/zsxx.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 4 条候选招生动态",
         "http_status": 200,
         "candidate_count": 4,
@@ -16537,7 +16567,7 @@ window.APP_DATA = {
         "school": "华中科技大学同济医学院附属同济医院",
         "url": "https://www.tjh.com.cn/channels/296.html",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 2 条候选招生动态",
         "http_status": 200,
         "candidate_count": 2,
@@ -16548,7 +16578,7 @@ window.APP_DATA = {
         "school": "中山大学",
         "url": "https://graduate.sysu.edu.cn/zsw/doctor",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 16 条候选招生动态",
         "http_status": 200,
         "candidate_count": 16,
@@ -16559,7 +16589,7 @@ window.APP_DATA = {
         "school": "四川大学",
         "url": "https://yz.scu.edu.cn/zsxx/newslist/bs/zc",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 20 条候选招生动态",
         "http_status": 200,
         "candidate_count": 20,
@@ -16570,7 +16600,7 @@ window.APP_DATA = {
         "school": "四川大学华西临床医学院",
         "url": "https://yjs.cd120.com/channels/412.html",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 2 条候选招生动态",
         "http_status": 200,
         "candidate_count": 2,
@@ -16581,7 +16611,7 @@ window.APP_DATA = {
         "school": "山东大学",
         "url": "https://www.yz.sdu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 1 条候选招生动态",
         "http_status": 200,
         "candidate_count": 1,
@@ -16592,7 +16622,7 @@ window.APP_DATA = {
         "school": "山东大学齐鲁医学院",
         "url": "https://qlyxjxgl.sdu.edu.cn/jxglbgs/yjsjiao/zsgz/bszs.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 20 条候选招生动态",
         "http_status": 200,
         "candidate_count": 20,
@@ -16603,7 +16633,7 @@ window.APP_DATA = {
         "school": "南京医科大学",
         "url": "https://yjszs.njmu.edu.cn/10188/listm.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 13 条候选招生动态",
         "http_status": 200,
         "candidate_count": 13,
@@ -16614,7 +16644,7 @@ window.APP_DATA = {
         "school": "东南大学",
         "url": "https://yzb.seu.edu.cn/6677/list.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 13 条候选招生动态",
         "http_status": 200,
         "candidate_count": 13,
@@ -16625,7 +16655,7 @@ window.APP_DATA = {
         "school": "重庆医科大学",
         "url": "https://yjsy.cqmu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 3 条候选招生动态",
         "http_status": 200,
         "candidate_count": 3,
@@ -16636,7 +16666,7 @@ window.APP_DATA = {
         "school": "电子科技大学",
         "url": "https://yz.uestc.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 13 条候选招生动态",
         "http_status": 200,
         "candidate_count": 13,
@@ -16647,7 +16677,7 @@ window.APP_DATA = {
         "school": "西安交通大学",
         "url": "https://yz.xjtu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 10 条候选招生动态",
         "http_status": 200,
         "candidate_count": 10,
@@ -16658,7 +16688,7 @@ window.APP_DATA = {
         "school": "南开大学",
         "url": "https://graduate.nankai.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 8 条候选招生动态",
         "http_status": 200,
         "candidate_count": 8,
@@ -16669,7 +16699,7 @@ window.APP_DATA = {
         "school": "徐州医科大学",
         "url": "https://yjsy.xzhmu.edu.cn/",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "请求失败: ConnectionError",
         "http_status": null,
         "candidate_count": 0,
@@ -16680,7 +16710,7 @@ window.APP_DATA = {
         "school": "上海大学",
         "url": "https://yjszs.shu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 3 条候选招生动态",
         "http_status": 200,
         "candidate_count": 3,
@@ -16691,7 +16721,7 @@ window.APP_DATA = {
         "school": "中国科学院深圳先进技术研究院",
         "url": "https://siat.cas.cn/yjsjy2016/zsjs2016/",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "HTTP 404",
         "http_status": 404,
         "candidate_count": 0,
@@ -16702,7 +16732,7 @@ window.APP_DATA = {
         "school": "首都医科大学",
         "url": "https://yjsh.ccmu.edu.cn/zsxx/",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "HTTP 404",
         "http_status": 404,
         "candidate_count": 0,
@@ -16713,7 +16743,7 @@ window.APP_DATA = {
         "school": "南方医科大学",
         "url": "https://portal.smu.edu.cn/yzw/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 6 条候选招生动态",
         "http_status": 200,
         "candidate_count": 6,
@@ -16724,7 +16754,7 @@ window.APP_DATA = {
         "school": "武汉大学",
         "url": "https://gs.whu.edu.cn/zsxx.htm",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "HTTP 404",
         "http_status": 404,
         "candidate_count": 0,
@@ -16735,7 +16765,7 @@ window.APP_DATA = {
         "school": "暨南大学",
         "url": "https://yz.jnu.edu.cn/bszs/list.htm",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "HTTP 410",
         "http_status": 410,
         "candidate_count": 0,
@@ -16746,7 +16776,7 @@ window.APP_DATA = {
         "school": "哈尔滨医科大学",
         "url": "https://yjsgl.hrbmu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
@@ -16757,7 +16787,7 @@ window.APP_DATA = {
         "school": "大连医科大学",
         "url": "https://yjs.dmu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 2 条候选招生动态",
         "http_status": 200,
         "candidate_count": 2,
@@ -16768,7 +16798,7 @@ window.APP_DATA = {
         "school": "山西医科大学",
         "url": "https://www.sxmu.edu.cn/yjs/",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "请求失败: ConnectionError",
         "http_status": null,
         "candidate_count": 0,
@@ -16779,7 +16809,7 @@ window.APP_DATA = {
         "school": "内蒙古医科大学",
         "url": "https://yjsxy.immu.edu.cn/",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "请求失败: ConnectionError",
         "http_status": null,
         "candidate_count": 0,
@@ -16790,7 +16820,7 @@ window.APP_DATA = {
         "school": "南京大学",
         "url": "https://grawww.nju.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 5 条候选招生动态",
         "http_status": 200,
         "candidate_count": 5,
@@ -16801,18 +16831,18 @@ window.APP_DATA = {
         "school": "福州大学",
         "url": "https://yjsy.fzu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 7 条候选招生动态",
         "http_status": 200,
         "candidate_count": 7,
-        "new_count": 2
+        "new_count": 0
       },
       {
         "source_id": "ahmu_yjs",
         "school": "安徽医科大学",
         "url": "https://yjsxy.ahmu.edu.cn/zsxx/bszs.htm",
         "status": "limited",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "访问受限 HTTP 403",
         "http_status": 403,
         "candidate_count": 0,
@@ -16823,7 +16853,7 @@ window.APP_DATA = {
         "school": "广东医科大学",
         "url": "https://yjsxy.gdmu.edu.cn/1310/list.htm",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "HTTP 404",
         "http_status": 404,
         "candidate_count": 0,
@@ -16834,7 +16864,7 @@ window.APP_DATA = {
         "school": "首都医科大学博士生导师库",
         "url": "https://yjsh.ccmu.edu.cn/dsdw/dsjj/bsyjsds/index.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 1 条候选招生动态",
         "http_status": 200,
         "candidate_count": 1,
@@ -16845,7 +16875,7 @@ window.APP_DATA = {
         "school": "北京协和医院超声医学科",
         "url": "https://www.pumch.cn/department_chaoszdk.html",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 5 条候选招生动态",
         "http_status": 200,
         "candidate_count": 5,
@@ -16855,11 +16885,11 @@ window.APP_DATA = {
         "source_id": "src_pku_cancer_tutors",
         "school": "北京大学肿瘤医院导师团队",
         "url": "https://teach.bjcancer.org/Html/Teachers/Overview.html",
-        "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
-        "message": "发现 108 条候选招生动态",
-        "http_status": 200,
-        "candidate_count": 108,
+        "status": "error",
+        "checked_at": "2026-11-18T16:31:39+08:00",
+        "message": "请求失败: ConnectionError",
+        "http_status": null,
+        "candidate_count": 0,
         "new_count": 0
       },
       {
@@ -16867,7 +16897,7 @@ window.APP_DATA = {
         "school": "北京大学第一医院导师风采",
         "url": "https://www.pkufh.com/Html/Doctors/Main/Index_1645.html",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
@@ -16878,7 +16908,7 @@ window.APP_DATA = {
         "school": "中南大学2026博士招生",
         "url": "https://yz.csu.edu.cn/info/1012/1469.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 7 条候选招生动态",
         "http_status": 200,
         "candidate_count": 7,
@@ -16889,7 +16919,7 @@ window.APP_DATA = {
         "school": "南昌大学2026博士招生",
         "url": "https://yjsy.ncu.edu.cn/info/1012/23996.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 3 条候选招生动态",
         "http_status": 200,
         "candidate_count": 3,
@@ -16900,7 +16930,7 @@ window.APP_DATA = {
         "school": "深圳大学博士招生简章目录",
         "url": "https://yz.szu.edu.cn/bszs/jzml.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 11 条候选招生动态",
         "http_status": 200,
         "candidate_count": 11,
@@ -16911,7 +16941,7 @@ window.APP_DATA = {
         "school": "南京医科大学医工导师库",
         "url": "https://bmei.njmu.edu.cn/10269/list.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
@@ -16922,7 +16952,7 @@ window.APP_DATA = {
         "school": "东南大学生物医学工程导师库",
         "url": "https://bme.seu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 4 条候选招生动态",
         "http_status": 200,
         "candidate_count": 4,
@@ -16933,7 +16963,7 @@ window.APP_DATA = {
         "school": "西安交通大学博士生导师",
         "url": "https://www.xjtu.edu.cn/szdw/bssds.htm",
         "status": "error",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "HTTP 404",
         "http_status": 404,
         "candidate_count": 0,
@@ -16944,7 +16974,7 @@ window.APP_DATA = {
         "school": "广西医科大学研究生院",
         "url": "https://yjs.gxmu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 4 条候选招生动态",
         "http_status": 200,
         "candidate_count": 4,
@@ -16955,18 +16985,18 @@ window.APP_DATA = {
         "school": "河北医科大学研究生学院",
         "url": "https://gschool.hebmu.edu.cn/",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 13 条候选招生动态",
         "http_status": 200,
         "candidate_count": 13,
-        "new_count": 0
+        "new_count": 1
       },
       {
         "source_id": "sdfmu_yz",
         "school": "山东第一医科大学",
         "url": "https://yz.sdfmu.edu.cn/bszs1/tzgg.htm",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 9 条候选招生动态",
         "http_status": 200,
         "candidate_count": 9,
@@ -16977,7 +17007,7 @@ window.APP_DATA = {
         "school": "山东第一医科大学附属省立医院",
         "url": "https://www.sph.com.cn/Html/News/Columns/7/1.html",
         "status": "ok",
-        "checked_at": "2026-11-17T17:11:53+08:00",
+        "checked_at": "2026-11-18T16:31:39+08:00",
         "message": "发现 0 条候选招生动态",
         "http_status": 200,
         "candidate_count": 0,
